@@ -78,7 +78,7 @@ export function indexar() {
     (p.materias || []).forEach(m => { if (!materias.find(x => x.s === m.s)) materias.push(m); });
     (p.licoes || []).forEach(l => { if (!lic[l.id]) add(l); });
     for (const [id, v] of Object.entries(p.itens || {})) {
-      resumo[id] = { resumo: v.resumo || '', status: v.status || 'rascunho', pack: p.id };
+      resumo[id] = { resumo: v.resumo || '', status: v.status || 'rascunho', pack: p.id, aula: v.aula || null };
       itens[id] = (v.itens || []);
     }
   }

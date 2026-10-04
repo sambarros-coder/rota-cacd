@@ -29,8 +29,26 @@ with sync_playwright() as p:
         d = [x for x in sch['chals'] if x['ciclo'] == c][0]['data_desafio']
         br = '/'.join(reversed(d.split('-')))
         check(br in pg.inner_text('main'), f'ciclo {c}: desafio em {br}')
-    # lição sem itens
+    # lição com aula e exercícios (ciclo 1)
     pg.goto(URL + '?hoje=2026-11-03#/licao/POR-01-01'); pg.wait_for_selector('h1')
+    t = pg.inner_text('main'); check('Pegadinhas de prova' in t and 'Fontes da aula' in t and 'Começar 12 exercícios' in t, 'POR-01-01 mostra aula, pegadinhas e 12 exercícios')
+    pg.screenshot(path='tools/shots/aula.png', full_page=True)
+    pg.click('[data-go=licao]'); pg.wait_for_selector('.item')
+    for k in range(12):
+        tp = pg.evaluate("document.querySelector('.item [data-act]')?.dataset.act")
+        if tp == 'ce': pg.click('[data-act=ce][data-v="C"]')
+        elif tp == 'mc': pg.click('[data-act=mc][data-k="0"]')
+        else: pg.click('[data-act=virar]'); pg.click('[data-act=auto][data-v="1"]')
+        pg.wait_for_selector('#prox'); nxt()
+    check('Sessão concluída' in pg.inner_text('h1'), 'sessão de 12 exercícios conclui e registra a lição')
+    # todas as 11 lições do ciclo 1 têm conteúdo e abrem sem erro
+    for lid in ['POR-01-02','HMU-01-01','GEO-01-01','POL-01-01','ECO-01-01','ECO-01-02','DIR-01-01','DIR-01-02','ESP-01-01','FRA-01-01']:
+        pg.goto(URL + f'?hoje=2026-11-03#/licao/{lid}'); pg.wait_for_selector('h1')
+        t = pg.inner_text('main'); check('Pegadinhas de prova' in t and 'exercícios' in t, f'{lid} com aula e exercícios')
+        pg.click('[data-go=licao]'); pg.wait_for_selector('.item')
+        n = pg.evaluate("document.querySelector('.meta').innerText"); 
+    # lição sem itens
+    pg.goto(URL + '?hoje=2026-11-03#/licao/POR-01-03'); pg.wait_for_selector('h1')
     check('ainda não foram publicados' in pg.inner_text('main'), 'lição sem itens avisa')
     pg.click('[data-act=feita]'); pg.wait_for_timeout(300)
     check('Concluída' in pg.inner_text('main'), 'marcar lição como estudada')
@@ -57,7 +75,7 @@ with sync_playwright() as p:
     pg.goto(URL + '?hoje=2026-11-03#/erros'); pg.wait_for_selector('h1')
     check('Refazer' in pg.inner_text('main'), 'caderno de erros tem itens')
     pg.goto(URL + '?hoje=2026-11-04#/revisao'); pg.wait_for_selector('h1')
-    check('Ortografia' in pg.inner_text('main'), 'revisão D+1 aparece')
+    check('Ortografia' in pg.inner_text('main') or 'Acordo' in pg.inner_text('main') or 'Grafias' in pg.inner_text('main'), 'revisão D+1 aparece')
     pg.goto(URL + '?hoje=2026-11-06#/'); pg.wait_for_selector('h1')  # sexta
     pg.goto(URL + '?hoje=2026-11-09#/revisao'); pg.wait_for_selector('h1')  # +3 dias de estudo não; checa só render
     # atraso
@@ -67,7 +85,7 @@ with sync_playwright() as p:
     # backup roundtrip
     pg.goto(URL + '#/mais'); pg.wait_for_selector('h1')
     with pg.expect_download() as d: pg.click('[data-act=exportar]')
-    path = d.value.path(); bk = json.load(open(path)); check(bk['app'] == 'rota-cacd' and 'POR-01-01' in bk['progresso']['licoes'], 'backup exporta progresso')
+    path = d.value.path(); bk = json.load(open(path)); check(bk['app'] == 'rota-cacd' and 'POR-01-03' in bk['progresso']['licoes'], 'backup exporta progresso')
     pg.screenshot(path='tools/shots/mais.png', full_page=True)
     # offline
     ctx.set_offline(True); pg.goto(URL + '?hoje=2026-11-03#/'); pg.wait_for_selector('html[data-pronto]', timeout=8000)

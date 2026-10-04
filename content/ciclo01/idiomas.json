@@ -1,0 +1,529 @@
+{
+ "licoes": {
+  "ESP-01-01": {
+   "resumo": "O espanhol tem 27 letras (a ñ entra entre n e o) e ch e ll são hoje dígrafos, não letras. Os sons que mais pegam o falante de português são ñ (nh), j e g antes de e, i (som áspero), z/c (th ou s conforme a região), b e v idênticos e a h muda.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "O alfabeto: 27 letras",
+      "paragrafos": [
+       "O alfabeto (ou abecedário) é a série ordenada de letras usada para escrever uma língua. Segundo a Ortografía de la lengua española (RAE e ASALE, 2010), o espanhol tem 27 letras: a, b, c, d, e, f, g, h, i, j, k, l, m, n, ñ, o, p, q, r, s, t, u, v, w, x, y, z. Em relação às 26 letras do português, a novidade é a ñ, que fica entre a n e a o.",
+       "Atenção: ch e ll já não são letras. Do século XIX até a Ortografía de 2010 elas foram contadas como letras do abecedario; hoje são dígrafos, isto é, duas letras que juntas representam um único som. Também são dígrafos gu e qu (como em guerra e queso) e rr."
+      ]
+     },
+     {
+      "titulo": "Nomes das letras",
+      "paragrafos": [
+       "A RAE recomenda um nome único para cada letra, mas reconhece variantes na América. Os nomes que mais confundem um brasileiro aparecem abaixo."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Letra",
+        "Nome recomendado",
+        "Observação"
+       ],
+       "linhas": [
+        [
+         "b",
+         "be",
+         "na América também be larga, be alta ou be grande"
+        ],
+        [
+         "v",
+         "uve",
+         "na América também ve, ve baja ou ve corta"
+        ],
+        [
+         "w",
+         "uve doble",
+         "na América também doble ve ou doble u"
+        ],
+        [
+         "y",
+         "ye",
+         "o nome tradicional i griega ainda circula"
+        ],
+        [
+         "h",
+         "hache",
+         "muda no espanhol padrão"
+        ],
+        [
+         "j",
+         "jota",
+         "som áspero [x], que a RAE grafa /j/; explicado a seguir"
+        ],
+        [
+         "ñ",
+         "eñe",
+         "plural eñes"
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "Sons que diferem do português",
+      "paragrafos": [
+       "A letra ñ representa uma consoante nasal palatal, que corresponde ao nh do português: niño, español, año. A letra j representa uma consoante velar fricativa surda, áspera, produzida no fundo da boca: mujer, jamón. Em muitos sotaques do Brasil ela lembra o R forte de rato, mas isso varia de região para região.",
+       "O dígrafo ll, na pronúncia da maioria dos falantes (o yeísmo), soa como y: calle, llave. Algumas regiões conservam um som lateral parecido com o lh do português, então não trate o som como erro. O dígrafo ch soa como o ch do inglês church: chico, noche."
+      ]
+     },
+     {
+      "titulo": "g, qu, z, c e h",
+      "paragrafos": [
+       "A letra g soa como /g/ diante de a, o, u (gato, gusto) e como o j diante de e, i (gente, girar). Para escrever /g/ diante de e, i usa-se gu, com u mudo: guerra, guitarra. Se o u deve soar, ele recebe diérese (duas pontinhas): pingüino, desagüe. Em palavras comuns do espanhol, o dígrafo qu aparece só antes de e, i, com u mudo: queso, esquina.",
+       "A letra z, no centro, norte e leste da Espanha, representa o som /θ/, igual ao th de think em inglês: zapato. Na América, no suroeste da Espanha e nas Canárias, z e c antes de e, i soam como s, fenômeno chamado seseo. Em palavras de origem espanhola, escreve-se z antes de a, o, u (plaza, zona) e c antes de e, i (cena, cielo). Há poucas exceções, em geral de origem estrangeira, como zepelín."
+      ]
+     },
+     {
+      "titulo": "b e v, e a h muda",
+      "paragrafos": [
+       "Não existe diferença de pronúncia entre b e v no espanhol: ambas representam o mesmo fonema bilabial /b/. Por isso baca (bagageiro no teto do carro) e vaca (animal) soam igual, e a RAE recomenda não pronunciar o v com os dentes sobre o lábio. Quem fala português precisa treinar para não usar o som de v.",
+       "A letra h não representa som no espanhol padrão: hola, hueso, hielo. Ela se mantém por razões etimológicas e aparece, por exemplo, antes de ditongos como ua, ue, ui, ie (huaca, hueso, huir, hielo). Em alguns empréstimos como hámster e hachís ela pode ser aspirada, e em certas regiões (como a Andaluzia) também."
+      ]
+     },
+     {
+      "titulo": "Acentuação (tilde)",
+      "paragrafos": [
+       "O tilde marca a sílaba tônica e, ao contrário do que acontece em português, não indica vogal aberta ou fechada. Palavras agudas (tônica na última sílaba) levam tilde se terminam em vogal, n ou s: café, balón. Palavras llanas (tônica na penúltima) levam tilde se não terminam em vogal, n ou s: hábil, clímax. Esdrújulas (tônica na antepenúltima) sempre levam: cántaro, mecánica.",
+       "O tilde diacrítico distingue palavras iguais de classes diferentes: tú (pronome) e tu (possessivo); sí (afirmação) e si (conjunção condicional)."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Dizer que ch e ll continuam sendo letras do alfabeto: desde a Ortografía de 2010 são dígrafos, e o alfabeto tem 27 letras.",
+     "Achar que b e v soam diferente: no espanhol padrão são o mesmo fonema.",
+     "Pronunciar o u de guerra, guitarra, queso e esquina: nesses casos o u é mudo. Só soa quando há diérese (pingüino).",
+     "Afirmar que z é sempre /θ/: depende da região, e o seseo é a pronúncia da América.",
+     "Pronunciar a h inicial como no inglês: no espanhol padrão ela é muda.",
+     "Usar o tilde para indicar vogal aberta: ele só marca a sílaba tônica e distingue palavras (tú e tu)."
+    ],
+    "fontes": [
+     "RAE e ASALE, Ortografía de la lengua española (2010); rae.es/ortografía",
+     "RAE, Diccionario panhispánico de dudas: entradas g, q, j, ñ, z, v, h, ll, ch e tilde (rae.es/dpd)",
+     "rae.es/ortografía/los-nombres-de-las-letras e rae.es/ortografía/letras-con-varios-nombres",
+     "rae.es/ortografía/el-seseo-y-el-ceceo e rae.es/ortografía/la-h-muda",
+     "RAE, Diccionario de la lengua española (dle.rae.es): entradas be, uve, ye, eñe"
+    ]
+   },
+   "itens": [
+    {
+     "id": "ESP-01-01#01",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Ortografía de la lengua española (2010), o alfabeto do espanhol tem 27 letras, incluindo a ñ.",
+     "gabarito": "C",
+     "explicacao": "As 27 letras vão de a a z e incluem a ñ, entre n e o.",
+     "fonte": "RAE e ASALE, Ortografía de la lengua española (2010); rae.es/ortografía"
+    },
+    {
+     "id": "ESP-01-01#02",
+     "tipo": "certo_errado",
+     "enunciado": "De acordo com a Ortografía de 2010, ch e ll continuam sendo letras do alfabeto espanhol, ao lado da ñ.",
+     "gabarito": "E",
+     "explicacao": "Elas foram contadas como letras até 2010; hoje são dígrafos, não letras.",
+     "fonte": "RAE, Diccionario panhispánico de dudas (rae.es/dpd), entradas ch e ll"
+    },
+    {
+     "id": "ESP-01-01#03",
+     "tipo": "certo_errado",
+     "enunciado": "No espanhol padrão, as letras b e v representam o mesmo fonema, de modo que baca e vaca soam igual.",
+     "gabarito": "C",
+     "explicacao": "A RAE afirma que não há diferença de pronúncia entre b e v e recomenda não usar o som labiodental.",
+     "fonte": "RAE, Diccionario panhispánico de dudas (rae.es/dpd), entrada v",
+     "fala": {
+      "texto": "vaca",
+      "lang": "es-ES"
+     }
+    },
+    {
+     "id": "ESP-01-01#04",
+     "tipo": "certo_errado",
+     "enunciado": "Em gente, a letra g diante de e representa o mesmo som que a letra j em mujer.",
+     "gabarito": "C",
+     "explicacao": "Diante de e, i, a letra g representa o fonema velar fricativo surdo [x], que a RAE representa como /j/, o mesmo de j.",
+     "fonte": "RAE, Diccionario panhispánico de dudas (rae.es/dpd), entradas g e j",
+     "fala": {
+      "texto": "gente",
+      "lang": "es-ES"
+     }
+    },
+    {
+     "id": "ESP-01-01#05",
+     "tipo": "certo_errado",
+     "enunciado": "Na palavra guerra, o u é pronunciado como vogal separada, formando a sílaba gue com som de /gu/.",
+     "gabarito": "E",
+     "explicacao": "Em gue e gui o u é mudo e o dígrafo gu representa apenas o som /g/.",
+     "fonte": "RAE, Diccionario panhispánico de dudas (rae.es/dpd), entrada g",
+     "fala": {
+      "texto": "guerra",
+      "lang": "es-ES"
+     }
+    },
+    {
+     "id": "ESP-01-01#06",
+     "tipo": "certo_errado",
+     "enunciado": "Em pingüino, a diérese sobre o u indica que essa vogal deve ser pronunciada.",
+     "gabarito": "C",
+     "explicacao": "Quando o u precisa soar entre g e e, i, ele recebe diérese.",
+     "fonte": "RAE, Diccionario panhispánico de dudas (rae.es/dpd), entrada g",
+     "fala": {
+      "texto": "pingüino",
+      "lang": "es-ES"
+     }
+    },
+    {
+     "id": "ESP-01-01#07",
+     "tipo": "certo_errado",
+     "enunciado": "O som de z, e de c diante de e, i, é sempre /θ/, o th de think, em todo o mundo hispânico.",
+     "gabarito": "E",
+     "explicacao": "Isso vale no centro, norte e leste da Espanha. Na América, nas Canárias e no suroeste da Espanha (Andaluzia ocidental) predomina o seseo, com som de s.",
+     "fonte": "RAE, Diccionario panhispánico de dudas (rae.es/dpd), entrada z; rae.es/ortografía/el-seseo-y-el-ceceo"
+    },
+    {
+     "id": "ESP-01-01#08",
+     "tipo": "certo_errado",
+     "enunciado": "No espanhol padrão, a h de hola representa um som aspirado, como o h de house em inglês.",
+     "gabarito": "E",
+     "explicacao": "No espanhol padrão a h não representa fonema. Aspiração existe só em alguns empréstimos e em certas regiões.",
+     "fonte": "RAE, Diccionario panhispánico de dudas (rae.es/dpd), entrada h; rae.es/ortografía/la-h-muda",
+     "fala": {
+      "texto": "hola",
+      "lang": "es-ES"
+     }
+    },
+    {
+     "id": "ESP-01-01#09",
+     "tipo": "associar",
+     "enunciado": "Associe cada letra ao seu nome recomendado pela RAE.",
+     "pares": [
+      [
+       "ñ",
+       "eñe"
+      ],
+      [
+       "h",
+       "hache"
+      ],
+      [
+       "j",
+       "jota"
+      ],
+      [
+       "v",
+       "uve"
+      ],
+      [
+       "y",
+       "ye"
+      ]
+     ],
+     "explicacao": "São os nomes registrados no Diccionario de la lengua española e na Ortografía. A y também é chamada tradicionalmente i griega, mas a recomendação é ye.",
+     "fonte": "dle.rae.es (entradas eñe, uve, ye); rae.es/ortografía/letras-con-varios-nombres"
+    },
+    {
+     "id": "ESP-01-01#10",
+     "tipo": "flashcard",
+     "frente": "Como se escreve e a que som do português corresponde a consoante nasal palatal do espanhol?",
+     "verso": "Escreve-se ñ (eñe), como em niño e año. Corresponde ao nh do português. Surgiu de uma abreviação medieval de nn com um traço ondulado, o tilde.",
+     "explicacao": "A ñ representa o fonema nasal palatal; a origem em nn é descrita pela RAE.",
+     "fonte": "RAE, Diccionario panhispánico de dudas (rae.es/dpd), entrada ñ",
+     "fala": {
+      "texto": "niño",
+      "lang": "es-ES"
+     }
+    },
+    {
+     "id": "ESP-01-01#11",
+     "tipo": "multipla_escolha",
+     "enunciado": "Palavra aguda terminada em n leva tilde segundo as regras gerais. Qual grafia está correta?",
+     "opcoes": [
+      "balon",
+      "balón",
+      "bálon",
+      "balôn"
+     ],
+     "gabarito": 1,
+     "explicacao": "Aguda (tônica na última sílaba) terminada em vogal, n ou s leva tilde, como em café e balón. O circunflexo não existe no espanhol.",
+     "fonte": "RAE, Diccionario panhispánico de dudas (rae.es/dpd), entrada tilde",
+     "fala": {
+      "texto": "balón",
+      "lang": "es-ES"
+     }
+    },
+    {
+     "id": "ESP-01-01#12",
+     "tipo": "lacuna",
+     "enunciado": "A RAE recomenda o nome ___ para a letra y, embora o nome tradicional i griega continue em uso.",
+     "aceitas": [
+      "ye"
+     ],
+     "explicacao": "A Ortografía de 2010 recomenda ye como nome único, por ser simples e dispensar especificador.",
+     "fonte": "rae.es/ortografía/letras-con-varios-nombres; dle.rae.es (entrada ye)"
+    }
+   ]
+  },
+  "FRA-01-01": {
+   "resumo": "O francês usa as mesmas 26 letras do português, mais cinco sinais: agudo, grave, circunflexo, tréma e cédille (ç só antes de a, o, u). Os sons que mais pegam são u [y] contra ou [u], as quatro vogais nasais, o r uvular, o e mudo e as consoantes finais geralmente mudas.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "26 letras e cinco sinais",
+      "paragrafos": [
+       "O alfabeto francês usa as mesmas 26 letras do português, de a a z. Duas ligaduras (letras coladas) fazem parte da escrita tradicional: æ e œ, como em cœur. A novidade para o brasileiro são os sinais ortográficos, que se juntam às letras e têm valor de ortografia: o Dictionnaire de l'Académie cita os acentos, o tréma e a cédille como exemplos.",
+       "São cinco sinais: acento agudo, acento grave, acento circunflexo, trema e cedilha. Veja onde cada um aparece e para que serve."
+      ]
+     },
+     {
+      "titulo": "Os sinais, um a um",
+      "paragrafos": [
+       "Aprenda cada palavra já com o sinal, porque ele faz parte da grafia, e omiti-lo é erro de ortografia. O português também usa agudo, circunflexo e cedilha, mas o francês dá a eles outros papéis. O agudo, por exemplo, não indica sílaba tônica: ele marca a qualidade da vogal e."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Sinal",
+        "Letras",
+        "Função e exemplos"
+       ],
+       "linhas": [
+        [
+         "Aigu (´)",
+         "é",
+         "som de e fechado: été, café. Só aparece sobre o e."
+        ],
+        [
+         "Grave (`)",
+         "à, è, ù",
+         "è tem som de e aberto: père. Em à e ù o acento distingue palavras iguais na fala: a (verbo) e à (preposição), la e là, ou e où."
+        ],
+        [
+         "Circonflexe (^)",
+         "â, ê, î, ô, û",
+         "muitas vezes lembra um s antigo: forêt e forestier, hôpital e hospitalier, château."
+        ],
+        [
+         "Tréma (¨)",
+         "ë, ï, ü",
+         "a vogal é pronunciada separada da vizinha: Noël, naïf."
+        ],
+        [
+         "Cédille (¸)",
+         "ç",
+         "só antes de a, o, u, para soar como s: façade, reçu, garçon."
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "Maiúsculas também levam acento",
+      "paragrafos": [
+       "A Académie française lembra a necessidade de acentuar todas as letras que devem ser acentuadas, inclusive as maiúsculas. O motivo é evitar ambiguidade. Por exemplo, a frase FAUT-IL SUPPRIMER LES RETRAITES ? (suprimir as aposentadorias) difere de FAUT-IL SUPPRIMER LES RETRAITÉS ? (suprimir os aposentados). Em prova, não aceite a ideia de que maiúscula dispensa acento."
+      ]
+     },
+     {
+      "titulo": "u, ou e as vogais nasais",
+      "paragrafos": [
+       "A letra u soa como [y], vogal anterior arredondada: língua na posição do i, lábios arredondados, como em bulle e tu. O dígrafo ou soa como [u], vogal posterior, parecida com o u do português: joue, tout. São sons diferentes, e trocá-los muda a palavra (tu e tout, rue e roue). Treine os pares dizendo em voz alta e conferindo a escrita.",
+       "O francês tem quatro vogais nasais: [ɑ̃] (an, en: banc), [ɛ̃] (in, ain, ein: fin), [ɔ̃] (on: bon) e [œ̃] (un: brun). Em muitos falantes [œ̃] se confunde com [ɛ̃]. Nas nasais, o n ou m não soa como consoante separada: ele só indica a nasalização da vogal. O português também tem vogais nasais (bom, lã), mas os timbres franceses são próprios, então ouça o modelo."
+      ]
+     },
+     {
+      "titulo": "r, e mudo e consoantes finais",
+      "paragrafos": [
+       "O r francês, na pronúncia mais comum hoje, é uma fricativa uvular: o ar passa perto da úvula, no fundo da garganta. Exemplos: rouge, Paris. Em vários sotaques do Brasil o R inicial de rato é parecido, mas varia por região.",
+       "O e mudo (também chamado e caduc) é uma vogal centralizada [ə], em geral não pronunciada no fim da palavra: tarte, pomme. Ele soa quando evita três consoantes juntas ou quando distingue palavras, como em pelage e plage. As consoantes finais costumam ser mudas, salvo na liaison (ligação): deux soa [dø], mas deux ans soa [dø.zɑ̃]. A letra h inicial é sempre muda."
+      ]
+     },
+     {
+      "titulo": "Dígrafos úteis",
+      "paragrafos": [
+       "Dígrafos são combinações de letras que representam um único som. Reconhecê-los ajuda a ler palavras novas sem depender do português, porque a mesma sequência pode soar diferente: o ch de chat lembra o português, e o gn de montagne equivale ao nh. Lembre também que a h inicial nunca soa, embora possa impedir a liaison."
+      ],
+      "lista": [
+       "ch soa como o ch do português em chá: chat. Em palavras de origem grega pode soar como k.",
+       "gn soa como o nh do português: montagne.",
+       "qu soa como k: qui, quatre.",
+       "oi soa como [wa]: moi, voix.",
+       "eau soa como [o]: eau, beau."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Colocar cédille antes de e ou i: o ç só aparece diante de a, o, u.",
+     "Achar que o acento agudo aparece em outras letras além do e.",
+     "Ler o u francês como o ou: u é [y] e ou é [u].",
+     "Pronunciar o n de bon, fin, banc como consoante: ele nasaliza a vogal.",
+     "Pronunciar toda consoante final: elas são em geral mudas, salvo na liaison.",
+     "Omitir o acento nas maiúsculas: a Académie recomenda acentuá-las."
+    ],
+    "fontes": [
+     "Office québécois de la langue française, Banque de dépannage linguistique (vitrinelinguistique.oqlf.gouv.qc.ca), seção Accents, tréma et cédille (acentos agudo e grave, cédille e tréma, circunflexo em famílias de palavras)",
+     "Académie française, Dire, ne pas dire (dictionnaire-academie.fr/article/DNP0968)",
+     "Dictionnaire de l'Académie française, verbete orthographique (dictionnaire-academie.fr/article/A9O0811)",
+     "OQLF, Prononciation du e muet (vitrinelinguistique.oqlf.gouv.qc.ca)",
+     "Projet PFC, Le français expliqué: prononciation, système vocalique (projet-pfc.net)",
+     "University of Texas at Austin, French Interactive: voyelles nasales (laits.utexas.edu/fi)",
+     "Referência de apoio (fonte secundária): Wikipedia, French orthography e French phonology"
+    ]
+   },
+   "itens": [
+    {
+     "id": "FRA-01-01#01",
+     "tipo": "certo_errado",
+     "enunciado": "O alfabeto francês tem as mesmas 26 letras do alfabeto latino usado em português, e os acentos são sinais que se juntam a elas.",
+     "gabarito": "C",
+     "explicacao": "As letras base são 26. Acentos, tréma e cédille são sinais ortográficos adicionados às letras.",
+     "fonte": "Dictionnaire de l'Académie française, verbete orthographique; Wikipedia, French orthography (apoio)"
+    },
+    {
+     "id": "FRA-01-01#02",
+     "tipo": "certo_errado",
+     "enunciado": "Em français, a cédille pode aparecer antes de qualquer vogal, como em ç diante de e e de i.",
+     "gabarito": "E",
+     "explicacao": "A cédille só aparece sob o c diante de a, o, u (façade, garçon, reçu).",
+     "fonte": "Office québécois de la langue française, Banque de dépannage linguistique (vitrinelinguistique.oqlf.gouv.qc.ca), seção Accents, tréma et cédille, cédille et tréma",
+     "fala": {
+      "texto": "garçon",
+      "lang": "fr-FR"
+     }
+    },
+    {
+     "id": "FRA-01-01#03",
+     "tipo": "certo_errado",
+     "enunciado": "O acento agudo do francês só aparece sobre a letra e, como em été e café.",
+     "gabarito": "C",
+     "explicacao": "O agudo marca o e fechado e só ocorre sobre o e. O grave aparece em à, è, ù.",
+     "fonte": "Office québécois de la langue française, Banque de dépannage linguistique (vitrinelinguistique.oqlf.gouv.qc.ca), seção Accents, tréma et cédille, accent aigu et accent grave",
+     "fala": {
+      "texto": "été",
+      "lang": "fr-FR"
+     }
+    },
+    {
+     "id": "FRA-01-01#04",
+     "tipo": "certo_errado",
+     "enunciado": "Em où, o acento grave serve para distinguir a palavra de lugar 'onde' (advérbio ou pronome relativo) da conjunção ou.",
+     "gabarito": "C",
+     "explicacao": "O acento grave de à, là e où tem função distintiva: a e à, la e là, ou e où.",
+     "fonte": "Office québécois de la langue française, Banque de dépannage linguistique (vitrinelinguistique.oqlf.gouv.qc.ca), seção Accents, tréma et cédille, accent aigu et accent grave",
+     "fala": {
+      "texto": "où",
+      "lang": "fr-FR"
+     }
+    },
+    {
+     "id": "FRA-01-01#05",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Académie française, as letras maiúsculas não devem receber acento.",
+     "gabarito": "E",
+     "explicacao": "A Académie lembra a necessidade de acentuar todas as letras que devem ser acentuadas, inclusive as maiúsculas, e dá o exemplo RETRAITES e RETRAITÉS.",
+     "fonte": "Académie française, Dire, ne pas dire (dictionnaire-academie.fr/article/DNP0968)"
+    },
+    {
+     "id": "FRA-01-01#06",
+     "tipo": "certo_errado",
+     "enunciado": "Na palavra bon, o n final é pronunciado como consoante separada, depois da vogal o.",
+     "gabarito": "E",
+     "explicacao": "Em on, an, in e un a letra n indica a nasalização da vogal, sem soar como consoante separada.",
+     "fonte": "laits.utexas.edu/fi/html/pho/10.html; projet-pfc.net (système vocalique)",
+     "fala": {
+      "texto": "bon",
+      "lang": "fr-FR"
+     }
+    },
+    {
+     "id": "FRA-01-01#07",
+     "tipo": "certo_errado",
+     "enunciado": "O u de bulle e o ou de joue representam sons diferentes: [y] e [u].",
+     "gabarito": "C",
+     "explicacao": "A letra u soa [y], vogal anterior arredondada. O dígrafo ou soa [u], vogal posterior.",
+     "fonte": "projet-pfc.net (système vocalique); Wikipedia, French orthography (apoio)",
+     "fala": {
+      "texto": "bulle",
+      "lang": "fr-FR"
+     }
+    },
+    {
+     "id": "FRA-01-01#08",
+     "tipo": "certo_errado",
+     "enunciado": "Em forêt, o acento circunflexo lembra o s presente em forestier, palavra da mesma família.",
+     "gabarito": "C",
+     "explicacao": "A presença do s no adjetivo forestier indica que o substantivo forêt leva circunflexo.",
+     "fonte": "OQLF, Alternance entre l'accent circonflexe et le s dans des mots de même famille",
+     "fala": {
+      "texto": "forêt",
+      "lang": "fr-FR"
+     }
+    },
+    {
+     "id": "FRA-01-01#09",
+     "tipo": "certo_errado",
+     "enunciado": "No fim de tarte, o e final é sempre pronunciado como vogal [ə].",
+     "gabarito": "E",
+     "explicacao": "O e mudo geralmente não se pronuncia no fim da palavra. Ele só soa em contextos específicos, como quando evita três consoantes seguidas.",
+     "fonte": "OQLF, Prononciation du e muet",
+     "fala": {
+      "texto": "tarte",
+      "lang": "fr-FR"
+     }
+    },
+    {
+     "id": "FRA-01-01#10",
+     "tipo": "associar",
+     "enunciado": "Associe cada letra com sinal a uma palavra francesa que a contém.",
+     "pares": [
+      [
+       "é",
+       "été"
+      ],
+      [
+       "è",
+       "père"
+      ],
+      [
+       "ç",
+       "garçon"
+      ],
+      [
+       "ï",
+       "naïf"
+      ],
+      [
+       "ê",
+       "forêt"
+      ]
+     ],
+     "explicacao": "Todas as palavras são exemplos dados pelas fontes consultadas (OQLF e Académie) ou formas ortográficas padrão.",
+     "fonte": "Office québécois de la langue française, Banque de dépannage linguistique (vitrinelinguistique.oqlf.gouv.qc.ca), seção Accents, tréma et cédille",
+     "fala": {
+      "texto": "naïf",
+      "lang": "fr-FR"
+     }
+    },
+    {
+     "id": "FRA-01-01#11",
+     "tipo": "flashcard",
+     "frente": "Quais são as quatro vogais nasais do francês e como se escrevem?",
+     "verso": "[ɑ̃] an, en (banc); [ɛ̃] in, ain, ein (fin); [ɔ̃] on (bon); [œ̃] un (brun). Em muitos falantes [œ̃] se confunde com [ɛ̃].",
+     "explicacao": "Lista conforme o projeto PFC e a University of Texas (French Interactive).",
+     "fonte": "projet-pfc.net (système vocalique); laits.utexas.edu/fi/html/pho/10.html",
+     "fala": {
+      "texto": "banc fin bon brun",
+      "lang": "fr-FR"
+     }
+    },
+    {
+     "id": "FRA-01-01#12",
+     "tipo": "lacuna",
+     "enunciado": "O tréma indica que a vogal é pronunciada separada da vizinha, como na palavra ___ (adjetivo que significa 'ingênuo', escrito com ï), que tem duas sílabas.",
+     "aceitas": [
+      "naïf"
+     ],
+     "explicacao": "A OQLF dá naïf e Noël como exemplos de palavras de duas sílabas por causa do tréma. Aqui o enunciado indica ï, então a resposta é naïf.",
+     "fonte": "Office québécois de la langue française, Banque de dépannage linguistique: Tréma sur les voyelles i, u et e (vitrinelinguistique.oqlf.gouv.qc.ca/23713/lorthographe/accents-trema-et-cedille/cedille-et-trema/trema-sur-les-voyelles-i-u-et-e)"
+    }
+   ]
+  }
+ }
+}

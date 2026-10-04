@@ -21,6 +21,10 @@ for e in man['pacotes']:
     for lid, v in (p.get('itens') or {}).items():
         need(lid in lic, f"itens para lição inexistente {lid}")
         need(v.get('status') in ('rascunho', 'verificado'), f"status inválido em {lid}")
+        if 'aula' in v:
+            a = v['aula']; w = sum(len(' '.join(x.get('paragrafos', []) + x.get('lista', [])).split()) for x in a['secoes'])
+            need(450 <= w <= 1100, f'tamanho da aula {lid}: {w} palavras'); need(bool(a.get('fontes')), f'aula sem fontes {lid}')
+            need(8 <= len(v['itens']) <= 12, f'nº de itens em {lid}')
         for it in v['itens']:
             need(it['id'] not in itens_ids, f"item repetido {it['id']}"); itens_ids.add(it['id'])
             need(it['tipo'] in TIPOS, f"tipo desconhecido {it['id']}")

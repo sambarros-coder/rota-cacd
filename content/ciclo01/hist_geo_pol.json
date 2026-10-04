@@ -1,0 +1,520 @@
+{
+ "licoes": {
+  "HMU-01-01": {
+   "resumo": "A Primeira Revolução Industrial britânica trocou a manufatura doméstica pela fábrica, com algodão, carvão, ferro e vapor. Máquinas de fiar e tecer, a máquina a vapor e a ferrovia mudaram a técnica e o trabalho, e levaram a leis fabris como a de 1833.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "O que foi a Primeira Revolução Industrial",
+      "paragrafos": [
+       "A Revolução Industrial é o processo de passagem de uma economia agrária e artesanal para uma economia dominada pela indústria e pela produção com máquinas. Começou na Grã-Bretanha, no século XVIII, e depois se espalhou por outras regiões.",
+       "Chamamos de Primeira Revolução Industrial a fase ligada ao algodão, ao carvão, ao ferro e à máquina a vapor. Eric Hobsbawm, em A Era das Revoluções, situa a “decolagem” industrial britânica na década de 1780 e a considera provavelmente o evento mais importante da história mundial desde a invenção da agricultura e das cidades."
+      ]
+     },
+     {
+      "titulo": "Antes da fábrica: o sistema doméstico",
+      "paragrafos": [
+       "Antes da fábrica, boa parte dos bens era produzida no chamado sistema doméstico: o trabalhador fazia as mercadorias em casa ou em uma pequena oficina, com ferramentas simples e ritmo próprio. Um comerciante costumava fornecer a matéria-prima e recolher o produto.",
+       "A fábrica rompeu com isso. O sistema fabril concentra a produção em estabelecimentos especializados, em geral grandes, com máquinas, supervisão e horário de trabalho definido. A passagem da manufatura (produção manual, com ferramentas) para a fábrica (produção com máquinas em um mesmo local) é o fio condutor desta lição."
+      ]
+     },
+     {
+      "titulo": "Têxtil: da roca à fábrica",
+      "paragrafos": [
+       "O algodão foi o setor líder. Segundo a leitura de Hobsbawm, os mercados externos, em especial os coloniais, e a força comercial britânica puxaram a expansão da indústria algodoeira. As inovações se alternaram entre tecelagem e fiação, porque cada avanço em uma etapa criava um gargalo na outra.",
+       "Em 1733, John Kay patenteou a lançadeira volante (flying shuttle), que permitia a um só tecelão fazer tecidos largos com mais rapidez. Isso aumentou a demanda por fio. A resposta veio com a fiação mecânica."
+      ],
+      "lista": [
+       "Spinning jenny: patenteada por James Hargreaves em 1770, máquina de vários fusos movida à mão, que permitia fiar vários fios ao mesmo tempo.",
+       "Water frame: patenteada por Richard Arkwright em 1769, assim chamada porque funcionava com força hidráulica, produzia fio resistente, próprio para urdidura.",
+       "Spinning mule: criada por Samuel Crompton em 1779, descrita como um cruzamento entre as máquinas de Arkwright e de Hargreaves; Crompton não patenteou a invenção.",
+       "Tear mecânico (power loom): Edmund Cartwright patenteou um primeiro modelo em 1785, ainda inadequado; melhorias posteriores, sobretudo com o vapor, o tornaram prático."
+      ]
+     },
+     {
+      "titulo": "Carvão, ferro e vapor",
+      "paragrafos": [
+       "Em 1709, Abraham Darby I produziu ferro vendável usando coque (carvão mineral tratado) como combustível em Coalbrookdale, na Inglaterra. O coque permitiu fornos maiores e baratos, algo decisivo para a indústria do ferro.",
+       "A máquina a vapor nasceu de uma necessidade prática: tirar água das minas. Em 1712, Thomas Newcomen instalou perto de Dudley Castle, em Staffordshire, a primeira máquina registrada para drenagem de minas. Era eficiente apenas em parte, e queimava muito carvão.",
+       "James Watt obteve em 5 de janeiro de 1769 a patente de um método para reduzir o consumo de vapor e de combustível nas máquinas a fogo, baseado no condensador separado. Depois, a máquina rotativa passou a mover maquinário de fábricas. Atenção: Watt aperfeiçoou a máquina a vapor, não a inventou."
+      ]
+     },
+     {
+      "titulo": "Transportes: a ferrovia",
+      "paragrafos": [
+       "O vapor também foi aplicado ao transporte. Em 1829, a locomotiva Rocket, de George e Robert Stephenson, venceu o concurso de Rainhill, realizado para escolher a locomotiva da futura linha entre Liverpool e Manchester.",
+       "A Liverpool and Manchester Railway foi inaugurada em 15 de setembro de 1830. É apontada como a primeira ferrovia interurbana moderna de passageiros, a depender exclusivamente do vapor e a ter serviço regular de passageiros. Na inauguração, o parlamentar William Huskisson foi atropelado e morreu."
+      ]
+     },
+     {
+      "titulo": "Consequências sociais",
+      "paragrafos": [
+       "A fábrica mudou a vida do trabalhador: horários fixos, ritmo ditado pela máquina, trabalho de mulheres e crianças em larga escala e crescimento de cidades industriais. Esses abusos foram expostos em comitês parlamentares e geraram leis.",
+       "Segundo a Britannica, o Factory Act de 1833 proibiu o trabalho de menores de 9 anos nas fábricas têxteis em geral, limitou a jornada (12 horas entre 13 e 17 anos, 8 horas entre 9 e 12 anos), exigiu 2 horas diárias de escola para crianças e criou uma inspetoria de quatro membros. Leis anteriores, de 1802 e 1819, tinham sido pouco eficazes por falta de fiscalização.",
+       "Para a prova, guarde a lógica: nova técnica, nova organização do trabalho (fábrica), novos conflitos sociais e nova legislação."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Watt não inventou a máquina a vapor: aperfeiçoou a de Newcomen (1712) com o condensador separado, patenteado em 1769.",
+     "A spinning jenny (fiação, 1770) não é o tear mecânico (tecelagem, Cartwright, 1785); a banca costuma trocar a função de cada máquina.",
+     "A water frame recebe esse nome por usar força hidráulica, não vapor.",
+     "O Factory Act de 1833 não foi a primeira lei fabril: um dos pontos que o distinguem é a inspetoria para fazer cumprir a regra.",
+     "Manufatura e fábrica não são sinônimos: na fábrica há máquinas, concentração dos trabalhadores e disciplina de horário.",
+     "Cuidado com datas de patente e datas de invenção: patente (1769, 1770) não é necessariamente o ano em que a máquina foi concebida."
+    ],
+    "fontes": [
+     "Eric Hobsbawm, A Era das Revoluções (1789-1848), capítulo sobre a Revolução Industrial (capítulo 2, obra de referência da lição; passagens conferidas em trecho acessível online)",
+     "Encyclopaedia Britannica: Industrial Revolution; Spinning jenny; Power loom; Richard Arkwright; Samuel Crompton; Abraham Darby I; Thomas Newcomen; Factory system; Factory Act; John Kay (https://www.britannica.com)",
+     "Science Museum Group, James Watt and the separate condenser (https://blog.sciencemuseum.org.uk/james-watt-and-the-separate-condenser)",
+     "The Gazette, The opening of the Liverpool and Manchester Railway, 1830 (https://thegazette.co.uk/all-notices/content/100741)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "HMU-01-01#01",
+     "tipo": "certo_errado",
+     "enunciado": "A spinning jenny, patenteada por James Hargreaves em 1770, era uma máquina de vários fusos que permitia a um operário fiar vários fios ao mesmo tempo.",
+     "gabarito": "C",
+     "explicacao": "A Britannica descreve a jenny como máquina de múltiplos fusos para fiar lã ou algodão, patenteada em 1770.",
+     "fonte": "Encyclopaedia Britannica, verbete Spinning jenny"
+    },
+    {
+     "id": "HMU-01-01#02",
+     "tipo": "certo_errado",
+     "enunciado": "A lançadeira volante, de John Kay, patenteada em 1733, mecanizou a fiação e dispensou a necessidade de tecelões.",
+     "gabarito": "E",
+     "explicacao": "A lançadeira volante acelerou a tecelagem, não a fiação, e não eliminou os tecelões: permitiu a um só tecelão fazer tecidos largos. Ao acelerar a tecelagem, aumentou a demanda por fio.",
+     "fonte": "Encyclopaedia Britannica, verbetes John Kay e Power loom"
+    },
+    {
+     "id": "HMU-01-01#03",
+     "tipo": "certo_errado",
+     "enunciado": "James Watt inventou a máquina a vapor, que antes de seu condensador separado, patenteado em 1769, não existia em nenhuma forma prática.",
+     "gabarito": "E",
+     "explicacao": "Antes de Watt já havia a máquina de Newcomen, instalada em 1712 para drenar minas. Watt a aperfeiçoou com o condensador separado, o que reduziu o consumo de combustível.",
+     "fonte": "Science Museum Group, James Watt and the separate condenser; Britannica, verbete Thomas Newcomen"
+    },
+    {
+     "id": "HMU-01-01#04",
+     "tipo": "certo_errado",
+     "enunciado": "Em 1709, Abraham Darby I produziu ferro vendável usando coque como combustível em Coalbrookdale, o que permitiu fornos maiores.",
+     "gabarito": "C",
+     "explicacao": "A Britannica registra o feito de Darby em 1709 e a vantagem do coque sobre o carvão vegetal em custo e eficiência, com fornos maiores.",
+     "fonte": "Encyclopaedia Britannica, verbete Abraham Darby I"
+    },
+    {
+     "id": "HMU-01-01#05",
+     "tipo": "certo_errado",
+     "enunciado": "O Factory Act de 1833 criou uma inspetoria de quatro membros encarregada de fiscalizar o cumprimento da lei.",
+     "gabarito": "C",
+     "explicacao": "O ato de 1833 estabeleceu uma inspetoria de quatro membros, com poder de fiscalizar e aplicar penalidades. As leis anteriores, de 1802 e 1819, foram pouco eficazes por falta de fiscalização.",
+     "fonte": "Encyclopaedia Britannica, verbete Factory Act; Parlamento do Reino Unido (parliament.uk), Factory Acts"
+    },
+    {
+     "id": "HMU-01-01#06",
+     "tipo": "certo_errado",
+     "enunciado": "O Factory Act de 1833 permitiu o trabalho em fábricas têxteis a partir dos 6 anos, desde que a jornada não passasse de 12 horas.",
+     "gabarito": "E",
+     "explicacao": "A lei proibiu o trabalho de menores de 9 anos em fábricas têxteis e limitou a jornada a 8 horas para os de 9 a 12 anos; as 12 horas valiam para os de 13 a 17.",
+     "fonte": "Encyclopaedia Britannica, verbete Factory Act"
+    },
+    {
+     "id": "HMU-01-01#07",
+     "tipo": "certo_errado",
+     "enunciado": "Para Hobsbawm, a indústria algodoeira foi central na decolagem industrial britânica, e os mercados externos, em especial os coloniais, foram importantes para sua expansão.",
+     "gabarito": "C",
+     "explicacao": "Em A Era das Revoluções, o algodão é apresentado como setor líder, impulsionado por mercados coloniais e pelo poder comercial britânico.",
+     "fonte": "Eric Hobsbawm, A Era das Revoluções (capítulo sobre a Revolução Industrial)"
+    },
+    {
+     "id": "HMU-01-01#08",
+     "tipo": "certo_errado",
+     "enunciado": "Hobsbawm situa a decolagem da Revolução Industrial britânica na década de 1830, com a expansão das ferrovias.",
+     "gabarito": "E",
+     "explicacao": "Hobsbawm aponta a década de 1780 como momento da decolagem, ligada sobretudo ao algodão; as ferrovias são fase posterior.",
+     "fonte": "Eric Hobsbawm, A Era das Revoluções (capítulo sobre a Revolução Industrial)"
+    },
+    {
+     "id": "HMU-01-01#09",
+     "tipo": "flashcard",
+     "frente": "Sistema doméstico versus sistema fabril",
+     "verso": "No doméstico, o trabalhador produz em casa ou em pequena oficina. No fabril, a produção é concentrada em estabelecimentos especializados, em geral grandes, com máquinas e horário definido.",
+     "explicacao": "No doméstico, o trabalhador produz em casa ou em pequena oficina. No fabril, a produção é concentrada em estabelecimentos especializados, em geral grandes, com máquinas e horário definido.",
+     "fonte": "Encyclopaedia Britannica, verbete Factory system"
+    },
+    {
+     "id": "HMU-01-01#10",
+     "tipo": "flashcard",
+     "frente": "Quem criou a spinning mule, em que ano, e por que o nome?",
+     "verso": "Samuel Crompton, em 1779. O nome vem de ser um cruzamento entre as máquinas de Arkwright (water frame) e de Hargreaves (jenny).",
+     "explicacao": "Samuel Crompton, em 1779. O nome vem de ser um cruzamento entre as máquinas de Arkwright (water frame) e de Hargreaves (jenny).",
+     "fonte": "Encyclopaedia Britannica, verbete Samuel Crompton"
+    },
+    {
+     "id": "HMU-01-01#11",
+     "tipo": "ordenar",
+     "enunciado": "Ordene cronologicamente, do mais antigo ao mais recente.",
+     "ordem": [
+      "1709: Darby produz ferro com coque em Coalbrookdale",
+      "1712: máquina de Newcomen instalada perto de Dudley Castle",
+      "1733: patente da lançadeira volante de Kay",
+      "1770: patente da spinning jenny de Hargreaves",
+      "1779: spinning mule de Crompton",
+      "1785: patente do tear mecânico de Cartwright",
+      "1830: inauguração da Liverpool and Manchester Railway"
+     ],
+     "explicacao": "Datas conferidas na Britannica e em fontes do Science Museum Group e do The Gazette.",
+     "fonte": "Encyclopaedia Britannica (verbetes de Darby, Newcomen, Kay, Spinning jenny, Crompton, Power loom); The Gazette, 1830"
+    },
+    {
+     "id": "HMU-01-01#12",
+     "tipo": "ordenar",
+     "enunciado": "Ordene a sequência causal descrita pela Britannica para a mecanização da indústria têxtil, da primeira à última etapa.",
+     "ordem": [
+      "Lançadeira volante acelera a tecelagem (1733)",
+      "Surge escassez de fio",
+      "Máquinas de fiar mecanizam a fiação (jenny, water frame, mule)",
+      "Tear mecânico mecaniza a tecelagem (Cartwright, 1785)"
+     ],
+     "explicacao": "A Britannica indica que a lançadeira volante acelerou a tecelagem e criou demanda por fio; a fiação mecânica respondeu; depois veio o tear mecânico.",
+     "fonte": "Encyclopaedia Britannica, verbetes Power loom e John Kay"
+    }
+   ]
+  },
+  "GEO-01-01": {
+   "resumo": "A expansão colonial exigiu e produziu saber geográfico: cartas, mapas, atlas e instituições como a Casa de Contratación. Tordesillas (1494) dividiu terras entre Espanha e Portugal, e mapas como o de Waldseemüller e a projeção de Mercator mostram a ligação entre navegação, poder e representação do mundo.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "Por que a expansão exigia conhecimento geográfico",
+      "paragrafos": [
+       "A expansão marítima europeia dos séculos XV e XVI dependia de informação: onde fica a costa, como voltar, que correntes e ventos usar. Geografia, aqui, é o conjunto de saberes sobre o espaço terrestre, produzidos para orientar navegação, ocupação e controle.",
+       "O saber geográfico colonial nasceu ligado ao poder. Cartas, mapas, relatos e roteiros eram registrados pelas coroas para saber o que havia nas terras novas, como chegar a elas e como explorá-las. Quem controlava a informação controlava a rota.",
+       "Um exemplo simples: um piloto que sai de Lisboa ou de Sevilha precisa de uma carta que mostre a costa, de um instrumento para estimar a posição e de um registro das viagens anteriores. Cada viagem bem-sucedida melhorava a carta seguinte, e cada erro também ficava registrado."
+      ]
+     },
+     {
+      "titulo": "Cartografia, navegação e a orientação no mar",
+      "paragrafos": [
+       "Cartografia é a técnica de representar a superfície terrestre em mapas e cartas. No mar, o navegador precisava saber onde estava. A latitude (distância angular ao Equador) podia ser estimada observando a altura do Sol ou de uma estrela com instrumentos como o astrolábio. A longitude (distância angular a leste ou oeste de um meridiano de referência) foi, por muito tempo, bem mais difícil de determinar com precisão.",
+       "Por isso as cartas náuticas registravam rumos e distâncias, e os mapas eram constantemente corrigidos com informações trazidas pelos pilotos.",
+       "A cartografia da época mistura observação direta, relatos de viajantes e herança de mapas antigos. Isso explica por que os mapas do século XVI combinam regiões bem conhecidas, como trechos da costa, com áreas vagas, desenhadas com base em informações incompletas."
+      ]
+     },
+     {
+      "titulo": "Instituições que organizavam o saber",
+      "paragrafos": [
+       "A Coroa espanhola criou em 1503, em Sevilha, a Casa de Contratación, que cuidava do comércio com as colônias e também de navegação e cartografia. Mantinha o Padrón Real, mapa-mestre atualizado com as novas informações, e escolas de navegação, e seus documentos hoje integram o Archivo General de Indias, criado em 1785 e ainda hoje fonte importante de documentos coloniais.",
+       "O exemplo mostra uma ideia central: o conhecimento geográfico foi organizado por instituições do Estado, a serviço da expansão e do comércio. Não era apenas curiosidade científica."
+      ]
+     },
+     {
+      "titulo": "Tordesillas e a divisão do mundo",
+      "paragrafos": [
+       "Em 7 de junho de 1494, Espanha e Portugal assinaram o Tratado de Tordesillas, que estabeleceu uma linha de demarcação para dividir as terras descobertas fora da Europa: as terras a oeste da linha ficariam com a Espanha e as a leste, com Portugal. O tratado revisou uma decisão anterior do papa Alexandre VI, de 1493.",
+       "O Brasil insere-se nesse contexto. A chegada da expedição de Cabral, em 1500, e a carta de Pero Vaz de Caminha ao rei registraram a nova terra para a Coroa portuguesa. A carta é um bom exemplo de descrição geográfica produzida a serviço do poder colonial.",
+       "Repare na lógica: um tratado entre duas coroas dependia de uma linha traçada no mapa. A geografia, portanto, não só descrevia o mundo, mas também servia de base jurídica e política para dividi-lo entre as potências."
+      ]
+     },
+     {
+      "titulo": "Mapas que mudam a imagem do mundo",
+      "paragrafos": [
+       "O mapa de Martin Waldseemüller, de cerca de 1507, é conhecido como o primeiro a usar o nome “América”, em homenagem ao navegador Américo Vespúcio, e combinou fontes antigas baseadas em Ptolomeu com informações de exploradores como Colombo e Vespúcio. Há um único exemplar conhecido do mapa de 1507, redescoberto em 1901 em um castelo alemão e hoje na Biblioteca do Congresso dos Estados Unidos, que o adquiriu entre 2001 e 2003.",
+       "Em 1569, Gerardus Mercator desenvolveu a projeção que leva seu nome, pensada para a navegação: nela, rumos constantes aparecem como linhas retas. Em contrapartida, a projeção distorce as áreas, e a distorção cresce com a latitude.",
+       "Em 1570, Abraham Ortelius publicou o Theatrum Orbis Terrarum, considerado o primeiro atlas moderno, com 70 mapas em estilo uniforme."
+      ]
+     },
+     {
+      "titulo": "Saber, poder e leitura crítica",
+      "paragrafos": [
+       "O mapa não é uma cópia neutra do espaço: ele seleciona, simplifica e escolhe um ponto de vista. Mapas coloniais mostravam o que interessava às coroas, como rotas, portos e riquezas, e frequentemente ignoravam o conhecimento dos povos que já viviam nas terras representadas.",
+       "Na prova, a ideia útil é o vínculo entre expansão colonial e produção de saber geográfico: novas terras geraram novos dados, e estes foram usados para navegar, dividir, ocupar e explorar.",
+       "Exemplo: um mapa que destaca portos e rotas comerciais, mas deixa em branco territórios habitados, transmite a ideia de espaço vazio e disponível. Reconhecer essa escolha é parte da leitura crítica de fontes cartográficas."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Tordesillas é de 1494 e é um tratado entre Espanha e Portugal; a decisão papal de Alexandre VI é de 1493 e é anterior.",
+     "A Casa de Contratación era espanhola (Sevilha, 1503), não portuguesa.",
+     "O nome “América” vem de Américo Vespúcio, não de Colombo, e aparece no mapa de Waldseemüller de cerca de 1507.",
+     "A projeção de Mercator foi feita para navegação (rumos como retas), não para comparar áreas: ela distorce áreas em latitudes altas.",
+     "Latitude e longitude não são igualmente fáceis de medir no mar; a longitude era bem mais difícil de determinar com precisão.",
+     "Não confunda mapa-múndi isolado com atlas: o atlas é uma coletânea de mapas, e o de Ortelius (1570) é tido como o primeiro moderno."
+    ],
+    "fontes": [
+     "Encyclopaedia Britannica: Treaty of Tordesillas; Gerardus Mercator; Casa de Contratación; Abraham Ortelius (https://www.britannica.com)",
+     "Library of Congress, nota de imprensa sobre o mapa de Waldseemüller (https://www.loc.gov/item/prn-03-110/) e coleção Waldseemüller (https://www.loc.gov/collections/waldseemuller-map-of-1507/)",
+     "Encyclopaedia Britannica, verbetes Astrolabe e Longitude (conceitos de latitude, longitude e uso náutico do astrolábio; sem data específica afirmada)."
+    ]
+   },
+   "itens": [
+    {
+     "id": "GEO-01-01#01",
+     "tipo": "certo_errado",
+     "enunciado": "O Tratado de Tordesillas foi firmado em 1494 entre Espanha e Portugal e estabeleceu uma linha de demarcação, com as terras a oeste para a Espanha e as a leste para Portugal.",
+     "gabarito": "C",
+     "explicacao": "A Britannica registra o tratado de 7 de junho de 1494 e a regra de divisão a oeste e a leste da linha.",
+     "fonte": "Encyclopaedia Britannica, verbete Treaty of Tordesillas"
+    },
+    {
+     "id": "GEO-01-01#02",
+     "tipo": "certo_errado",
+     "enunciado": "O Tratado de Tordesillas foi firmado em 1493 entre Portugal e a Santa Sé, e deu a Portugal todas as terras descobertas fora da Europa.",
+     "gabarito": "E",
+     "explicacao": "O tratado é de 1494 e foi entre Espanha e Portugal. A decisão papal de Alexandre VI, de 1493, é anterior e foi revista pelo tratado.",
+     "fonte": "Encyclopaedia Britannica, verbete Treaty of Tordesillas"
+    },
+    {
+     "id": "GEO-01-01#03",
+     "tipo": "certo_errado",
+     "enunciado": "A Casa de Contratación, criada em 1503 em Sevilha, cuidava do comércio colonial espanhol e também de navegação e cartografia, mantendo o Padrón Real.",
+     "gabarito": "C",
+     "explicacao": "A Britannica registra a fundação em 1503, em Sevilha, e as funções de navegação, cartografia e o Padrón Real.",
+     "fonte": "Encyclopaedia Britannica, verbete Casa de Contratación"
+    },
+    {
+     "id": "GEO-01-01#04",
+     "tipo": "certo_errado",
+     "enunciado": "A Casa de Contratación foi uma instituição da Coroa portuguesa, criada em Lisboa, para organizar o comércio com a Índia.",
+     "gabarito": "E",
+     "explicacao": "A Casa de Contratación foi espanhola, fundada em Sevilha em 1503, voltada ao comércio com as colônias americanas.",
+     "fonte": "Encyclopaedia Britannica, verbete Casa de Contratación"
+    },
+    {
+     "id": "GEO-01-01#05",
+     "tipo": "certo_errado",
+     "enunciado": "A projeção de Mercator, de 1569, foi concebida para a navegação, pois representa rumos constantes como linhas retas.",
+     "gabarito": "C",
+     "explicacao": "A Britannica descreve a projeção de 1569 como feita para a navegação, com rumos (rhumb lines) retos.",
+     "fonte": "Encyclopaedia Britannica, verbete Gerardus Mercator"
+    },
+    {
+     "id": "GEO-01-01#06",
+     "tipo": "certo_errado",
+     "enunciado": "A projeção de Mercator preserva as proporções entre as áreas, razão pela qual é recomendada para comparar o tamanho de países em latitudes diferentes.",
+     "gabarito": "E",
+     "explicacao": "A projeção foi desenhada para preservar rumos, não áreas. As áreas ficam distorcidas, e mais ainda nas latitudes altas.",
+     "fonte": "Encyclopaedia Britannica, verbete Gerardus Mercator"
+    },
+    {
+     "id": "GEO-01-01#07",
+     "tipo": "certo_errado",
+     "enunciado": "O mapa de Waldseemüller, de cerca de 1507, é conhecido como o primeiro a usar o nome “América”, em referência a Américo Vespúcio.",
+     "gabarito": "C",
+     "explicacao": "O mapa é descrito como o primeiro a usar o nome, e o texto que o acompanhava o associa a Vespúcio.",
+     "fonte": "Library of Congress, nota de imprensa sobre o mapa de Waldseemüller (https://www.loc.gov/item/prn-03-110/)"
+    },
+    {
+     "id": "GEO-01-01#08",
+     "tipo": "certo_errado",
+     "enunciado": "O nome “América” foi dado por Waldseemüller em homenagem a Cristóvão Colombo.",
+     "gabarito": "E",
+     "explicacao": "O nome homenageia Américo Vespúcio, não Colombo.",
+     "fonte": "Library of Congress, nota de imprensa sobre o mapa de Waldseemüller (https://www.loc.gov/item/prn-03-110/)"
+    },
+    {
+     "id": "GEO-01-01#09",
+     "tipo": "certo_errado",
+     "enunciado": "O Theatrum Orbis Terrarum, de Abraham Ortelius (1570), é considerado o primeiro atlas moderno.",
+     "gabarito": "C",
+     "explicacao": "A Britannica o descreve como o primeiro atlas moderno, com 70 mapas em estilo uniforme.",
+     "fonte": "Encyclopaedia Britannica, verbete Abraham Ortelius"
+    },
+    {
+     "id": "GEO-01-01#10",
+     "tipo": "flashcard",
+     "frente": "Por que a expansão colonial produziu saber geográfico?",
+     "verso": "Porque navegar, ocupar e explorar novas terras exigia informação sobre costas, rotas e recursos, registrada em cartas, mapas e relatos organizados pelas coroas.",
+     "explicacao": "Porque navegar, ocupar e explorar novas terras exigia informação sobre costas, rotas e recursos, registrada em cartas, mapas e relatos organizados pelas coroas.",
+     "fonte": "Encyclopaedia Britannica, verbetes Casa de Contratación e Treaty of Tordesillas (contexto institucional)"
+    },
+    {
+     "id": "GEO-01-01#11",
+     "tipo": "flashcard",
+     "frente": "O que era o Padrón Real?",
+     "verso": "O mapa-mestre mantido pela Casa de Contratación, em Sevilha, atualizado com informações das novas viagens.",
+     "explicacao": "O mapa-mestre mantido pela Casa de Contratación, em Sevilha, atualizado com informações das novas viagens.",
+     "fonte": "Encyclopaedia Britannica, verbete Casa de Contratación"
+    },
+    {
+     "id": "GEO-01-01#12",
+     "tipo": "flashcard",
+     "frente": "Latitude e longitude: qual era mais difícil de determinar no mar?",
+     "verso": "A longitude. A latitude podia ser estimada observando a altura do Sol ou de estrelas com instrumentos como o astrolábio.",
+     "explicacao": "A longitude. A latitude podia ser estimada observando a altura do Sol ou de estrelas com instrumentos como o astrolábio.",
+     "fonte": "Conhecimento geral de história da navegação (sem data afirmada)"
+    }
+   ]
+  },
+  "POL-01-01": {
+   "resumo": "As Relações Internacionais estudam Estados, organizações e outros atores em um sistema sem autoridade central, a anarquia internacional. Conceitos básicos: Estado, soberania, poder, sistema internacional e atores, com teorias como realismo e a sociedade internacional de Bull.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "O objeto das Relações Internacionais",
+      "paragrafos": [
+       "Relações Internacionais (RI) é, segundo a Britannica, o estudo das relações dos Estados entre si e com organizações internacionais e certas entidades subnacionais, como burocracias, partidos e grupos de interesse. Como área acadêmica, combina história, direito e ciência política, e tem teorias concorrentes, como realismo e liberalismo.",
+       "Na prova, RI aparece com dois sentidos: a realidade (as interações no mundo) e a disciplina (as teorias que explicam essas interações).",
+       "Um exemplo: a decisão de um país de impor tarifas a outro é um fato das relações internacionais. A discussão sobre se essa decisão reflete poder, interesses econômicos ou normas compartilhadas é teoria. Saber separar as duas coisas ajuda a resolver itens de prova."
+      ]
+     },
+     {
+      "titulo": "Estado e soberania",
+      "paragrafos": [
+       "Estado é a forma de organização política central nas RI. A Convenção de Montevidéu (26 de dezembro de 1933), sobre direitos e deveres dos Estados, lista quatro elementos: população permanente, território definido, governo e capacidade de entrar em relações com outros Estados.",
+       "Max Weber, em A Política como Vocação (1919), definiu o Estado moderno como a comunidade humana que reivindica, com sucesso, o monopólio do uso legítimo da força física em um território. É uma definição sociológica, diferente da lista jurídica de Montevidéu.",
+       "Soberania é, na ciência política, a autoridade última nas decisões do Estado. Distingue-se a soberania interna (autoridade suprema dentro do território) da externa (independência em relação a outros Estados). A Carta da ONU, em seu artigo 2º, parágrafo 1, baseia a organização no princípio da igualdade soberana de todos os seus membros."
+      ]
+     },
+     {
+      "titulo": "Anarquia internacional",
+      "paragrafos": [
+       "Anarquia internacional significa a ausência de uma autoridade central acima dos Estados. Não significa caos nem guerra permanente: significa que não há um governo mundial com poder de impor regras a todos.",
+       "Kenneth Waltz, em Theory of International Politics (1979), trata a anarquia como o princípio ordenador do sistema internacional, em contraste com a hierarquia interna dos Estados. Hedley Bull, em The Anarchical Society (1977), sustenta que, mesmo sem governo mundial, existe uma sociedade internacional com certa ordem.",
+       "Exemplo: dentro de um Estado, se alguém sofre um crime, há polícia e tribunais acima das partes. Entre Estados, não existe uma polícia mundial com autoridade equivalente; por isso, os próprios Estados cuidam de sua segurança. Essa diferença é a base do argumento de Waltz."
+      ]
+     },
+     {
+      "titulo": "Poder",
+      "paragrafos": [
+       "Poder, nas RI, é em geral a capacidade de um ator influenciar o comportamento ou os resultados de outros. A noção é central para o realismo, que, segundo a Britannica, enfatiza o papel do Estado, do interesse nacional e do poder; E. H. Carr e Hans Morgenthau são apontados como fundadores dessa tradição no século XX.",
+       "Poder não se reduz a força militar. Pode ser econômico, tecnológico, diplomático ou cultural. A distinção entre poder duro (coerção e pagamento) e poder brando (atração), de Joseph Nye, é usada para organizar essa variedade.",
+       "Exemplo: um país pode influenciar outro por sanções econômicas (poder duro) ou por atrair seus cidadãos com sua cultura e valores (poder brando). Em ambos os casos, o ator afeta o comportamento alheio, mas por meios distintos."
+      ]
+     },
+     {
+      "titulo": "Sistema internacional e atores",
+      "paragrafos": [
+       "Sistema internacional é o conjunto de unidades políticas, principalmente os Estados, que interagem com regularidade, de modo que o comportamento de cada uma importa para as demais. Estrutura é o arranjo desses elementos, em especial a distribuição de capacidades entre eles.",
+       "Atores são as entidades que atuam nesse sistema. Os Estados são os atores principais na visão realista. Além deles há organizações intergovernamentais (como a ONU), organizações não governamentais, empresas multinacionais e indivíduos. Qual deles pesa mais depende da teoria adotada.",
+       "Exemplo: a ONU é um ator intergovernamental, pois seus membros são Estados. Uma empresa multinacional é um ator não estatal, que influencia o sistema por meio de investimento e comércio, sem ter território nem soberania."
+      ]
+     },
+     {
+      "titulo": "Westfália: cuidado com a lenda",
+      "paragrafos": [
+       "A Paz de Westfália (1648) encerrou a Guerra dos Oitenta Anos e a fase alemã da Guerra dos Trinta Anos. Muitos manuais a tratam como origem do sistema de Estados soberanos.",
+       "Há debate acadêmico sobre o quanto ela de fato criou esse sistema; fala-se em “mito westfaliano”. Na prova, atenção ao enunciado: se ele delimitar “segundo a visão tradicional”, aceite a ideia; se pedir fato histórico preciso, lembre que o tratado encerrou guerras específicas."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Anarquia internacional não é desordem nem guerra permanente: é ausência de autoridade central acima dos Estados.",
+     "Soberania externa (independência diante de outros Estados) não se confunde com soberania interna (autoridade suprema dentro do território).",
+     "Os quatro elementos de Montevidéu são população permanente, território definido, governo e capacidade de relacionar-se com outros Estados; reconhecimento não aparece na lista e, pelo art. 3 da Convenção, a existência política do Estado independe do reconhecimento pelos demais Estados.",
+     "Não atribua a Waltz a ideia de sociedade internacional (é de Bull): Waltz trata da estrutura anárquica; Bull, da ordem entre Estados.",
+     "Ser ator internacional não é ser Estado: organizações internacionais, ONGs, empresas e indivíduos também são atores, conforme a teoria.",
+     "Westfália é debatida: dizer que 1648 “criou” o sistema de Estados é leitura tradicional, contestada por parte dos estudiosos."
+    ],
+    "fontes": [
+     "Encyclopaedia Britannica: International relations; Realism (political and social science); Sovereignty; Peace of Westphalia; Hedley Bull; Montevideo Convention (https://www.britannica.com)",
+     "Kenneth Waltz, Theory of International Politics (1979), conforme descrito nos verbetes de referência consultados (obra primária não aberta)",
+     "Carta das Nações Unidas, Capítulo I, art. 2(1), igualdade soberana: https://www.un.org/en/about-us/un-charter/chapter-1",
+     "Leituras de apoio da área (não consultadas nesta verificação): Nogueira e Messari, Teoria das Relações Internacionais; Jackson e Sørensen, Introdução às Relações Internacionais"
+    ]
+   },
+   "itens": [
+    {
+     "id": "POL-01-01#01",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Convenção de Montevidéu de 1933, o Estado deve ter população permanente, território definido, governo e capacidade de entrar em relações com outros Estados.",
+     "gabarito": "C",
+     "explicacao": "São os quatro elementos listados na convenção, assinada em 26 de dezembro de 1933.",
+     "fonte": "Encyclopaedia Britannica, verbete Montevideo Convention"
+    },
+    {
+     "id": "POL-01-01#02",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Convenção de Montevidéu de 1933, o reconhecimento por outros Estados é elemento obrigatório para a existência do Estado.",
+     "gabarito": "E",
+     "explicacao": "O art. 1 lista população permanente, território definido, governo e capacidade de relacionar-se com outros Estados. O art. 3 diz que a existência política do Estado independe do reconhecimento pelos demais Estados (teoria declaratória).",
+     "fonte": "Encyclopaedia Britannica, verbete Montevideo Convention"
+    },
+    {
+     "id": "POL-01-01#03",
+     "tipo": "certo_errado",
+     "enunciado": "Anarquia internacional significa a ausência de uma autoridade central acima dos Estados, e não necessariamente a existência de caos ou guerra constante.",
+     "gabarito": "C",
+     "explicacao": "O termo descreve a estrutura do sistema, sem governo mundial; Bull defende que, mesmo assim, há ordem entre Estados.",
+     "fonte": "Encyclopaedia Britannica, verbete Hedley Bull; Waltz, Theory of International Politics (1979)"
+    },
+    {
+     "id": "POL-01-01#04",
+     "tipo": "certo_errado",
+     "enunciado": "Na teoria de Waltz, o sistema internacional é hierárquico, pois as grandes potências comandam os demais Estados.",
+     "gabarito": "E",
+     "explicacao": "Para Waltz, o princípio ordenador do sistema é a anarquia, e os Estados são unidades funcionalmente indiferenciadas, sem hierarquia formal.",
+     "fonte": "Waltz, Theory of International Politics (1979)"
+    },
+    {
+     "id": "POL-01-01#05",
+     "tipo": "certo_errado",
+     "enunciado": "The Anarchical Society, de Hedley Bull, publicado em 1977, defende que existe uma sociedade internacional com mais ordem do que os realistas supunham.",
+     "gabarito": "C",
+     "explicacao": "A Britannica resume a posição de Bull como intermediária entre realismo e idealismo: mais ordem que os realistas esperavam, menos justiça que os idealistas queriam.",
+     "fonte": "Encyclopaedia Britannica, verbete Hedley Bull"
+    },
+    {
+     "id": "POL-01-01#06",
+     "tipo": "certo_errado",
+     "enunciado": "A Carta da ONU baseia a Organização no princípio da igualdade soberana de todos os seus membros.",
+     "gabarito": "C",
+     "explicacao": "O art. 2(1) da Carta enuncia o princípio da igualdade soberana.",
+     "fonte": "Carta das Nações Unidas, art. 2, parágrafo 1"
+    },
+    {
+     "id": "POL-01-01#07",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Britannica, o realismo nas RI destaca o papel do Estado, do interesse nacional e do poder, e E. H. Carr e Hans Morgenthau estão entre os que estabeleceram essa abordagem no século XX.",
+     "gabarito": "C",
+     "explicacao": "É a descrição do verbete sobre realismo.",
+     "fonte": "Encyclopaedia Britannica, verbete Realism (political and social science)"
+    },
+    {
+     "id": "POL-01-01#08",
+     "tipo": "certo_errado",
+     "enunciado": "O realismo considera que organizações não governamentais são os atores centrais das RI, e que o Estado tem papel secundário.",
+     "gabarito": "E",
+     "explicacao": "O realismo é centrado no Estado; o papel das ONGs é enfatizado em outras abordagens.",
+     "fonte": "Encyclopaedia Britannica, verbete Realism (political and social science)"
+    },
+    {
+     "id": "POL-01-01#09",
+     "tipo": "flashcard",
+     "frente": "Soberania",
+     "verso": "Autoridade última nas decisões do Estado; distingue-se soberania interna (autoridade suprema no território) de externa (independência em relação a outros Estados).",
+     "explicacao": "Autoridade última nas decisões do Estado; distingue-se soberania interna (autoridade suprema no território) de externa (independência em relação a outros Estados).",
+     "fonte": "Encyclopaedia Britannica, verbete Sovereignty"
+    },
+    {
+     "id": "POL-01-01#10",
+     "tipo": "flashcard",
+     "frente": "Anarquia internacional",
+     "verso": "Ausência de autoridade central acima dos Estados; não equivale a caos. Para Waltz, é o princípio ordenador do sistema internacional.",
+     "explicacao": "Ausência de autoridade central acima dos Estados; não equivale a caos. Para Waltz, é o princípio ordenador do sistema internacional.",
+     "fonte": "Waltz, Theory of International Politics (1979)"
+    },
+    {
+     "id": "POL-01-01#11",
+     "tipo": "flashcard",
+     "frente": "Atores nas Relações Internacionais",
+     "verso": "Estados, organizações intergovernamentais (como a ONU), ONGs, empresas multinacionais e indivíduos; o peso de cada um varia conforme a teoria.",
+     "explicacao": "Estados, organizações intergovernamentais (como a ONU), ONGs, empresas multinacionais e indivíduos; o peso de cada um varia conforme a teoria.",
+     "fonte": "Encyclopaedia Britannica, verbete International relations"
+    },
+    {
+     "id": "POL-01-01#12",
+     "tipo": "flashcard",
+     "frente": "Paz de Westfália (1648)",
+     "verso": "Encerrou a Guerra dos Oitenta Anos e a fase alemã da Guerra dos Trinta Anos; tradicionalmente tida como marco do sistema de Estados, hoje debatida.",
+     "explicacao": "Encerrou a Guerra dos Oitenta Anos e a fase alemã da Guerra dos Trinta Anos; tradicionalmente tida como marco do sistema de Estados, hoje debatida.",
+     "fonte": "Encyclopaedia Britannica, verbete Peace of Westphalia"
+    }
+   ]
+  }
+ }
+}

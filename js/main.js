@@ -44,7 +44,7 @@ rota(/^\/$/, async () => {
     ${dev.length ? `<a class="cartao link" href="#/revisao"><b>${dev.length} ${dev.length > 1 ? 'revisões' : 'revisão'} para hoje</b><span>Revisar agora</span></a>` : ''}
     ${atr.length ? `<a class="cartao link atraso" href="#/rota?atrasadas=1"><b>${atr.length} ${atr.length > 1 ? 'lições atrasadas' : 'lição atrasada'}</b><span>Ver e recuperar</span></a>` : ''}
     <section class="cartao"><h2>Lições deste ciclo</h2>
-    <ol class="trilha-lista">${lics.map(l => `<li class="${S.feita(l.id) ? 'feita' : l === prox ? 'prox' : ''}"><a href="#/licao/${l.id}">${tag(l.m)}<span>${esc(l.t)}</span><em>${l.min} min</em></a></li>`).join('')}</ol>
+    <ol class="trilha-lista">${lics.map(l => `<li class="${S.feita(l.id) ? 'feita' : l === prox ? 'prox' : ''}"><a href="#/licao/${l.id}">${tag(l.m)}<span>${esc(l.t)}</span><em>${l.min} min${I.itens[l.id] ? ' · aula e ' + I.itens[l.id].length + ' exercícios' : ''}</em></a></li>`).join('')}</ol>
     ${prox ? `<a class="btn" href="#/licao/${prox.id}">Estudar: ${esc(prox.t)}</a>` : (lics.length ? '<p class="meta">Todas as lições do ciclo estão feitas.</p>' : '')}</section>
     <a class="cartao link" href="#/desafio/${c.c}"><b>Desafio do ciclo ${c.c}</b><span>${S.fmt(c.des)}${dDes > 0 ? ` · em ${dDes} ${dDes > 1 ? 'dias' : 'dia'}` : dDes === 0 ? ' · hoje' : ' · já passou'}</span></a>
     <section class="cartao"><h2>Rotina do dia</h2><ol class="rotina"><li><b>20 min</b> no app: lições e revisões</li><li><b>1h30</b> de bloco de estudo (material do ciclo)</li><li><b>30 min</b> de língua estrangeira</li><li><b>10 min</b> no caderno de erros</li></ol>
@@ -73,6 +73,14 @@ function linhaLicao(l, mostraMat) {
 }
 
 // ---------- LIÇÃO ----------
+function aulaHTML(a) {
+  const sec = (a.secoes || []).map(x => `<section class="cartao aula"><h2>${esc(x.titulo)}</h2>${(x.paragrafos || []).map(p => `<p>${esc(p)}</p>`).join('')}
+    ${x.lista?.length ? `<ul>${x.lista.map(i => `<li>${esc(i)}</li>`).join('')}</ul>` : ''}
+    ${x.tabela ? `<div class="tabela"><table><thead><tr>${x.tabela.cabecalho.map(c => `<th scope="col">${esc(c)}</th>`).join('')}</tr></thead><tbody>${x.tabela.linhas.map(r => `<tr>${r.map(c => `<td>${esc(c)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>` : ''}</section>`).join('');
+  const peg = a.pegadinhas?.length ? `<section class="cartao aula peg"><h2>Pegadinhas de prova</h2><ul>${a.pegadinhas.map(i => `<li>${esc(i)}</li>`).join('')}</ul></section>` : '';
+  const fon = a.fontes?.length ? `<details class="fontes"><summary>Fontes da aula</summary><ul>${a.fontes.map(i => `<li>${esc(i)}</li>`).join('')}</ul></details>` : '';
+  return sec + peg + fon;
+}
 rota(/^\/licao\/([A-Z0-9-]+)$/, async (id) => {
   const I = S.D.idx, l = I.lic[id]; if (!l) { set('<p class="vazio">Lição não encontrada.</p>'); return; }
   const itens = I.itens[id] || [], info = I.resumo[id], f = S.feita(id), r = S.D.prog.licoes[id];
@@ -84,7 +92,8 @@ rota(/^\/licao\/([A-Z0-9-]+)$/, async (id) => {
     <section class="cartao"><h2>Objetivo</h2><p>${esc(l.o)}</p>${info?.resumo ? `<h2>Resumo</h2><p>${esc(info.resumo)}</p>` : ''}
     <dl class="ficha">${l.ed && l.ed !== '-' ? `<dt>Tópico do edital</dt><dd>${esc(l.ed)}</dd>` : ''}${l.un ? `<dt>Unidade</dt><dd>${esc(l.un)}</dd>` : ''}${l.ref ? `<dt>Referência</dt><dd>${esc(l.ref)}</dd>` : ''}<dt>Exercícios previstos</dt><dd>${l.ex.map(x => x.replace(/_/g, ' ')).join(', ')}</dd></dl>
     ${rasc ? '<p class="aviso">Conteúdo em rascunho: confira antes de confiar. Falta revisão humana.</p>' : ''}</section>
-    ${itens.length ? `<button class="btn" data-go="licao" data-id="${id}">${f ? 'Refazer' : 'Começar'} ${itens.length} exercícios</button>`
+    ${info?.aula ? aulaHTML(info.aula) : ''}
+    ${itens.length ? `<p class="meta">Leia a aula e depois faça os exercícios.</p><button class="btn" data-go="licao" data-id="${id}">${f ? 'Refazer' : 'Começar'} ${itens.length} exercícios</button>`
       : `<p class="cartao vazio">Os exercícios desta lição ainda não foram publicados. Estude pelo material e marque como feita.</p>${f ? '' : `<button class="btn" data-act="feita" data-id="${id}">Marcar como estudada</button>`}`}
     ${f ? `<p class="meta">Concluída em ${S.fmt(r.feita)}${r.prox ? ` · próxima revisão em ${S.fmt(r.prox)}` : ' · revisões concluídas'}</p>` : ''}`);
 });

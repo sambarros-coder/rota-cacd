@@ -80,3 +80,9 @@ nav{position:fixed;left:0;right:0;bottom:0;display:flex;background:var(--cartao)
 nav a{flex:1;text-align:center;padding:14px 4px 12px;text-decoration:none;color:var(--suave);font-size:.85rem;font-weight:700;border-top:3px solid transparent}
 nav a[aria-current]{color:var(--tinta);border-top-color:var(--latao)}
 @media(prefers-reduced-motion:no-preference){.prog i{transition:width .3s}}
+
+.aula p{max-width:62ch;font-family:var(--serif);font-size:1.02rem;line-height:1.65}
+.aula ul{padding-left:1.2em;margin:.4em 0}.aula li{margin:.3em 0}
+.aula.peg{border-left:5px solid var(--latao)}
+.tabela{overflow-x:auto;margin:.6em 0}table{border-collapse:collapse;width:100%;font-size:.92rem}th,td{border:1px solid var(--linha);padding:6px 8px;text-align:left;vertical-align:top}th{background:var(--neu-bg)}
+.fontes{margin:10px 0;font-size:.85rem;color:var(--suave)}.fontes li{margin:.3em 0}

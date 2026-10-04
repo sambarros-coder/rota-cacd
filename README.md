@@ -2,7 +2,7 @@
 
 App de estudos offline (PWA) para o concurso do Instituto Rio Branco (CACD). Trilha de 737 lições em 64 ciclos de 14 dias, de 02/11/2026 a 15/04/2029, com desafio ao fim de cada ciclo, revisão espaçada e caderno de erros.
 
-**Estado: etapa 1.** Estão no app a trilha completa, o calendário e um tour com exercícios de demonstração. Os exercícios de cada lição entram na etapa 2, em pacotes de conteúdo (`items-T1`, `items-T2`…), todos marcados como `rascunho` até revisão humana.
+**Estado:** trilha completa, calendário, tour e o **Ciclo 1 com aula e exercícios** (11 lições, 129 itens, pacote `items-C01`). Os demais ciclos entram em pacotes seguintes, todos marcados como `rascunho` até revisão humana. Cada aula traz fontes; cada item traz fonte e explicação. O texto-fonte fica em `content/ciclo01/*.json`.
 
 ## Como funciona
 - Sem servidor e sem conta. Tudo roda no navegador; o progresso fica no aparelho (IndexedDB).
@@ -19,7 +19,7 @@ App de estudos offline (PWA) para o concurso do Instituto Rio Branco (CACD). Tri
 |---|---|
 | `core` | matérias, lições, ciclos, desafios, trimestres, feriados |
 | `demo` | lições do tour e itens de exemplo |
-| `items` | `itens: { "<id da lição>": { resumo, status, itens: [...] } }`; campo opcional `liberar_em` (AAAA-MM-DD) esconde o pacote até a data |
+| `items` | `itens: { "<id da lição>": { resumo, status, aula: { secoes, pegadinhas, fontes }, itens: [...] } }`; campo opcional `liberar_em` (AAAA-MM-DD) esconde o pacote até a data |
 
 Tipos de item: `certo_errado`, `multipla_escolha`, `ordenar`, `lacuna`, `associar`, `flashcard`, `resposta_curta`, `discursiva`, `traducao`, `resumo`. Todo item precisa de `fonte`. Itens com `fala: {texto, lang}` ganham botão “Ouvir” (voz do aparelho).
 

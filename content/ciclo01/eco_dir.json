@@ -1,0 +1,758 @@
+{
+ "licoes": {
+  "ECO-01-01": {
+   "resumo": "Uma função linear tem a forma y = a + bx, em que b é a inclinação e a é o intercepto. Demanda e oferta lineares formam um sistema de duas equações; resolvê-lo dá o preço e a quantidade de equilíbrio. A comparação entre Qd e Qs a cada preço mostra excesso de demanda ou de oferta.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "Variáveis, parâmetros e funções",
+      "paragrafos": [
+       "Uma variável é uma grandeza que muda, como o preço (P) ou a quantidade (Q). Um parâmetro é um número fixo dentro do problema, como o 100 e o 2 em Qd = 100 − 2P. Uma função é uma regra que associa a cada valor da variável independente um único valor da variável dependente.",
+       "Em Economia, escreve-se muitas vezes y = f(x). Se f(x) = 3x + 5, então f(4) = 3 × 4 + 5 = 17. Ler uma função é só substituir o valor dado e calcular com cuidado nos sinais."
+      ]
+     },
+     {
+      "titulo": "A função linear",
+      "paragrafos": [
+       "A função linear tem a forma y = a + bx. O coeficiente b é a inclinação: quanto y varia quando x aumenta uma unidade. O termo a é o intercepto: o valor de y quando x = 0.",
+       "Se b é positivo, y cresce com x. Se b é negativo, y cai quando x sobe. Se b é zero, y é constante. Essa leitura de sinais será usada o tempo todo, pois a demanda tem coeficiente negativo e a oferta, positivo."
+      ]
+     },
+     {
+      "titulo": "Demanda e oferta como funções lineares",
+      "paragrafos": [
+       "A curva de demanda mostra a quantidade que os consumidores querem comprar a cada preço (Qd). A de oferta mostra a quantidade que os produtores querem vender (Qs). Num modelo linear simples: Qd = 100 − 2P e Qs = −20 + 4P.",
+       "O coeficiente −2 diz que, a cada aumento de uma unidade monetária no preço, a quantidade demandada cai em 2 unidades. O coeficiente 4 diz que a quantidade ofertada sobe 4 unidades. Aqui a quantidade é escrita em função do preço.",
+       "Em muitos gráficos o preço fica no eixo vertical, e então convém escrever P em função de Q. Isso se chama função inversa. Basta isolar P.",
+       "De Qd = 100 − 2P: 2P = 100 − Qd, logo P = 50 − 0,5Q. Note que a inclinação da forma inversa (−0,5) é o inverso da inclinação original (−2). Essa relação reaparece na lição seguinte, sobre gráficos."
+      ]
+     },
+     {
+      "titulo": "Equilíbrio: um sistema de duas equações",
+      "paragrafos": [
+       "O equilíbrio de mercado é o preço em que Qd = Qs. Igualando as duas equações: 100 − 2P = −20 + 4P. Passando os termos: 120 = 6P, logo P = 20. Substituindo na demanda: Q = 100 − 2 × 20 = 60.",
+       "Confira sempre na outra equação: Qs = −20 + 4 × 20 = 60. Se os dois valores batem, a conta está certa. O par (P, Q) = (20, 60) é a solução do sistema."
+      ]
+     },
+     {
+      "titulo": "Sistemas lineares em geral",
+      "paragrafos": [
+       "Um sistema linear é um conjunto de equações de primeiro grau com as mesmas incógnitas. Pelo método da substituição, isola-se uma incógnita numa equação e troca-se na outra. Exemplo: 2x + 3y = 12 e x − y = 1. De x = 1 + y vem 2(1 + y) + 3y = 12, logo y = 2 e x = 3.",
+       "Há três resultados possíveis para duas equações com duas incógnitas: uma única solução (retas que se cruzam), nenhuma solução (retas paralelas distintas) ou infinitas soluções (as duas equações descrevem a mesma reta, como x + y = 5 e 2x + 2y = 10)."
+      ]
+     },
+     {
+      "titulo": "Excesso de demanda e de oferta",
+      "paragrafos": [
+       "Fora do equilíbrio, compara-se Qd com Qs. Tome Qd = 80 − 4P e Qs = 20 + 2P. O equilíbrio ocorre em P = 10 e Q = 40. Se o preço for 5, Qd = 60 e Qs = 30: há excesso de demanda de 30 unidades (escassez). Se o preço for 15, Qd = 20 e Qs = 50: há excesso de oferta de 30 unidades (sobra)."
+      ]
+     },
+     {
+      "titulo": "Roteiro para resolver em prova",
+      "paragrafos": [
+       "Siga sempre a mesma ordem. Primeiro, identifique o que a questão pede: preço, quantidade, excesso ou a própria equação. Segundo, escreva as equações com os sinais corretos. Terceiro, iguale Qd e Qs, ou aplique substituição ou eliminação no sistema.",
+       "Quarto, calcule a segunda incógnita substituindo a primeira. Quinto, confira o resultado nas duas equações. Esse último passo leva poucos segundos e evita a maior parte dos erros, sobretudo os de sinal. Em questões Certo/Errado, um erro de conta transforma uma afirmação correta em errada, e o contrário também vale."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Trocar o sinal ao passar termos para o outro lado da igualdade: em 100 − 2P = −20 + 4P, o 2P passa somando e o −20 passa somando 20, dando 120 = 6P.",
+     "Esquecer de substituir P para achar Q: o preço de equilíbrio sozinho não responde à pergunta sobre a quantidade.",
+     "Confundir a inclinação da função Q(P) com a da função inversa P(Q): uma é o inverso da outra, e não são iguais.",
+     "Chamar de excesso de demanda a situação em que Qs é maior que Qd. O nome depende de qual lado sobra.",
+     "Concluir que todo sistema tem solução única: retas paralelas não se cruzam e retas coincidentes têm infinitas soluções."
+    ],
+    "fontes": [
+     "Chiang; Wainwright, Matemática para Economistas (função linear e sistemas de equações)",
+     "Mankiw, Introdução à Economia, capítulo 4 (oferta, demanda e equilíbrio de mercado)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "ECO-01-01#01",
+     "tipo": "lacuna",
+     "enunciado": "Dadas Qd = 100 − 2P e Qs = −20 + 4P, o preço de equilíbrio é P = ___.",
+     "aceitas": [
+      "20",
+      "20,00",
+      "R$ 20",
+      "R$20"
+     ],
+     "explicacao": "Igualando Qd e Qs: 100 − 2P = −20 + 4P, logo 120 = 6P e P = 20.",
+     "fonte": "Chiang; Wainwright, Matemática para Economistas (função linear e sistemas de equações)"
+    },
+    {
+     "id": "ECO-01-01#02",
+     "tipo": "lacuna",
+     "enunciado": "No mercado do item anterior (Qd = 100 − 2P e Qs = −20 + 4P), a quantidade de equilíbrio é Q = ___ unidades.",
+     "aceitas": [
+      "60",
+      "60,00"
+     ],
+     "explicacao": "Com P = 20, Qd = 100 − 2 × 20 = 60, e Qs = −20 + 4 × 20 = 60.",
+     "fonte": "Chiang; Wainwright, Matemática para Economistas (função linear e sistemas de equações)"
+    },
+    {
+     "id": "ECO-01-01#03",
+     "tipo": "multipla_escolha",
+     "enunciado": "Se f(x) = 3x + 5, quanto vale f(4)?",
+     "opcoes": [
+      "12",
+      "17",
+      "19",
+      "23"
+     ],
+     "gabarito": 1,
+     "explicacao": "f(4) = 3 × 4 + 5 = 12 + 5 = 17.",
+     "fonte": "Chiang; Wainwright, Matemática para Economistas (função linear e sistemas de equações)"
+    },
+    {
+     "id": "ECO-01-01#04",
+     "tipo": "resposta_curta",
+     "enunciado": "Resolva o sistema 2x + 3y = 12 e x − y = 1. Informe x e y.",
+     "gabarito": "x = 3 e y = 2. De x − y = 1 vem x = 1 + y; substituindo, 2(1 + y) + 3y = 12, logo 5y = 10 e y = 2, e então x = 3. Conferência: 2×3 + 3×2 = 12.",
+     "explicacao": "Método da substituição: isola-se x na segunda equação e troca-se na primeira. A conferência na primeira equação confirma o resultado.",
+     "fonte": "Chiang; Wainwright, Matemática para Economistas (função linear e sistemas de equações)"
+    },
+    {
+     "id": "ECO-01-01#05",
+     "tipo": "multipla_escolha",
+     "enunciado": "Num mercado, Qd = 80 − 4P e Qs = 20 + 2P. Qual é o preço de equilíbrio?",
+     "opcoes": [
+      "5",
+      "8",
+      "10",
+      "15"
+     ],
+     "gabarito": 2,
+     "explicacao": "80 − 4P = 20 + 2P leva a 60 = 6P, logo P = 10 (e Q = 40).",
+     "fonte": "Chiang; Wainwright, Matemática para Economistas (função linear e sistemas de equações)"
+    },
+    {
+     "id": "ECO-01-01#06",
+     "tipo": "lacuna",
+     "enunciado": "No mercado Qd = 80 − 4P e Qs = 20 + 2P, ao preço P = 5 há excesso de demanda de ___ unidades.",
+     "aceitas": [
+      "30",
+      "30,00"
+     ],
+     "explicacao": "Com P = 5: Qd = 80 − 20 = 60 e Qs = 20 + 10 = 30. A diferença Qd − Qs é 30.",
+     "fonte": "Mankiw, Introdução à Economia (capítulo 4, oferta e demanda) (excesso de oferta e de demanda)"
+    },
+    {
+     "id": "ECO-01-01#07",
+     "tipo": "resposta_curta",
+     "enunciado": "Escreva a função inversa P(Q) da demanda Qd = 100 − 2P.",
+     "gabarito": "P = 50 − 0,5Q (equivalente a P = 50 − Q/2).",
+     "explicacao": "Isola-se P: 2P = 100 − Q, logo P = 50 − 0,5Q.",
+     "fonte": "Chiang; Wainwright, Matemática para Economistas (função linear e sistemas de equações)"
+    },
+    {
+     "id": "ECO-01-01#08",
+     "tipo": "multipla_escolha",
+     "enunciado": "O sistema x + y = 5 e 2x + 2y = 10 tem:",
+     "opcoes": [
+      "uma única solução, x = y = 2,5",
+      "nenhuma solução",
+      "infinitas soluções",
+      "exatamente duas soluções"
+     ],
+     "gabarito": 2,
+     "explicacao": "A segunda equação é o dobro da primeira: descrevem a mesma reta, e todo ponto dela é solução. O par (2,5; 2,5) é apenas uma das infinitas soluções.",
+     "fonte": "Chiang; Wainwright, Matemática para Economistas (função linear e sistemas de equações)"
+    },
+    {
+     "id": "ECO-01-01#09",
+     "tipo": "certo_errado",
+     "enunciado": "Na demanda Qd = 100 − 2P, o coeficiente −2 indica que, mantidos os demais fatores, cada aumento de uma unidade no preço reduz a quantidade demandada em duas unidades.",
+     "gabarito": "C",
+     "explicacao": "O coeficiente de P é a variação de Qd por unidade de variação de P; sendo negativo, preço e quantidade demandada andam em sentidos opostos.",
+     "fonte": "Chiang; Wainwright, Matemática para Economistas (função linear e sistemas de equações)"
+    },
+    {
+     "id": "ECO-01-01#10",
+     "tipo": "certo_errado",
+     "enunciado": "Nos mercados Qd = 100 − 2P e Qs = −20 + 4P, ao preço P = 25 há excesso de demanda de 30 unidades.",
+     "gabarito": "E",
+     "explicacao": "Com P = 25: Qd = 50 e Qs = 80. Como Qs supera Qd em 30 unidades, há excesso de oferta, e não de demanda.",
+     "fonte": "Mankiw, Introdução à Economia (capítulo 4, oferta e demanda) (excesso de oferta e de demanda)"
+    },
+    {
+     "id": "ECO-01-01#11",
+     "tipo": "certo_errado",
+     "enunciado": "Duas equações lineares com duas incógnitas cujas retas são paralelas e distintas formam um sistema sem solução.",
+     "gabarito": "C",
+     "explicacao": "Retas paralelas distintas nunca se cruzam, então nenhum par (x, y) satisfaz as duas equações ao mesmo tempo.",
+     "fonte": "Chiang; Wainwright, Matemática para Economistas (função linear e sistemas de equações)"
+    },
+    {
+     "id": "ECO-01-01#12",
+     "tipo": "certo_errado",
+     "enunciado": "No preço de equilíbrio de um modelo linear de oferta e demanda, a quantidade demandada é maior que a quantidade ofertada.",
+     "gabarito": "E",
+     "explicacao": "Por definição, o equilíbrio ocorre onde Qd = Qs. A desigualdade descreve situação fora do equilíbrio.",
+     "fonte": "Mankiw, Introdução à Economia (capítulo 4, oferta e demanda) (excesso de oferta e de demanda)"
+    }
+   ]
+  },
+  "ECO-01-02": {
+   "resumo": "Em gráficos de oferta e demanda, o preço fica no eixo vertical e a quantidade no horizontal. A inclinação é a variação vertical dividida pela horizontal, e o intercepto é onde a curva corta o eixo. Mudança no preço do próprio bem move o ponto ao longo da curva; mudança em outro fator desloca a curva inteira.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "Eixos e pontos",
+      "paragrafos": [
+       "Um gráfico econômico tem dois eixos. A convenção dos gráficos de oferta e demanda coloca a quantidade (Q) no eixo horizontal e o preço (P) no vertical. Um ponto é um par ordenado, escrito como (Q, P). O ponto (60, 20) significa quantidade 60 ao preço 20.",
+       "Um gráfico mostra a relação entre duas variáveis. Tudo o mais é mantido constante, condição que os economistas chamam de ceteris paribus (mantidos os demais fatores)."
+      ]
+     },
+     {
+      "titulo": "Inclinação",
+      "paragrafos": [
+       "A inclinação de uma reta é a variação vertical dividida pela variação horizontal. Com os eixos acima, é ΔP/ΔQ. Tome a demanda Qd = 100 − 2P, cuja forma inversa é P = 50 − 0,5Q. Os pontos (Q, P) = (60, 20) e (40, 30) estão nela.",
+       "A inclinação entre eles é (20 − 30)/(60 − 40) = −0,5. O sinal negativo indica que a curva desce da esquerda para a direita. Uma curva de demanda típica tem inclinação negativa; uma de oferta típica, positiva."
+      ]
+     },
+     {
+      "titulo": "Intercepto",
+      "paragrafos": [
+       "O intercepto é o ponto em que a curva corta um eixo. Em P = 50 − 0,5Q, o intercepto vertical é 50: é o preço em que a quantidade demandada seria zero. O intercepto horizontal é 100: a quantidade que seria demandada a preço zero.",
+       "Na oferta Qs = −20 + 4P, a forma inversa é P = 5 + 0,25Q. O intercepto vertical é 5: abaixo desse preço, a quantidade ofertada seria zero ou negativa, isto é, ninguém ofereceria o bem."
+      ]
+     },
+     {
+      "titulo": "Movimento ao longo da curva",
+      "paragrafos": [
+       "Quando muda o preço do próprio bem, e nada mais, o ponto se move ao longo da mesma curva. Na demanda Qd = 100 − 2P, se o preço cai de 30 para 20, a quantidade demandada sobe de 40 para 60. A curva não se mexe.",
+       "Esse movimento é chamado de variação da quantidade demandada. O mesmo vale para a oferta: variação do preço do bem leva a variação da quantidade ofertada, ao longo da curva de oferta."
+      ]
+     },
+     {
+      "titulo": "Deslocamento da curva",
+      "paragrafos": [
+       "Quando muda outro fator que afeta as decisões, como a renda dos consumidores, a curva inteira se desloca. Se a renda sobe e o bem é normal (aquele cuja demanda aumenta com a renda), a demanda passa, por exemplo, de Qd = 100 − 2P para Qd = 112 − 2P.",
+       "A inclinação continua −2: as curvas são paralelas. O que mudou foi o termo independente: o intercepto horizontal passa de 100 para 112 e o vertical, de 50 para 56. Ao preço 20, a quantidade demandada passa de 60 para 72. A curva de oferta também se desloca quando mudam, por exemplo, os custos dos insumos."
+      ]
+     },
+     {
+      "titulo": "O novo equilíbrio",
+      "paragrafos": [
+       "Com a demanda deslocada (Qd = 112 − 2P) e a oferta Qs = −20 + 4P, igualam-se as equações: 132 = 6P, logo P = 22 e Q = 68. O deslocamento da demanda para a direita elevou o preço de equilíbrio de 20 para 22 e a quantidade de 60 para 68.",
+       "Se, em vez de mudar o termo independente, mudasse o coeficiente de P, a inclinação seria outra e as retas deixariam de ser paralelas. Distinguir deslocamento paralelo de rotação é leitura comum de prova."
+      ]
+     },
+     {
+      "titulo": "Roteiro para ler um gráfico em prova",
+      "paragrafos": [
+       "Comece pelos eixos: veja o que cada um mede e em que unidade. Depois, identifique as curvas e o ponto onde se cruzam, que é o equilíbrio. Em seguida, pergunte-se o que mudou entre duas situações: se foi só o preço do próprio bem, o ponto andou na curva; se foi outro fator, a curva se deslocou.",
+       "Para um deslocamento, compare as posições da curva. Se ela foi para a direita, a quantidade é maior a cada preço. Se ficou paralela, só o termo independente mudou (e, com ele, os interceptos). Se mudou a inclinação, o coeficiente de P foi alterado. Por fim, calcule sempre o novo equilíbrio com o sistema da lição anterior, e não por estimativa visual."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Chamar de deslocamento da demanda o efeito de uma queda no preço do próprio bem: isso é movimento ao longo da curva.",
+     "Esquecer qual variável está em cada eixo: ΔP/ΔQ e ΔQ/ΔP são inclinações diferentes, uma inversa da outra.",
+     "Achar que retas paralelas têm interceptos iguais: paralelas têm a mesma inclinação e interceptos diferentes.",
+     "Ler o intercepto vertical como quantidade: no eixo vertical está o preço.",
+     "Aplicar a regra de que renda maior aumenta a demanda a qualquer bem: vale para bens normais, e não para bens inferiores."
+    ],
+    "fontes": [
+     "Mankiw, Introdução à Economia (capítulo 2, apêndice sobre gráficos; capítulo 4, deslocamentos de curvas)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "ECO-01-02#01",
+     "tipo": "multipla_escolha",
+     "enunciado": "Num gráfico com Q no eixo horizontal e P no vertical, uma curva passa pelos pontos (Q, P) = (20, 40) e (60, 20). Qual é a inclinação da curva?",
+     "opcoes": [
+      "−2",
+      "−0,5",
+      "0,5",
+      "2"
+     ],
+     "gabarito": 1,
+     "explicacao": "Inclinação = ΔP/ΔQ = (20 − 40)/(60 − 20) = −20/40 = −0,5.",
+     "fonte": "Mankiw, Introdução à Economia (capítulo 2, apêndice sobre gráficos; capítulo 4, deslocamentos de curvas)"
+    },
+    {
+     "id": "ECO-01-02#02",
+     "tipo": "multipla_escolha",
+     "enunciado": "Na demanda Qd = 100 − 2P, o intercepto vertical (preço em que Qd = 0), no gráfico com P no eixo vertical, é:",
+     "opcoes": [
+      "20",
+      "50",
+      "100",
+      "200"
+     ],
+     "gabarito": 1,
+     "explicacao": "Com Qd = 0: 0 = 100 − 2P, logo P = 50.",
+     "fonte": "Mankiw, Introdução à Economia (capítulo 2, apêndice sobre gráficos; capítulo 4, deslocamentos de curvas)"
+    },
+    {
+     "id": "ECO-01-02#03",
+     "tipo": "multipla_escolha",
+     "enunciado": "A demanda passa de Qd = 100 − 2P para Qd = 112 − 2P, e a oferta é Qs = −20 + 4P. Qual é o novo preço de equilíbrio?",
+     "opcoes": [
+      "20",
+      "21",
+      "22",
+      "24"
+     ],
+     "gabarito": 2,
+     "explicacao": "112 − 2P = −20 + 4P leva a 132 = 6P, logo P = 22 (e Q = 68).",
+     "fonte": "Mankiw, Introdução à Economia (capítulo 2, apêndice sobre gráficos; capítulo 4, deslocamentos de curvas)"
+    },
+    {
+     "id": "ECO-01-02#04",
+     "tipo": "multipla_escolha",
+     "enunciado": "Na oferta Qs = −20 + 4P, qual é o preço em que a quantidade ofertada é zero?",
+     "opcoes": [
+      "−20",
+      "4",
+      "5",
+      "20"
+     ],
+     "gabarito": 2,
+     "explicacao": "0 = −20 + 4P, logo P = 5. Corresponde ao intercepto vertical da oferta inversa P = 5 + 0,25Q.",
+     "fonte": "Mankiw, Introdução à Economia (capítulo 2, apêndice sobre gráficos; capítulo 4, deslocamentos de curvas)"
+    },
+    {
+     "id": "ECO-01-02#05",
+     "tipo": "certo_errado",
+     "enunciado": "Mantidos os demais fatores, uma queda no preço do bem provoca deslocamento da curva de demanda para a direita.",
+     "gabarito": "E",
+     "explicacao": "A queda do preço do próprio bem move o ponto ao longo da mesma curva, aumentando a quantidade demandada. A curva só se desloca por outros fatores, como a renda.",
+     "fonte": "Mankiw, Introdução à Economia (capítulo 2, apêndice sobre gráficos; capítulo 4, deslocamentos de curvas)"
+    },
+    {
+     "id": "ECO-01-02#06",
+     "tipo": "certo_errado",
+     "enunciado": "Um aumento da renda dos consumidores de um bem normal desloca a curva de demanda desse bem para a direita.",
+     "gabarito": "C",
+     "explicacao": "Bem normal é aquele cuja demanda cresce com a renda; a quantidade demandada aumenta a cada preço, e a curva se desloca para a direita.",
+     "fonte": "Mankiw, Introdução à Economia (capítulo 2, apêndice sobre gráficos; capítulo 4, deslocamentos de curvas)"
+    },
+    {
+     "id": "ECO-01-02#07",
+     "tipo": "certo_errado",
+     "enunciado": "Com preço no eixo vertical e quantidade no horizontal, a curva de demanda Qd = 100 − 2P tem inclinação −0,5.",
+     "gabarito": "C",
+     "explicacao": "A forma inversa é P = 50 − 0,5Q, cujo coeficiente de Q é a inclinação nesse gráfico: −0,5, o inverso de −2.",
+     "fonte": "Mankiw, Introdução à Economia (capítulo 2, apêndice sobre gráficos; capítulo 4, deslocamentos de curvas)"
+    },
+    {
+     "id": "ECO-01-02#08",
+     "tipo": "certo_errado",
+     "enunciado": "Duas curvas de demanda lineares paralelas têm inclinações diferentes e interceptos iguais.",
+     "gabarito": "E",
+     "explicacao": "Curvas paralelas têm a mesma inclinação. O que as distingue é o intercepto.",
+     "fonte": "Mankiw, Introdução à Economia (capítulo 2, apêndice sobre gráficos; capítulo 4, deslocamentos de curvas)"
+    },
+    {
+     "id": "ECO-01-02#09",
+     "tipo": "certo_errado",
+     "enunciado": "A mudança de Qd = 100 − 2P para Qd = 112 − 2P é um deslocamento paralelo da curva de demanda, pois a inclinação permanece a mesma e muda apenas o termo independente (e, com ele, os interceptos).",
+     "gabarito": "C",
+     "explicacao": "O coeficiente de P continua −2 e o termo independente passa de 100 para 112; as retas são paralelas.",
+     "fonte": "Mankiw, Introdução à Economia (capítulo 2, apêndice sobre gráficos; capítulo 4, deslocamentos de curvas)"
+    },
+    {
+     "id": "ECO-01-02#10",
+     "tipo": "associar",
+     "enunciado": "Num gráfico com P no eixo vertical e Q no horizontal, associe cada conceito à sua descrição.",
+     "pares": [
+      [
+       "Inclinação",
+       "Variação vertical dividida pela variação horizontal"
+      ],
+      [
+       "Intercepto vertical",
+       "Valor de P quando Q = 0"
+      ],
+      [
+       "Movimento ao longo da curva de demanda",
+       "Mudança no preço do próprio bem"
+      ],
+      [
+       "Deslocamento da curva de demanda",
+       "Mudança na renda dos consumidores"
+      ],
+      [
+       "Deslocamento da curva de oferta",
+       "Mudança no custo dos insumos"
+      ]
+     ],
+     "explicacao": "Inclinação e intercepto são conceitos geométricos; só o preço do próprio bem move o ponto ao longo da curva, e fatores como renda ou custo dos insumos deslocam a curva.",
+     "fonte": "Mankiw, Introdução à Economia (capítulo 2, apêndice sobre gráficos; capítulo 4, deslocamentos de curvas)"
+    }
+   ]
+  },
+  "DIR-01-01": {
+   "resumo": "Normas jurídicas dividem-se em regras e princípios, distinção que a doutrina de Dworkin e Alexy tornou clássica. A vigência, a validade e a eficácia respondem a perguntas diferentes: se a norma está em vigor, se pertence ao ordenamento com fundamento e se é observada na prática. A LINDB organiza o início e o fim da vigência das leis.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "O que é norma jurídica",
+      "paragrafos": [
+       "Norma jurídica é o padrão de conduta que o ordenamento impõe, permite ou proíbe. O ordenamento jurídico é o conjunto organizado de todas as normas de um Estado. A lei é uma das fontes da norma, mas a norma é o conteúdo que se extrai do texto, e não o texto em si.",
+       "Exemplo: o art. 1º da LINDB diz que, salvo disposição contrária, a lei começa a vigorar em todo o país quarenta e cinco dias depois de oficialmente publicada. Daí se extrai a norma sobre o prazo de início da vigência."
+      ]
+     },
+     {
+      "titulo": "Regras e princípios",
+      "paragrafos": [
+       "A distinção entre regras e princípios é clássica. Segundo Ronald Dworkin, as regras se aplicam na lógica do tudo ou nada: se os fatos nela previstos ocorrem, ou a regra é válida e sua consequência se impõe, ou não é válida. Já os princípios têm uma dimensão de peso, e o intérprete avalia sua importância no caso concreto.",
+       "Para Robert Alexy, princípios são mandamentos de otimização: ordenam que algo seja realizado na maior medida possível dentro das possibilidades fáticas e jurídicas. Regras são comandos que devem ser cumpridos exatamente como estabelecem."
+      ]
+     },
+     {
+      "titulo": "Conflito de regras e colisão de princípios",
+      "paragrafos": [
+       "Em Alexy, um conflito entre regras se resolve na dimensão da validade: ou uma delas é declarada inválida, ou se introduz uma cláusula de exceção. A colisão entre princípios, por sua vez, se resolve na dimensão do peso, mediante ponderação, sem que nenhum deles seja invalidado.",
+       "Exemplos: a dignidade da pessoa humana, fundamento da República (Constituição, art. 1º, III), é tratada como princípio. O prazo de quarenta e cinco dias do art. 1º da LINDB é regra: aplica-se de modo preciso, salvo disposição contrária."
+      ]
+     },
+     {
+      "titulo": "Vigência, validade e eficácia",
+      "paragrafos": [
+       "Os três termos são muito confundidos. Na lição de Miguel Reale, a validade da norma tem três aspectos: o formal ou técnico-jurídico, que ele identifica com a vigência; o social, que é a eficácia; e o ético, que é o fundamento. Em Bobbio, os planos são a justiça, a validade e a eficácia.",
+       "Na distinção mais comum em Bobbio e Kelsen, e diferente de Reale, que chama a vigência de validade formal, em linguagem simples: vigência indica se a norma está em vigor; validade indica se ela pertence ao ordenamento por ter sido produzida conforme as normas superiores (em Kelsen, a cadeia de fundamento chega à norma fundamental); eficácia indica se ela é de fato observada e aplicada."
+      ]
+     },
+     {
+      "titulo": "Início e fim da vigência na LINDB",
+      "paragrafos": [
+       "O art. 1º fixa o início: quarenta e cinco dias após a publicação oficial, salvo disposição contrária. O período entre a publicação e a vigência chama-se vacatio legis. O art. 2º diz que, se a lei não tem vigência temporária, ela vigora até que outra a modifique ou revogue.",
+       "O § 1º do art. 2º trata da revogação pela lei posterior: quando ela o declara expressamente, quando é incompatível com a anterior ou quando regula inteiramente a matéria. O § 3º diz que, salvo disposição em contrário, a lei revogada não se restaura por ter a lei revogadora perdido a vigência."
+      ]
+     },
+     {
+      "titulo": "Obrigatoriedade e lacunas",
+      "paragrafos": [
+       "O art. 3º da LINDB dispõe que ninguém se escusa de cumprir a lei alegando que não a conhece. O art. 4º determina que, quando a lei for omissa, o juiz decidirá de acordo com a analogia, os costumes e os princípios gerais de direito. Esses são os mecanismos de integração do direito diante de lacunas."
+      ]
+     },
+     {
+      "titulo": "Como usar isso na prova",
+      "paragrafos": [
+       "A banca costuma delimitar a fonte da afirmação: 'segundo Alexy', 'segundo Dworkin', 'nos termos do art. 2º da LINDB'. Responda dentro do referencial indicado. Uma afirmação pode estar certa para um autor e errada para outro, e o enunciado diz qual vale.",
+       "Nos itens sobre a LINDB, a troca de palavras é a armadilha mais comum: 'quarenta e cinco dias' por outro prazo, 'revoga' por 'restaura', 'escusa' por 'não se escusa'. Leia o texto literal do artigo e compare palavra por palavra, com atenção às expressões 'salvo disposição contrária' e 'em todo o país'."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Ler o 'tudo ou nada' como característica dos princípios: ele descreve as regras na teoria de Dworkin. Princípios têm dimensão de peso.",
+     "Dizer que princípios, ao colidirem, geram a invalidade de um deles: na teoria de Alexy, a colisão se resolve por ponderação, e a invalidade é saída para o conflito de regras.",
+     "Concluir que a lei perde vigência por desuso: pelo art. 2º da LINDB, a lei sem vigência temporária vigora até que outra a modifique ou revogue.",
+     "Achar que a revogação da lei revogadora restaura automaticamente a lei antiga: o art. 2º, § 3º, diz o contrário, salvo disposição em contrário.",
+     "Tratar vigência, validade e eficácia como sinônimos: cada termo responde a uma pergunta diferente, e a prova costuma delimitar o autor ('segundo Reale', 'segundo Bobbio')."
+    ],
+    "fontes": [
+     "Alexy, Teoria dos Direitos Fundamentais (distinção entre regras e princípios)",
+     "Dworkin, Levando os Direitos a Sério (regras e princípios)",
+     "Reale, Lições Preliminares de Direito (vigência, eficácia e fundamento); Bobbio, Teoria da Norma Jurídica (justiça, validade e eficácia)",
+     "Kelsen, Teoria Pura do Direito (norma fundamental e cadeia de validade)",
+     "Constituição Federal de 1988, art. 1º, III",
+     "Decreto-Lei 4.657/1942 (LINDB), https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+    ]
+   },
+   "itens": [
+    {
+     "id": "DIR-01-01#01",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o art. 1º da LINDB, salvo disposição contrária, a lei começa a vigorar em todo o país quarenta e cinco dias depois de oficialmente publicada.",
+     "gabarito": "C",
+     "explicacao": "É a redação do caput do art. 1º do Decreto-Lei 4.657/1942.",
+     "fonte": "Decreto-Lei 4.657/1942 (LINDB), https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+    },
+    {
+     "id": "DIR-01-01#02",
+     "tipo": "certo_errado",
+     "enunciado": "Nos termos do art. 2º da LINDB, a lei que não se destina à vigência temporária perde a vigência quando cai em desuso.",
+     "gabarito": "E",
+     "explicacao": "O art. 2º dispõe que a lei vigora até que outra a modifique ou revogue. O desuso não está entre as formas de cessação previstas.",
+     "fonte": "Decreto-Lei 4.657/1942 (LINDB), https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+    },
+    {
+     "id": "DIR-01-01#03",
+     "tipo": "certo_errado",
+     "enunciado": "Na teoria de Alexy, princípios são comandos definitivos, aplicados por subsunção na lógica do tudo ou nada.",
+     "gabarito": "E",
+     "explicacao": "Para Alexy, princípios são mandamentos de otimização, aplicados em graus e com ponderação. O tudo ou nada descreve as regras.",
+     "fonte": "Alexy, Teoria dos Direitos Fundamentais (distinção entre regras e princípios)"
+    },
+    {
+     "id": "DIR-01-01#04",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo Alexy, o conflito entre regras se resolve na dimensão da validade, enquanto a colisão entre princípios se resolve na dimensão do peso, por ponderação.",
+     "gabarito": "C",
+     "explicacao": "É a diferença central: regras em conflito exigem invalidar uma ou criar exceção; princípios colidem e são ponderados no caso.",
+     "fonte": "Alexy, Teoria dos Direitos Fundamentais (distinção entre regras e princípios)"
+    },
+    {
+     "id": "DIR-01-01#05",
+     "tipo": "certo_errado",
+     "enunciado": "De acordo com o art. 3º da LINDB, quem alega desconhecer a lei, quando de boa-fé, fica escusado de cumprir a norma.",
+     "gabarito": "E",
+     "explicacao": "O art. 3º é categórico: ninguém se escusa de cumprir a lei alegando que não a conhece.",
+     "fonte": "Decreto-Lei 4.657/1942 (LINDB), https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+    },
+    {
+     "id": "DIR-01-01#06",
+     "tipo": "certo_errado",
+     "enunciado": "Na tríplice acepção de validade atribuída a Miguel Reale, o aspecto social corresponde à eficácia, isto é, à observância efetiva da norma pelos seus destinatários.",
+     "gabarito": "C",
+     "explicacao": "Em Reale, validade formal (vigência), social (eficácia) e ética (fundamento). A eficácia é o plano da efetiva aplicação.",
+     "fonte": "Reale, Lições Preliminares de Direito (vigência, eficácia e fundamento); Bobbio, Teoria da Norma Jurídica (justiça, validade e eficácia)"
+    },
+    {
+     "id": "DIR-01-01#07",
+     "tipo": "certo_errado",
+     "enunciado": "Pelo art. 2º, § 3º, da LINDB, se a lei revogadora perde a vigência, a lei por ela revogada é restaurada automaticamente, em qualquer caso.",
+     "gabarito": "E",
+     "explicacao": "O § 3º diz que, salvo disposição em contrário, a lei revogada não se restaura por ter a lei revogadora perdido a vigência.",
+     "fonte": "Decreto-Lei 4.657/1942 (LINDB), https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+    },
+    {
+     "id": "DIR-01-01#08",
+     "tipo": "certo_errado",
+     "enunciado": "Quando a lei for omissa, o art. 4º da LINDB manda o juiz decidir de acordo com a analogia, os costumes e os princípios gerais de direito.",
+     "gabarito": "C",
+     "explicacao": "É o texto do art. 4º, que trata da integração do direito diante de lacunas.",
+     "fonte": "Decreto-Lei 4.657/1942 (LINDB), https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+    },
+    {
+     "id": "DIR-01-01#09",
+     "tipo": "flashcard",
+     "frente": "Para Robert Alexy, o que são princípios?",
+     "verso": "Mandamentos de otimização: normas que ordenam que algo seja realizado na maior medida possível, dentro das possibilidades fáticas e jurídicas. Colidem e são resolvidos por ponderação.",
+     "explicacao": "Contraste com as regras, que devem ser cumpridas exatamente como estabelecem e, em conflito, resolvem-se na dimensão da validade.",
+     "fonte": "Alexy, Teoria dos Direitos Fundamentais (distinção entre regras e princípios)"
+    },
+    {
+     "id": "DIR-01-01#10",
+     "tipo": "flashcard",
+     "frente": "Para Dworkin, como se aplicam as regras e como se aplicam os princípios?",
+     "verso": "Regras: na lógica do tudo ou nada. Princípios: têm dimensão de peso, avaliada no caso concreto.",
+     "explicacao": "A distinção é o ponto de partida da teoria de Dworkin sobre regras e princípios.",
+     "fonte": "Dworkin, Levando os Direitos a Sério (regras e princípios)"
+    },
+    {
+     "id": "DIR-01-01#11",
+     "tipo": "associar",
+     "enunciado": "Associe cada artigo da LINDB ao seu conteúdo.",
+     "pares": [
+      [
+       "Art. 1º",
+       "Início da vigência: quarenta e cinco dias após a publicação oficial, salvo disposição contrária"
+      ],
+      [
+       "Art. 2º",
+       "Lei sem vigência temporária vigora até que outra a modifique ou revogue"
+      ],
+      [
+       "Art. 3º",
+       "Ninguém se escusa de cumprir a lei alegando que não a conhece"
+      ],
+      [
+       "Art. 4º",
+       "Lei omissa: analogia, costumes e princípios gerais de direito"
+      ]
+     ],
+     "explicacao": "São os quatro primeiros artigos da LINDB, que tratam de vigência, revogação, obrigatoriedade e integração.",
+     "fonte": "Decreto-Lei 4.657/1942 (LINDB), https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+    }
+   ]
+  },
+  "DIR-01-02": {
+   "resumo": "Personalidade é a aptidão para ser titular de direitos e deveres (CC, art. 1º). A pessoa natural começa com o nascimento com vida, com proteção do nascituro, e termina com a morte. A pessoa jurídica, de direito público ou privado, existe a partir do registro do ato constitutivo, no caso do direito privado, e tem patrimônio distinto do de seus sócios.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "Pessoa e personalidade",
+      "paragrafos": [
+       "Personalidade é a aptidão para ser titular de direitos e deveres na ordem civil. O art. 1º do Código Civil diz que toda pessoa é capaz de direitos e deveres. Há duas espécies de pessoa: a pessoa natural (o ser humano) e a pessoa jurídica (entes que a lei reconhece como sujeitos de direitos).",
+       "Atenção à diferença entre capacidade de direito e capacidade de fato. A primeira é a aptidão para ter direitos e deveres, e toda pessoa a possui. A segunda é a aptidão para exercê-los pessoalmente, e pode faltar, como nos casos de incapacidade."
+      ]
+     },
+     {
+      "titulo": "Início da pessoa natural e o nascituro",
+      "paragrafos": [
+       "Segundo o art. 2º do Código Civil, a personalidade civil da pessoa começa do nascimento com vida. A mesma norma põe a salvo, desde a concepção, os direitos do nascituro. Nascituro é o ser já concebido, mas ainda não nascido.",
+       "A doutrina discute a natureza dessa proteção. A teoria natalista sustenta que a personalidade começa só com o nascimento com vida; a teoria concepcionista, que começa na concepção. Em prova, quando o enunciado cita o texto do art. 2º, a resposta segue a letra da lei."
+      ]
+     },
+     {
+      "titulo": "Capacidade e incapacidade",
+      "paragrafos": [
+       "O art. 3º considera absolutamente incapazes de exercer pessoalmente os atos da vida civil os menores de 16 anos. O art. 4º relaciona os relativamente incapazes: os maiores de 16 e menores de 18 anos; os ébrios habituais e os viciados em tóxico; aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade; e os pródigos.",
+       "A menoridade termina aos 18 anos completos (art. 5º). O parágrafo único do art. 5º prevê a cessação antecipada da incapacidade para os menores: pela concessão dos pais, com 16 anos completos; pelo casamento; pelo emprego público efetivo; pela colação de grau em curso superior; e pela economia própria por estabelecimento ou emprego, também com 16 anos completos."
+      ]
+     },
+     {
+      "titulo": "Fim da pessoa natural",
+      "paragrafos": [
+       "O art. 6º dispõe que a existência da pessoa natural termina com a morte. Quanto aos ausentes, a lei presume a morte nos casos em que autoriza a abertura de sucessão definitiva. Ausente é quem desaparece do domicílio sem haver notícia dele e sem deixar representante ou procurador para administrar seus bens (art. 22), situação regulada em outros dispositivos do Código."
+      ]
+     },
+     {
+      "titulo": "Pessoas jurídicas: classificação",
+      "paragrafos": [
+       "O art. 40 divide as pessoas jurídicas em de direito público, interno ou externo, e de direito privado. São de direito público interno a União, os Estados, o Distrito Federal, os Territórios, os Municípios, as autarquias, inclusive as associações públicas, e as demais entidades de caráter público criadas por lei (art. 41).",
+       "São de direito público externo os Estados estrangeiros e todas as pessoas regidas pelo direito internacional público (art. 42). Entre as de direito privado, o art. 44 inclui as associações, as sociedades, as fundações, as organizações religiosas, os partidos políticos e os empreendimentos de economia solidária."
+      ]
+     },
+     {
+      "titulo": "Existência, autonomia e desconsideração",
+      "paragrafos": [
+       "A existência legal das pessoas jurídicas de direito privado começa com a inscrição do ato constitutivo no registro próprio (art. 45). O art. 49-A afirma que a pessoa jurídica não se confunde com seus sócios, associados, instituidores ou administradores. Essa autonomia patrimonial é um instrumento lícito de alocação e segregação de riscos.",
+       "A autonomia tem limite: o art. 50 permite a desconsideração da personalidade jurídica em caso de abuso, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, estendendo certas obrigações a administradores ou sócios beneficiados pelo abuso. O art. 52 aplica às pessoas jurídicas, no que couber, a proteção dos direitos da personalidade. O art. 51 mantém a pessoa jurídica dissolvida para fins de liquidação."
+      ]
+     },
+     {
+      "titulo": "Como usar isso na prova",
+      "paragrafos": [
+       "Os itens sobre personalidade costumam trocar números e marcos legais: 16 por 18 anos, nascimento por concepção, registro por início das atividades. Memorize os números e marcos dos arts. 2º a 6º e 45 e confira cada palavra do enunciado.",
+       "Quando a questão falar de pessoa jurídica, identifique primeiro se é de direito público (interno ou externo) ou de direito privado. A classificação do art. 40 define o regime, e o art. 45, sobre o registro, vale para as de direito privado."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Dizer que a personalidade civil começa na concepção: o art. 2º fixa o início no nascimento com vida e protege os direitos do nascituro desde a concepção.",
+     "Incluir os menores de 18 anos entre os absolutamente incapazes: só os menores de 16 anos o são (art. 3º). Entre 16 e 18, a incapacidade é relativa.",
+     "Datar a existência da pessoa jurídica de direito privado do início das atividades: o marco legal é a inscrição do ato constitutivo no registro (art. 45).",
+     "Classificar Estados estrangeiros como pessoas jurídicas de direito público interno: são de direito público externo (art. 42).",
+     "Entender a desconsideração como extinção da pessoa jurídica: ela afasta a autonomia patrimonial em caso concreto, sem desfazer a pessoa jurídica."
+    ],
+    "fontes": [
+     "Lei 10.406/2002 (Código Civil), https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+     "Lei 10.406/2002, arts. 1º a 6º e 40 a 52, texto compilado do Planalto"
+    ]
+   },
+   "itens": [
+    {
+     "id": "DIR-01-02#01",
+     "tipo": "certo_errado",
+     "enunciado": "Nos termos do art. 1º do Código Civil, toda pessoa é capaz de direitos e deveres na ordem civil.",
+     "gabarito": "C",
+     "explicacao": "É a redação do art. 1º, que trata da capacidade de direito.",
+     "fonte": "Lei 10.406/2002 (Código Civil), https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "id": "DIR-01-02#02",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o art. 2º do Código Civil, a personalidade civil da pessoa começa com a concepção.",
+     "gabarito": "E",
+     "explicacao": "O art. 2º fixa o início no nascimento com vida; a lei apenas põe a salvo, desde a concepção, os direitos do nascituro.",
+     "fonte": "Lei 10.406/2002 (Código Civil), https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "id": "DIR-01-02#03",
+     "tipo": "certo_errado",
+     "enunciado": "O art. 2º do Código Civil põe a salvo, desde a concepção, os direitos do nascituro.",
+     "gabarito": "C",
+     "explicacao": "É a segunda parte do art. 2º: a proteção dos direitos do nascituro vale desde a concepção.",
+     "fonte": "Lei 10.406/2002 (Código Civil), https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "id": "DIR-01-02#04",
+     "tipo": "certo_errado",
+     "enunciado": "De acordo com o art. 3º do Código Civil, são absolutamente incapazes de exercer pessoalmente os atos da vida civil os menores de 18 anos.",
+     "gabarito": "E",
+     "explicacao": "O art. 3º trata como absolutamente incapazes apenas os menores de 16 anos. Os maiores de 16 e menores de 18 são relativamente incapazes (art. 4º).",
+     "fonte": "Lei 10.406/2002 (Código Civil), https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "id": "DIR-01-02#05",
+     "tipo": "certo_errado",
+     "enunciado": "O casamento é uma das hipóteses de cessação da incapacidade, para os menores, previstas no parágrafo único do art. 5º do Código Civil.",
+     "gabarito": "C",
+     "explicacao": "O parágrafo único do art. 5º lista a concessão dos pais, o casamento, o emprego público efetivo, a colação de grau em curso superior e a economia própria.",
+     "fonte": "Lei 10.406/2002 (Código Civil), https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "id": "DIR-01-02#06",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o art. 45 do Código Civil, a existência legal das pessoas jurídicas de direito privado começa com o início efetivo de suas atividades.",
+     "gabarito": "E",
+     "explicacao": "O art. 45 fixa o início com a inscrição do ato constitutivo no respectivo registro.",
+     "fonte": "Lei 10.406/2002 (Código Civil), https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "id": "DIR-01-02#07",
+     "tipo": "certo_errado",
+     "enunciado": "As autarquias, inclusive as associações públicas, são pessoas jurídicas de direito público interno, conforme o art. 41 do Código Civil.",
+     "gabarito": "C",
+     "explicacao": "O art. 41 inclui as autarquias, inclusive as associações públicas, entre as pessoas jurídicas de direito público interno.",
+     "fonte": "Lei 10.406/2002 (Código Civil), https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "id": "DIR-01-02#08",
+     "tipo": "certo_errado",
+     "enunciado": "Os Estados estrangeiros são pessoas jurídicas de direito público interno, segundo o Código Civil.",
+     "gabarito": "E",
+     "explicacao": "O art. 42 classifica os Estados estrangeiros e as pessoas regidas pelo direito internacional público como de direito público externo.",
+     "fonte": "Lei 10.406/2002 (Código Civil), https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "id": "DIR-01-02#09",
+     "tipo": "certo_errado",
+     "enunciado": "O art. 49-A do Código Civil dispõe que a pessoa jurídica não se confunde com os seus sócios, associados, instituidores ou administradores.",
+     "gabarito": "C",
+     "explicacao": "O mesmo artigo qualifica a autonomia patrimonial como instrumento lícito de alocação e segregação de riscos.",
+     "fonte": "Lei 10.406/2002 (Código Civil), https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "id": "DIR-01-02#10",
+     "tipo": "certo_errado",
+     "enunciado": "Pelo art. 52 do Código Civil, a pessoa jurídica não pode titularizar nenhum direito da personalidade.",
+     "gabarito": "E",
+     "explicacao": "O art. 52 aplica às pessoas jurídicas, no que couber, a proteção dos direitos da personalidade.",
+     "fonte": "Lei 10.406/2002 (Código Civil), https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "id": "DIR-01-02#11",
+     "tipo": "associar",
+     "enunciado": "Associe cada situação ao seu enquadramento no Código Civil.",
+     "pares": [
+      [
+       "Menor de 16 anos",
+       "Absolutamente incapaz (art. 3º)"
+      ],
+      [
+       "Maior de 16 e menor de 18 anos",
+       "Relativamente incapaz (art. 4º)"
+      ],
+      [
+       "Morte",
+       "Fim da existência da pessoa natural (art. 6º)"
+      ],
+      [
+       "Inscrição do ato constitutivo no registro",
+       "Início da existência legal da pessoa jurídica de direito privado (art. 45)"
+      ],
+      [
+       "Abuso por desvio de finalidade ou confusão patrimonial",
+       "Hipótese de desconsideração da personalidade jurídica (art. 50)"
+      ]
+     ],
+     "explicacao": "Cada par reproduz o enquadramento dado pelos artigos indicados do Código Civil.",
+     "fonte": "Lei 10.406/2002 (Código Civil), https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+     "id": "DIR-01-02#12",
+     "tipo": "flashcard",
+     "frente": "Quando se admite a desconsideração da personalidade jurídica, nos termos do art. 50 do Código Civil?",
+     "verso": "Em caso de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade (uso doloso da pessoa jurídica para lesar credores ou praticar ilícitos) ou pela confusão patrimonial. O juiz decide a requerimento da parte ou do Ministério Público, quando lhe couber intervir no processo.",
+     "explicacao": "A desconsideração afasta, no caso concreto, a separação patrimonial, mas não extingue a pessoa jurídica.",
+     "fonte": "Lei 10.406/2002 (Código Civil), https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    }
+   ]
+  }
+ }
+}

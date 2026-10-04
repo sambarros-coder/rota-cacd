@@ -1,0 +1,481 @@
+{
+ "licoes": {
+  "POR-01-01": {
+   "resumo": "O Acordo Ortográfico de 1990 vigora no Brasil desde 2009 e tornou-se obrigatória a partir de 1º de janeiro de 2016, após o fim da transição em 31 de dezembro de 2015. Mudou trema, alguns acentos e o hífen. A regra do hífen com prefixos depende da letra final do prefixo e da letra inicial da palavra seguinte.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "O que é o Acordo e desde quando vale",
+      "paragrafos": [
+       "Ortografia é o conjunto de regras que fixa a forma oficial de escrever as palavras. O Acordo Ortográfico da Língua Portuguesa foi assinado em Lisboa, em 16 de dezembro de 1990, por países lusófonos. No Brasil, foi promulgado pelo Decreto 6.583, de 2008.",
+       "O Acordo passou a produzir efeitos em 1º de janeiro de 2009. Houve um período de transição, em que conviviam a grafia antiga e a nova, e o Decreto 7.875, de 2012, fixou seu término em 31 de dezembro de 2015. Hoje só a grafia nova é correta.",
+       "A grafia de cada palavra é registrada no VOLP (Vocabulário Ortográfico da Língua Portuguesa), publicado pela Academia Brasileira de Letras. Na dúvida, o VOLP é a referência."
+      ]
+     },
+     {
+      "titulo": "Alfabeto e trema",
+      "paragrafos": [
+       "O alfabeto passou a ter oficialmente 26 letras, com a incorporação de k, w e y. Essas letras aparecem em nomes próprios estrangeiros, em unidades internacionais de medida e em outros casos específicos, como 'Washington', 'km' e 'watt'.",
+       "O trema, sinal que indicava a pronúncia do u em 'lingüiça', foi suprimido das palavras portuguesas: escreve-se 'linguiça', 'frequência', 'cinquenta'. Ele permanece apenas em palavras derivadas de nomes próprios estrangeiros, como 'mülleriano' (de Müller)."
+      ]
+     },
+     {
+      "titulo": "Acentos que mudaram",
+      "paragrafos": [
+       "Perderam o acento os ditongos abertos ei e oi em palavras paroxítonas (aquelas com a sílaba forte na penúltima): ideia, plateia, boia, heroico, paranoia. As oxítonas (sílaba forte na última) continuam acentuadas: papéis, herói, chapéu.",
+       "Perderam o circunflexo as terminações em hiato oo e ee: voo, enjoo, creem, deem, leem. Também deixaram de ser acentuados o i e o u tônicos depois de ditongo, como em feiura. O acento diferencial em 'pelo', 'para' e 'polo' foi eliminado, mas 'pôde' (passado) e 'pôr' (verbo) o mantêm."
+      ]
+     },
+     {
+      "titulo": "Hífen em palavras compostas",
+      "paragrafos": [
+       "Palavra composta é a formada por dois ou mais elementos com sentido unificado. Quando mantém sua individualidade, leva hífen: ano-luz, arco-íris, decreto-lei, couve-flor, guarda-chuva. Alguns compostos perderam o hífen por terem se fundido na fala, como girassol, paraquedas e madressilva.",
+       "Expressões ligadas por preposição, em geral, não têm hífen: 'mão de obra', 'dia a dia'. Há exceções listadas, como 'água-de-colônia' e 'à queima-roupa', por isso a regra não deve ser generalizada."
+      ]
+     },
+     {
+      "titulo": "Hífen com prefixos: quando usar",
+      "paragrafos": [
+       "Prefixo é o elemento colocado antes da palavra para modificá-la, como anti-, auto-, micro-. Usa-se hífen nos casos abaixo."
+      ],
+      "lista": [
+       "Segundo elemento começa com h: anti-higiênico, super-homem, pré-história.",
+       "Prefixo termina na mesma vogal com que começa o segundo elemento: anti-inflamatório, micro-ondas, auto-observação, contra-almirante. Exceção: co-, pre- e re- se juntam mesmo diante de vogal igual (coordenar, preestabelecer, reeleição).",
+       "Prefixos circum- e pan- antes de vogal, m ou n: circum-navegação, pan-africano.",
+       "Prefixos hiper-, inter- e super- antes de r: hiper-requintado, inter-resistente, super-revista.",
+       "Prefixos ex-, sota-, soto-, vice- e vizo-: ex-diretor, vice-presidente.",
+       "Prefixos tônicos acentuados pós-, pré- e pró-: pós-graduação, pré-escolar, pró-africano. Suas formas átonas se juntam à palavra: pospor, prever."
+      ]
+     },
+     {
+      "titulo": "Hífen com prefixos: quando não usar",
+      "paragrafos": [
+       "Se o prefixo termina em vogal e o segundo elemento começa com r ou s, não há hífen e essas consoantes se duplicam: antirreligioso, contrassenha, minissaia, infrassom, biorritmo.",
+       "Se o prefixo termina em vogal e o segundo elemento começa com vogal diferente, também não há hífen: antiaéreo, autoestrada, extraescolar, aeroespacial, infraestrutura. Os prefixos co-, pre- e re- se juntam mesmo diante de vogal igual: cooperação, preexistir, reeleição.",
+       "Com h, vale a regra do hífen, mas des- e in- se juntam à palavra, que perde o h: desumano, inábil."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Situação",
+        "Hífen?",
+        "Exemplos"
+       ],
+       "linhas": [
+        [
+         "Prefixo + h",
+         "Sim (exceto des-, in- e co-)",
+         "anti-higiênico, super-homem"
+        ],
+        [
+         "Vogal final igual à inicial (exceto co-, pre-, re-)",
+         "Sim",
+         "anti-inflamatório, micro-ondas"
+        ],
+        [
+         "Vogal final + r ou s",
+         "Não (r e s duplicam)",
+         "antirreligioso, contrassenha"
+        ],
+        [
+         "Vogal final + outra vogal",
+         "Não",
+         "autoestrada, antiaéreo"
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "Roteiro para decidir o hífen em prova",
+      "paragrafos": [
+       "Diante de uma palavra com prefixo, siga três perguntas. Primeira: o segundo elemento começa com h? Se sim, use hífen (super-homem). Segunda: a última letra do prefixo é igual à primeira do segundo elemento? Se sim, use hífen (micro-ondas).",
+       "Terceira: o prefixo termina em vogal e o segundo elemento começa com r ou s? Então junte e duplique (antirreligioso). Se começa com outra vogal, apenas junte (autoestrada). Antes de tudo, confira se o prefixo é ex-, vice-, pós-, pré- ou pró-, que seguem regra própria, e lembre que co-, pre- e re- se juntam ao segundo elemento mesmo diante de vogal igual.",
+       "Esse roteiro cobre a maior parte dos itens. Casos fora dele, como compostos lexicalizados, devem ser consultados no VOLP."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Trocar o critério: o que decide é a letra final do prefixo e a inicial do segundo elemento. 'Autoestrada' (a + e) não tem hífen, mas 'auto-observação' (o + o) tem.",
+     "Esquecer de duplicar r e s: o correto é 'antirreligioso' e 'contrassenha', não 'anti-religioso' nem 'contrasenha'.",
+     "Achar que o fim do acento em ditongo aberto vale para todas as palavras: 'ideia' e 'heroico' perdem o acento, mas 'papéis' e 'herói' o mantêm.",
+     "Esquecer que ex-, vice-, pós-, pré- e pró- tônicos sempre levam hífen, enquanto co-, pre- e re- não levam hífen diante de vogal igual ('cooperação', 'preexistir', 'reeleição').",
+     "Dar como definitiva a lembrança do 'trema': ele só permanece em derivados de nomes estrangeiros, como 'mülleriano'."
+    ],
+    "fontes": [
+     "Decreto 6.583/2008 (texto do Acordo Ortográfico, Base XVI): https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm",
+     "Câmara dos Deputados, Decreto 6.583/2008 (norma atualizada, com o Decreto 7.875/2012): https://www2.camara.leg.br/legin/fed/decret/2008/decreto-6583-29-setembro-2008-581372-normaatualizada-pe.html",
+     "Senado Federal, Manual de Comunicação, verbete Acentuação: https://www12.senado.leg.br/manualdecomunicacao/estilos/acentuacao",
+     "Senado Federal, Manual de Comunicação, verbete Hífen: https://www12.senado.leg.br/manualdecomunicacao/estilos/hifen",
+     "Academia Brasileira de Letras, Nota explicativa ao Acordo Ortográfico: https://login.academia.org.br/sites/default/files/conteudo/nota_explicativa.pdf",
+     "Academia Brasileira de Letras, Vocabulário Ortográfico da Língua Portuguesa (VOLP)",
+     "Academia Brasileira de Letras, Nota Explicativa ao Acordo Ortográfico: https://login.academia.org.br/sites/default/files/conteudo/nota_explicativa.pdf",
+     "Senado Federal, Manual de Comunicação, verbete Hífen: https://www12.senado.leg.br/manualdecomunicacao/estilos/hifen"
+    ]
+   },
+   "itens": [
+    {
+     "id": "POR-01-01#01",
+     "tipo": "certo_errado",
+     "enunciado": "O Acordo de 2009 suprimiu o trema das palavras portuguesas, como em 'frequência' e 'linguiça', mas o manteve em palavras derivadas de nomes próprios estrangeiros, como 'mülleriano'.",
+     "gabarito": "C",
+     "explicacao": "A Base XIV do Acordo suprime o trema em palavras portuguesas e conserva-o nos derivados de nomes próprios estrangeiros, como 'hübneriano' e 'mülleriano'.",
+     "fonte": "Decreto 6.583/2008 (texto do Acordo Ortográfico, Base XIV, do trema): https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm"
+    },
+    {
+     "id": "POR-01-01#02",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o Acordo, as palavras paroxítonas 'ideia' e 'heroico' deixaram de receber acento gráfico por terem os ditongos abertos ei e oi.",
+     "gabarito": "C",
+     "explicacao": "A regra atinge ditongos abertos ei e oi em paroxítonas: ideia, plateia, boia, heroico, paranoia.",
+     "fonte": "Senado Federal, Manual de Comunicação, verbete Acentuação: https://www12.senado.leg.br/manualdecomunicacao/estilos/acentuacao"
+    },
+    {
+     "id": "POR-01-01#03",
+     "tipo": "certo_errado",
+     "enunciado": "Com o Acordo, os ditongos abertos ei e oi deixaram de ser acentuados em qualquer palavra, razão pela qual se escreve 'papeis' e 'heroi'.",
+     "gabarito": "E",
+     "explicacao": "A mudança vale só para paroxítonas. Nas oxítonas, o acento permanece: papéis, herói, chapéu.",
+     "fonte": "Senado Federal, Manual de Comunicação, verbete Acentuação: https://www12.senado.leg.br/manualdecomunicacao/estilos/acentuacao"
+    },
+    {
+     "id": "POR-01-01#04",
+     "tipo": "certo_errado",
+     "enunciado": "As formas 'voo', 'enjoo', 'leem' e 'deem' continuam a receber circunflexo, pois o Acordo manteve o acento nos hiatos oo e ee.",
+     "gabarito": "E",
+     "explicacao": "O Acordo suprimiu o circunflexo dos hiatos oo e ee: voo, enjoo, creem, deem, leem.",
+     "fonte": "Senado Federal, Manual de Comunicação, verbete Acentuação: https://www12.senado.leg.br/manualdecomunicacao/estilos/acentuacao"
+    },
+    {
+     "id": "POR-01-01#05",
+     "tipo": "certo_errado",
+     "enunciado": "Em regra, quando o segundo elemento começa com h, usa-se hífen depois do prefixo, como em 'super-homem' e 'pré-história'.",
+     "gabarito": "C",
+     "explicacao": "A Base XVI manda empregar o hífen quando o segundo elemento começa com h. Exceções: des- e in-, que se juntam à palavra e eliminam o h (desumano, inábil), e co-, que também faz o h cair (coerdeiro, segundo a Nota Explicativa da ABL).",
+     "fonte": "Decreto 6.583/2008 (texto do Acordo Ortográfico, Base XVI): https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm"
+    },
+    {
+     "id": "POR-01-01#06",
+     "tipo": "certo_errado",
+     "enunciado": "Em regra, quando o prefixo termina em vogal e o segundo elemento começa com vogal diferente, não se emprega hífen, como em 'autoestrada' e 'extraescolar'.",
+     "gabarito": "C",
+     "explicacao": "Vogais diferentes se juntam sem hífen: antiaéreo, autoestrada, extraescolar, aeroespacial.",
+     "fonte": "Decreto 6.583/2008 (texto do Acordo Ortográfico, Base XVI): https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm"
+    },
+    {
+     "id": "POR-01-01#07",
+     "tipo": "certo_errado",
+     "enunciado": "Quando o prefixo termina em vogal e o segundo elemento começa com r ou s, usa-se hífen sem duplicar a consoante, como em 'anti-religioso' e 'contra-senha'.",
+     "gabarito": "E",
+     "explicacao": "Nesse caso não há hífen e r e s se duplicam: antirreligioso, contrassenha.",
+     "fonte": "Decreto 6.583/2008 (texto do Acordo Ortográfico, Base XVI): https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm"
+    },
+    {
+     "id": "POR-01-01#08",
+     "tipo": "certo_errado",
+     "enunciado": "O prefixo co- mantém o hífen quando o segundo elemento começa com o, razão pela qual se escreve 'co-operação'.",
+     "gabarito": "E",
+     "explicacao": "O prefixo co- se junta ao segundo elemento mesmo quando este começa com o: cooperação, coordenar.",
+     "fonte": "Decreto 6.583/2008 (texto do Acordo Ortográfico, Base XVI): https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm"
+    },
+    {
+     "id": "POR-01-01#09",
+     "tipo": "multipla_escolha",
+     "enunciado": "Assinale a alternativa em que todas as palavras estão grafadas de acordo com o Acordo Ortográfico.",
+     "opcoes": [
+      "auto-estrada, contra-regra, microondas",
+      "autoestrada, contrarregra, micro-ondas",
+      "auto-estrada, contrarregra, micro-ondas",
+      "autoestrada, contra-regra, microondas"
+     ],
+     "gabarito": 1,
+     "explicacao": "Vogal final diferente da inicial não leva hífen (autoestrada); vogal final + r duplica o r sem hífen (contrarregra); vogais iguais levam hífen (micro-ondas).",
+     "fonte": "Decreto 6.583/2008 (texto do Acordo Ortográfico, Base XVI): https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm"
+    },
+    {
+     "id": "POR-01-01#10",
+     "tipo": "multipla_escolha",
+     "enunciado": "Qual alternativa contém apenas palavras com grafia correta quanto ao hífen e à duplicação de consoantes?",
+     "opcoes": [
+      "antissemita, minissaia, infrassom",
+      "anti-semita, mini-saia, infra-som",
+      "antisemita, minisaia, infrasom",
+      "antissemita, mini-saia, infrassom"
+     ],
+     "gabarito": 0,
+     "explicacao": "Prefixo terminado em vogal diante de s não leva hífen, e o s se duplica: antissemita, minissaia, infrassom.",
+     "fonte": "Decreto 6.583/2008 (texto do Acordo Ortográfico, Base XVI): https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm"
+    },
+    {
+     "id": "POR-01-01#11",
+     "tipo": "multipla_escolha",
+     "enunciado": "Segundo o Decreto 6.583/2008, com a alteração do Decreto 7.875/2012, o período de transição do Acordo Ortográfico no Brasil foi:",
+     "opcoes": [
+      "de 1º de janeiro de 2009 a 31 de dezembro de 2012",
+      "de 1º de janeiro de 2009 a 31 de dezembro de 2015",
+      "de 16 de dezembro de 1990 a 31 de dezembro de 2008",
+      "de 1º de janeiro de 2016 em diante"
+     ],
+     "gabarito": 1,
+     "explicacao": "O Acordo passou a produzir efeitos em 1º de janeiro de 2009, e a transição foi prorrogada até 31 de dezembro de 2015.",
+     "fonte": "Câmara dos Deputados, Decreto 6.583/2008 (norma atualizada): https://www2.camara.leg.br/legin/fed/decret/2008/decreto-6583-29-setembro-2008-581372-normaatualizada-pe.html"
+    },
+    {
+     "id": "POR-01-01#12",
+     "tipo": "flashcard",
+     "frente": "Quando os prefixos pós-, pré- e pró- levam hífen?",
+     "verso": "Quando são tônicos e acentuados: pós-graduação, pré-escolar, pró-africano. As formas átonas se juntam à palavra: pospor, prever.",
+     "explicacao": "A Base XVI distingue a forma tônica acentuada, que leva hífen, da forma átona, que se aglutina.",
+     "fonte": "Decreto 6.583/2008 (texto do Acordo Ortográfico, Base XVI): https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm"
+    }
+   ]
+  },
+  "POR-01-02": {
+   "resumo": "Muitos erros de grafia vêm de sons iguais escritos com letras diferentes. A lição reúne regras de s/z, ss/ç, x/ch e g/j com seus principais contraexemplos e distingue homófonos e parônimos pelo sentido em contexto.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "Por que a grafia confunde",
+      "paragrafos": [
+       "Em português, uma mesma letra pode representar sons diferentes e um mesmo som pode ser escrito de várias formas. É o caso do som de s, que aparece em 'sessão', 'seção' e 'cessão'. Por isso, a memória visual e algumas regras de base ajudam mais do que a pronúncia.",
+       "Duas palavras são homófonas quando têm a mesma pronúncia e grafia diferente, como 'censo' e 'senso'. São parônimas quando têm pronúncia e grafia parecidas, mas não iguais, como 'emigrar' e 'imigrar'. Em ambos os casos, o sentido da frase decide qual usar."
+      ]
+     },
+     {
+      "titulo": "S ou Z",
+      "paragrafos": [
+       "Escreve-se com s o sufixo -oso, que forma adjetivos (bondoso, cheiroso), e os sufixos -ês, -esa e -isa, que indicam origem, título ou profissão (francês, francesa, marquês, poetisa). Também se usa s depois de ditongo em palavras como 'coisa' e 'lousa'.",
+       "Escreve-se com z o sufixo -ez ou -eza, que forma substantivos abstratos a partir de adjetivos: rígido, rigidez; belo, beleza; magro, magreza. O sufixo verbal é -izar (atualizar, batizar, hospitalizar), mas o verbo derivado de palavra que já tem s no radical mantém o s: pesquisa, pesquisar; análise, analisar; aviso, avisar."
+      ]
+     },
+     {
+      "titulo": "SS ou Ç",
+      "paragrafos": [
+       "A letra ç só aparece diante de a, o e u e nunca inicia palavra: açúcar, caçula, açougue. Em início de palavra, o som de s diante de e ou i é escrito com s ou c, como em 'centeio' e 'cinto'. Após ditongo, o som de s pode ser escrito com ç em palavras como 'eleição', 'traição' e 'louça'.",
+       "Entre vogais, o som de s costuma ser escrito com ss (passo, assado), porque um s simples soaria como z (casa). Mas esse som também pode vir com c, ç, sc ou x (cimento, seção, nascer, próximo). O trio 'sessão', 'seção' e 'cessão' é clássico em prova: sessão é o intervalo de tempo em que algo acontece (sessão de cinema); seção é divisão ou parte de um todo (seção eleitoral); cessão é o ato de ceder (cessão de direitos)."
+      ]
+     },
+     {
+      "titulo": "X ou CH",
+      "paragrafos": [
+       "Escreve-se x depois de ditongo (caixa, peixe, deixa), depois da sílaba inicial me- (mexer, mexido, mexicano), depois da sílaba inicial en- (enxada, enxame, enxofre) e em muitas palavras de origem indígena ou africana (xavante, xingar).",
+       "As exceções mais cobradas são 'mecha', 'encher' e seus derivados, como 'enchente', e 'recauchutar' (depois de ditongo), todos com ch. Fora desses contextos, não há regra segura, e a grafia deve ser memorizada: 'chave', 'chuva' e 'bucha' vão com ch; 'xarope' vai com x."
+      ]
+     },
+     {
+      "titulo": "G ou J",
+      "paragrafos": [
+       "Escreve-se g nos substantivos terminados em -gem, como 'viagem', 'vagem' e 'alavancagem' (exceções: 'pajem' e 'lambujem'), e em palavras terminadas em -ágio, -égio, -ígio, -ógio e -úgio, como 'presságio', 'litígio', 'relógio' e 'refúgio'.",
+       "Escreve-se j em palavras de origem indígena ou africana, como 'pajé', 'jerimum', 'canjica' e 'jiló'. Os verbos terminados em -jar mantêm o j em todas as formas: viajar, viajo, viajem. Assim, 'viagem' é substantivo, e 'viajem' é forma do verbo viajar ('espero que eles viajem')."
+      ]
+     },
+     {
+      "titulo": "Homófonos e parônimos que caem em prova",
+      "paragrafos": [
+       "O quadro reúne pares frequentes com o sentido de cada palavra. Em cada caso, leia a frase inteira antes de decidir."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Par",
+        "Primeira palavra",
+        "Segunda palavra"
+       ],
+       "linhas": [
+        [
+         "comprimento / cumprimento",
+         "extensão",
+         "saudação ou ato de cumprir"
+        ],
+        [
+         "infringir / infligir",
+         "violar (infringir a lei)",
+         "aplicar pena ou castigo"
+        ],
+        [
+         "ratificar / retificar",
+         "confirmar",
+         "corrigir"
+        ],
+        [
+         "eminente / iminente",
+         "elevado, notável",
+         "prestes a ocorrer"
+        ],
+        [
+         "descrição / discrição",
+         "ato de descrever",
+         "prudência, reserva"
+        ],
+        [
+         "tráfego / tráfico",
+         "trânsito",
+         "comércio ilegal"
+        ],
+        [
+         "emigrar / imigrar",
+         "sair de um país",
+         "entrar em um país"
+        ],
+        [
+         "censo / senso",
+         "recenseamento",
+         "juízo, noção"
+        ],
+        [
+         "acender / ascender",
+         "atear fogo, ligar",
+         "subir"
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "Estratégia para a prova",
+      "paragrafos": [
+       "Em itens de grafia, identifique primeiro o tipo de palavra: substantivo abstrato (-ez, -eza), verbo (-izar ou -isar conforme o radical), adjetivo de origem (-ês, -esa) ou substantivo em -gem. Muitas vezes a classe da palavra já indica a letra correta.",
+       "Em itens de homófonos e parônimos, ignore a aparência e procure o sentido: pergunte se a frase fala de tempo, de divisão ou de ato de ceder; de violar ou de aplicar pena; de confirmar ou de corrigir. Quando a banca troca uma letra no enunciado, o erro costuma estar justamente nesse par."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Escrever 'pesquizar' ou 'analizar' por analogia com -izar: verbos derivados de palavras com s no radical mantêm o s (pesquisa, análise).",
+     "Confundir 'viagem' (substantivo) com 'viajem' (verbo viajar, subjuntivo ou imperativo): o substantivo termina em -gem, e o verbo mantém o j.",
+     "Esquecer as exceções do x: 'mecha', 'encher' e 'enchente' levam ch, apesar das sílabas me- e en-.",
+     "Trocar 'infringir' (violar) por 'infligir' (aplicar pena): quem infringe uma norma e quem inflige uma sanção praticam atos diferentes.",
+     "Usar 'sessão', 'seção' e 'cessão' de forma intercambiável: o sentido da frase (tempo, divisão ou ato de ceder) é o único critério."
+    ],
+    "fontes": [
+     "Cegalla, Domingos Paschoal. Novíssima Gramática da Língua Portuguesa (obra de referência da lição)",
+     "Toda Matéria, regras de ortografia: https://www.todamateria.com.br/ortografia-regras-ortograficas-exercicios/",
+     "Toda Matéria, uso do c cedilha: https://www.todamateria.com.br/uso-do-c-cedilha/",
+     "Toda Matéria, homônimos e parônimos: https://www.todamateria.com.br/homonimos-e-paronimos/",
+     "Dicio, sessão, seção ou cessão: https://www.dicio.com.br/sessao-ou-secao/",
+     "Dicio, palavras com s que se escrevem com z: https://www.dicio.com.br/12-palavras-que-se-escrevem-com-s-mas-que-todo-mundo-escreve-com-z/"
+    ]
+   },
+   "itens": [
+    {
+     "id": "POR-01-02#01",
+     "tipo": "lacuna",
+     "enunciado": "É preciso ___ os dados com cuidado antes de concluir (verbo derivado do substantivo 'análise').",
+     "aceitas": [
+      "analisar"
+     ],
+     "explicacao": "O verbo deriva de 'análise', que já tem s no radical, e por isso mantém o s: analisar, e não 'analizar'.",
+     "fonte": "Dicio, palavras com s que se escrevem com z: https://www.dicio.com.br/12-palavras-que-se-escrevem-com-s-mas-que-todo-mundo-escreve-com-z/"
+    },
+    {
+     "id": "POR-01-02#02",
+     "tipo": "lacuna",
+     "enunciado": "Espero que os convidados ___ em segurança (verbo 'viajar', presente do subjuntivo, terceira pessoa do plural).",
+     "aceitas": [
+      "viajem"
+     ],
+     "explicacao": "Os verbos terminados em -jar mantêm o j. 'Viagem' é o substantivo; 'viajem' é a forma verbal.",
+     "fonte": "Toda Matéria, regras de ortografia: https://www.todamateria.com.br/ortografia-regras-ortograficas-exercicios/"
+    },
+    {
+     "id": "POR-01-02#03",
+     "tipo": "lacuna",
+     "enunciado": "A empresa fez a ___ dos direitos autorais ao editor (ato de ceder).",
+     "aceitas": [
+      "cessão",
+      "cessao"
+     ],
+     "explicacao": "'Cessão' designa o ato de ceder, transferir bem ou direito. 'Sessão' é intervalo de tempo e 'seção' é divisão.",
+     "fonte": "Dicio, sessão, seção ou cessão: https://www.dicio.com.br/sessao-ou-secao/"
+    },
+    {
+     "id": "POR-01-02#04",
+     "tipo": "multipla_escolha",
+     "enunciado": "Assinale a série em que todas as palavras estão corretamente grafadas.",
+     "opcoes": [
+      "mexer, enxame, encher, caixa",
+      "mecher, enxame, encher, caixa",
+      "mexer, enchame, encher, caixa",
+      "mexer, enxame, enxer, caixa"
+     ],
+     "gabarito": 0,
+     "explicacao": "Usa-se x depois de me- (mexer), depois de en- (enxame) e depois de ditongo (caixa). 'Encher' é exceção e leva ch.",
+     "fonte": "Toda Matéria, regras de ortografia: https://www.todamateria.com.br/ortografia-regras-ortograficas-exercicios/"
+    },
+    {
+     "id": "POR-01-02#05",
+     "tipo": "multipla_escolha",
+     "enunciado": "Complete: 'A ___ de julgamento foi aberta pontualmente' (reunião com tempo determinado).",
+     "opcoes": [
+      "seção",
+      "sessão",
+      "cessão",
+      "sesão"
+     ],
+     "gabarito": 1,
+     "explicacao": "'Sessão' é o intervalo de tempo em que algo acontece. 'Seção' é divisão de um todo e 'cessão' é o ato de ceder.",
+     "fonte": "Dicio, sessão, seção ou cessão: https://www.dicio.com.br/sessao-ou-secao/"
+    },
+    {
+     "id": "POR-01-02#06",
+     "tipo": "multipla_escolha",
+     "enunciado": "Complete: 'Quem ___ uma norma legal está sujeito às penalidades previstas.' (violar)",
+     "opcoes": [
+      "infligir",
+      "infringir",
+      "infrigir",
+      "inflingir"
+     ],
+     "gabarito": 1,
+     "explicacao": "'Infringir' significa violar. 'Infligir' significa aplicar pena ou castigo.",
+     "fonte": "Toda Matéria, homônimos e parônimos: https://www.todamateria.com.br/homonimos-e-paronimos/"
+    },
+    {
+     "id": "POR-01-02#07",
+     "tipo": "certo_errado",
+     "enunciado": "Os substantivos abstratos formados de adjetivos com os sufixos -ez e -eza escrevem-se com z, como 'rigidez' e 'pobreza'.",
+     "gabarito": "C",
+     "explicacao": "Os sufixos -ez e -eza formam substantivos abstratos de adjetivos e se escrevem com z: rígido, rigidez; pobre, pobreza.",
+     "fonte": "Toda Matéria, regras de ortografia: https://www.todamateria.com.br/ortografia-regras-ortograficas-exercicios/"
+    },
+    {
+     "id": "POR-01-02#08",
+     "tipo": "certo_errado",
+     "enunciado": "O verbo derivado de 'pesquisa' deve ser escrito 'pesquizar', pois os verbos formados com o sufixo verbal levam sempre z.",
+     "gabarito": "E",
+     "explicacao": "O verbo é 'pesquisar'. O sufixo verbal é -izar, mas, quando a palavra de origem já tem s, o s se mantém: pesquisa, pesquisar.",
+     "fonte": "Dicio, palavras com s que se escrevem com z: https://www.dicio.com.br/12-palavras-que-se-escrevem-com-s-mas-que-todo-mundo-escreve-com-z/"
+    },
+    {
+     "id": "POR-01-02#09",
+     "tipo": "certo_errado",
+     "enunciado": "O ç só se usa diante de a, o e u e nunca inicia palavras; por isso se escreve 'açúcar' e 'caçula'.",
+     "gabarito": "C",
+     "explicacao": "O cedilha representa o som de s apenas diante de a, o e u e não aparece em início de palavra.",
+     "fonte": "Toda Matéria, uso do c cedilha: https://www.todamateria.com.br/uso-do-c-cedilha/"
+    },
+    {
+     "id": "POR-01-02#10",
+     "tipo": "certo_errado",
+     "enunciado": "Depois da sílaba inicial en-, escreve-se sempre x, e por isso a forma correta é 'enxente', e não 'enchente'.",
+     "gabarito": "E",
+     "explicacao": "'Enchente' vem de 'encher', que é exceção à regra do en- + x e se escreve com ch, assim como seus derivados.",
+     "fonte": "Toda Matéria, regras de ortografia: https://www.todamateria.com.br/ortografia-regras-ortograficas-exercicios/"
+    },
+    {
+     "id": "POR-01-02#11",
+     "tipo": "certo_errado",
+     "enunciado": "'Mecha' e 'encher' são exceções à regra do x depois de me- e en-, e se escrevem com ch.",
+     "gabarito": "C",
+     "explicacao": "Depois de me- e en- escreve-se x (mexer, enxada), mas 'mecha' e 'encher' (e derivados) levam ch.",
+     "fonte": "Toda Matéria, regras de ortografia: https://www.todamateria.com.br/ortografia-regras-ortograficas-exercicios/"
+    },
+    {
+     "id": "POR-01-02#12",
+     "tipo": "certo_errado",
+     "enunciado": "'Emigrar' significa entrar em um país estrangeiro para nele viver, e 'imigrar' significa deixar o próprio país.",
+     "gabarito": "E",
+     "explicacao": "Os sentidos estão invertidos: emigrar é deixar um país, e imigrar é entrar em um país.",
+     "fonte": "Toda Matéria, homônimos e parônimos: https://www.todamateria.com.br/homonimos-e-paronimos/"
+    }
+   ]
+  }
+ }
+}
