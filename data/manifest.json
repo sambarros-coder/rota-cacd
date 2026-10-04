@@ -1,0 +1,22 @@
+{
+ "schema": 1,
+ "gerado_em": "2026-10-04T14:44:10Z",
+ "pacotes": [
+  {
+   "id": "core",
+   "tipo": "core",
+   "version": "1.0.0",
+   "arquivo": "packs/core-1.0.0.json",
+   "sha256": "524bfc4784f81b0920bf38b6940d8b0d151d4430dbe38f773ce64048a0677368",
+   "bytes": 334008
+  },
+  {
+   "id": "demo",
+   "tipo": "demo",
+   "version": "1.0.0",
+   "arquivo": "packs/demo-1.0.0.json",
+   "sha256": "db48aaa964c8dae3d7f5f056e060b0fdd626651030ec6b9c56c6d2217852a8af",
+   "bytes": 4986
+  }
+ ]
+}
