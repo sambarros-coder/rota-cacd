@@ -146,6 +146,17 @@ export async function registrarItem(item, acertou) {
 }
 export const errados = () => Object.entries(D.prog.itens).filter(([id, r]) => r.erro && D.idx.todosItens[id]).map(([id]) => D.idx.todosItens[id]);
 
+// ---------- apagar / restaurar ----------
+export async function apagarProgresso() {
+  await db.set('progress_anterior', D.prog);   // cópia de segurança para desfazer
+  D.prog = PROG_VAZIO(); await salvar();
+}
+export const temCopiaAnterior = async () => { const a = await db.get('progress_anterior'); return !!a && Object.keys(a.licoes || {}).length + Object.keys(a.itens || {}).length > 0; };
+export async function restaurarAnterior() {
+  const a = await db.get('progress_anterior'); if (!a) throw new Error('Não há cópia anterior.');
+  await db.set('progress_anterior', D.prog); D.prog = a; await salvar();
+}
+
 // ---------- backup ----------
 export function exportar() {
   return JSON.stringify({ app: 'rota-cacd', schema: 1, exportado_em: new Date().toISOString(), progresso: D.prog }, null, 1);

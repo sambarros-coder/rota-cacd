@@ -86,3 +86,5 @@ nav a[aria-current]{color:var(--tinta);border-top-color:var(--latao)}
 .aula.peg{border-left:5px solid var(--latao)}
 .tabela{overflow-x:auto;margin:.6em 0}table{border-collapse:collapse;width:100%;font-size:.92rem}th,td{border:1px solid var(--linha);padding:6px 8px;text-align:left;vertical-align:top}th{background:var(--neu-bg)}
 .fontes{margin:10px 0;font-size:.85rem;color:var(--suave)}.fontes li{margin:.3em 0}
+.btn.danger{background:var(--selo);color:#fff}label[for=confApagar]{display:block;margin-top:10px;font-size:.9rem}
+#boxApagar[hidden]{display:none}

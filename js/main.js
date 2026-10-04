@@ -190,13 +190,26 @@ rota(/^\/mais$/, async () => {
     <section class="cartao"><h2>Seu progresso fica só neste aparelho</h2><p>Salve um backup de vez em quando. Para trocar de aparelho, importe o arquivo no novo.</p>
     <button class="btn" data-act="exportar">Baixar backup</button> <label class="btn sec arq">Importar backup<input type="file" accept="application/json" id="imp" hidden></label><p id="msgBk" class="meta" aria-live="polite"></p>
     ${semArmazenamento() ? '<p class="aviso">Este navegador está bloqueando o armazenamento. O progresso se perde ao fechar.</p>' : ''}</section>
+    <section class="cartao"><h2>Apagar progresso</h2><p>Zera lições feitas, revisões, caderno de erros, sequência e desafios. O conteúdo do app não é afetado.</p>
+    <button class="btn sec" data-act="apagar1" id="btnApagar">Apagar progresso…</button>
+    <div id="boxApagar" hidden><p class="aviso">Isso zera o progresso deste aparelho. Uma cópia fica guardada para desfazer, mas só até o próximo apagamento ou importação. Baixe um backup se quiser guardá-lo.</p>
+    <button class="btn sec" data-act="exportar">Baixar backup antes</button>
+    <label for="confApagar">Digite APAGAR para confirmar</label><input class="inp" id="confApagar" autocomplete="off" autocapitalize="characters">
+    <button class="btn danger" data-act="apagar2" id="btnApagar2" disabled>Apagar progresso agora</button>
+    <button class="btn sec" data-act="apagarNao">Cancelar</button></div>
+    <p id="msgApagar" class="meta" aria-live="polite"></p>${await S.temCopiaAnterior() ? '<button class="btn sec" data-act="desfazer">Desfazer o último apagamento ou importação</button>' : ''}</section>
     <section class="cartao"><h2>Sobre</h2><p class="meta">Rota CACD · material de estudo para o concurso do Instituto Rio Branco. Os itens marcados como rascunho precisam de revisão humana. Confira sempre o edital oficial.</p></section>`);
 });
 document.addEventListener('click', async (e) => {
   const a = e.target.closest('[data-act]')?.dataset.act;
   if (a === 'atualizar') { const m = document.getElementById('msgAtu'); m.textContent = 'Buscando…'; try { const n = await S.verificarAtualizacoes(); m.textContent = n.length ? `Atualizado: ${n.map(x => x.id + ' v' + x.para).join(', ')}.` : 'Você já está com a versão mais recente.'; } catch (err) { m.textContent = 'Problema na atualização: ' + err.message; if (err.novos?.length) { await navegar(); const x = document.getElementById('msgAtu'); if (x) x.textContent = 'Problema na atualização: ' + err.message; } } }
+  if (a === 'apagar1') { document.getElementById('boxApagar').hidden = false; e.target.hidden = true; document.getElementById('confApagar').focus(); }
+  if (a === 'apagarNao') { document.getElementById('boxApagar').hidden = true; document.getElementById('btnApagar').hidden = false; document.getElementById('confApagar').value = ''; document.getElementById('btnApagar2').disabled = true; }
+  if (a === 'apagar2' && document.getElementById('confApagar').value.trim().toUpperCase() === 'APAGAR') { await S.apagarProgresso(); await navegar(); document.getElementById('msgApagar').textContent = 'Progresso apagado. Para desfazer, use o botão abaixo.'; }
+  if (a === 'desfazer') { try { await S.restaurarAnterior(); await navegar(); document.getElementById('msgApagar').textContent = 'Progresso restaurado.'; } catch (err) { document.getElementById('msgApagar').textContent = err.message; } }
   if (a === 'exportar') { const b = new Blob([S.exportar()], { type: 'application/json' }); const u = URL.createObjectURL(b); const l = document.createElement('a'); l.href = u; l.download = `rota-cacd-backup-${S.hoje()}.json`; l.click(); setTimeout(() => URL.revokeObjectURL(u), 2000); document.getElementById('msgBk').textContent = 'Backup baixado.'; }
 });
+document.addEventListener('input', (e) => { if (e.target.id === 'confApagar') document.getElementById('btnApagar2').disabled = e.target.value.trim().toUpperCase() !== 'APAGAR'; });
 document.addEventListener('change', async (e) => {
   if (e.target.id !== 'imp') return; const f = e.target.files[0]; if (!f) return; const m = document.getElementById('msgBk');
   try { if (!confirm('Importar vai substituir o progresso deste aparelho. Uma cópia do atual fica guardada. Continuar?')) return; await S.importar(await f.text()); m.textContent = 'Backup importado.'; } catch (err) { m.textContent = err.message; }

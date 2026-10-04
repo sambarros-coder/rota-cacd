@@ -87,6 +87,13 @@ with sync_playwright() as p:
     with pg.expect_download() as d: pg.click('[data-act=exportar]')
     path = d.value.path(); bk = json.load(open(path)); check(bk['app'] == 'rota-cacd' and 'POR-01-03' in bk['progresso']['licoes'], 'backup exporta progresso')
     pg.screenshot(path='tools/shots/mais.png', full_page=True)
+    # apagar progresso e desfazer
+    pg.click('[data-act=apagar1]'); check(pg.is_disabled('#btnApagar2'), 'apagar começa desabilitado')
+    pg.fill('#confApagar', 'apagar'); pg.click('#btnApagar2'); pg.wait_for_timeout(500)
+    pg.goto(URL + '?hoje=2026-11-03#/'); pg.wait_for_selector('h1')
+    check(pg.inner_text('.grade3').split()[0] == '0' and 'lições do ciclo' in pg.inner_text('.grade3'), 'progresso zerado')
+    pg.goto(URL + '?hoje=2026-11-03#/mais'); pg.wait_for_selector('h1'); pg.click('[data-act=desfazer]'); pg.wait_for_timeout(500)
+    pg.goto(URL + '?hoje=2026-11-03#/licao/POR-01-03'); pg.wait_for_selector('h1'); check('Concluída' in pg.inner_text('main'), 'desfazer restaura o progresso')
     # offline
     ctx.set_offline(True); pg.goto(URL + '?hoje=2026-11-03#/'); pg.wait_for_selector('html[data-pronto]', timeout=8000)
     check('Ciclo 1' in pg.inner_text('h1'), 'abre offline')
