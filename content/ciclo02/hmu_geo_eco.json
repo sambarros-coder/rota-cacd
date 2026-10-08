@@ -1,0 +1,553 @@
+{
+ "licoes": {
+  "HMU-01-02": {
+   "resumo": "A Segunda Revolução Industrial combinou aço, eletricidade e petróleo com grandes empresas, trustes e cartéis. Taylor propôs a organização científica do trabalho (1911) e Ford levou a linha de montagem móvel a Highland Park (1913-1914). Hilferding (1910) descreveu a ligação entre bancos e indústria, ideia próxima do chamado capitalismo organizado.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "Uma nova fase da industrialização",
+      "paragrafos": [
+       "A Primeira Revolução Industrial, iniciada na Grã-Bretanha, girou em torno do carvão, do vapor e da indústria têxtil. Chama-se Segunda Revolução Industrial a fase seguinte, que a Britannica situa entre meados do século XIX e o início do século XX. Seus marcos são o aço, a eletricidade e o petróleo como novas fontes de energia e de materiais.",
+       "Segundo a Britannica, o período vai de meados do século XIX ao início do século XX e é marcado sobretudo por aço, eletricidade e petróleo. Os manuais costumam ligar essas inovações a mais produção em escala e a empresas maiores; os detalhes variam conforme o autor."
+      ]
+     },
+     {
+      "titulo": "Concentração: grandes empresas, trustes e cartéis",
+      "paragrafos": [
+       "Indústrias de aço, petróleo e ferrovias exigiam capital enorme. Isso favoreceu empresas gigantes e acordos para reduzir a concorrência. Dois termos precisam ser distinguidos desde já.",
+       "Cartel é uma associação de empresas independentes que coordenam preços, produção ou mercados, mas mantêm identidade e autonomia financeira própria (definição da Britannica). No caso da Standard Oil, o truste foi uma combinação de empresas sob direção unificada. No Standard Oil Trust, de 1882, empresas afiliadas foram reunidas por acordo assinado por nove trustees (administradores), entre eles John D. Rockefeller. Em 1911, a Standard Oil Company (New Jersey) foi obrigada a se desfazer de 33 empresas, segundo a Britannica."
+      ],
+      "lista": [
+       "Cartel: empresas separadas que se coordenam.",
+       "Truste: empresas combinadas sob direção unificada.",
+       "Reação do Estado: nos Estados Unidos, o Sherman Antitrust Act (1890) declarou ilegal contrato, combinação sob a forma de truste ou outra, ou conspiração que restrinja o comércio entre estados ou com o exterior."
+      ]
+     },
+     {
+      "titulo": "Taylorismo: a organização científica do trabalho",
+      "paragrafos": [
+       "Frederick Winslow Taylor (1856-1915), engenheiro estadunidense, é chamado de pai da administração científica. Segundo a Britannica, seu sistema começou com estudos de tempo em uma usina siderúrgica em 1881. Ele publicou The Principles of Scientific Management em 1911.",
+       "A ideia central é analisar cada tarefa por observação e medição de tempos e movimentos, em vez de deixar o ritmo ao critério do operário. O taylorismo trata, portanto, de como organizar e controlar o trabalho. Não é uma máquina nem uma técnica de montagem."
+      ]
+     },
+     {
+      "titulo": "Fordismo: produção em massa",
+      "paragrafos": [
+       "Henry Ford lançou o Modelo T em 1908. Segundo o museu The Henry Ford, a fábrica de Highland Park, em Michigan, teve experimentos de linha de montagem móvel em 1913 e a implementou plenamente em 1914. O museu informa que o Modelo T foi produzido de 1908 a 1927, com mais de 15 milhões de unidades, e que o preço caiu de 850 dólares para até 260.",
+       "Fordismo é o nome dado pela historiografia ao conjunto: linha de montagem móvel, padronização, produção em escala e preço baixo para ampliar o consumo. A Britannica registra ainda a jornada de cinco dólares em 1914. Cuidado: a data de 'início' da linha varia conforme se conte o experimento (1913) ou a implantação plena (1914)."
+      ]
+     },
+     {
+      "titulo": "Capitalismo financeiro e capitalismo organizado",
+      "paragrafos": [
+       "Rudolf Hilferding, em Finance Capital (1910), descreveu duas tendências da fase recente do capitalismo: a concentração, que elimina a livre concorrência por meio de cartéis e trustes, e a crescente intimidade entre capital bancário e industrial. Dessa fusão resultaria o capital financeiro.",
+       "Capitalismo organizado é uma expressão associada a Rudolf Hilferding, que desenvolveu o conceito depois de Das Finanzkapital (1910), segundo a Friedrich-Ebert-Stiftung. Ela é usada por parte da historiografia e das ciências sociais para designar uma economia em que grandes empresas, bancos e, em alguns casos, o Estado coordenam mercados em vez de deixá-los à concorrência atomizada. Não há consenso único sobre o conceito, e datas e usos da expressão variam entre autores; não decore uma data. Pense em três níveis: a técnica (aço, eletricidade, petróleo), a empresa (cartéis, trustes e linha de montagem) e o sistema (bancos, grandes grupos e coordenação dos mercados). Em prova, associe-o à concentração, aos cartéis e à gestão científica da produção, lembrando que a expressão é associada a Hilferding."
+      ]
+     },
+     {
+      "titulo": "Como cai em prova",
+      "paragrafos": [
+       "A banca costuma pedir relações: eletricidade e aço como base técnica; cartéis e trustes como forma de organização empresarial; taylorismo como método de gestão; fordismo como produção em linha. Misturar essas camadas é a armadilha mais frequente.",
+       "Uma boa estratégia é montar uma linha do tempo mental: Modelo T (1908), Hilferding (1910), Taylor (1911), linha de Highland Park (1913-1914). Com ela, itens que invertem autor, obra e data ficam fáceis de detectar. Lembre também que o Sherman Act (1890) e o Standard Oil Trust (1882) vêm antes de todos esses marcos."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Taylorismo e fordismo não são sinônimos: o primeiro organiza tarefas e tempos; o segundo combina linha móvel, padronização e consumo de massa.",
+     "Taylor não inventou a linha de montagem, e Ford não formulou a administração científica. O livro de Taylor é de 1911; a linha de Highland Park é de 1913-1914.",
+     "Cartel mantém as empresas independentes e coordenadas; no caso da Standard Oil, o truste reuniu o controle. Não troque os dois.",
+     "O Sherman Act é de 1890 e é norte-americano. Não o confunda com normas europeias de cartéis.",
+     "Datas do Modelo T: lançamento em 1908, fim da produção em 1927. A linha móvel veio depois do lançamento.",
+     "Evite afirmações absolutas como 'o capitalismo organizado aboliu a concorrência'. As fontes falam em eliminar a livre concorrência pela concentração, não em extinguir todo mercado."
+    ],
+    "fontes": [
+     "Britannica, \"Second Industrial Revolution\" (britannica.com/event/Second-Industrial-Revolution)",
+     "Britannica, \"Frederick W. Taylor\" (britannica.com/biography/Frederick-W-Taylor)",
+     "The Henry Ford, \"Henry Ford: Assembly Line\" (thehenryford.org/collections-and-research/digital-collections/expert-sets/7139)",
+     "Britannica, \"Henry Ford\" (britannica.com/biography/Henry-Ford)",
+     "Sherman Antitrust Act, 1890 (let.rug.nl/usa/documents/1876-1900/the-sherman-antitrust-act-1890.php)",
+     "Britannica, \"cartel\" (britannica.com/money/cartel)",
+     "Britannica, \"Standard Oil\" (britannica.com/topic/Standard-Oil)",
+     "Hilferding, Finance Capital, 1910, prefácio (marxists.org/archive/hilferding/1910/finkap/preface.htm)",
+     "Britannica, \"Rudolf Hilferding\" (britannica.com/biography/Rudolf-Hilferding)",
+     "Friedrich-Ebert-Stiftung, página sobre Rudolf Hilferding: https://www.fes.de/asd/vordenker-innen/rudolf-hilferding"
+    ]
+   },
+   "itens": [
+    {
+     "id": "HMU-01-02#01",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Britannica, aço, eletricidade e petróleo estão entre as novas fontes de energia e materiais associadas à Segunda Revolução Industrial.",
+     "gabarito": "C",
+     "explicacao": "A Britannica cita exatamente esses três elementos como base de avanços em máquinas e manufatura.",
+     "fonte": "Britannica, \"Second Industrial Revolution\" (britannica.com/event/Second-Industrial-Revolution)"
+    },
+    {
+     "id": "HMU-01-02#02",
+     "tipo": "certo_errado",
+     "enunciado": "Frederick W. Taylor publicou The Principles of Scientific Management em 1911.",
+     "gabarito": "C",
+     "explicacao": "A obra, de Taylor (1856-1915), é de 1911.",
+     "fonte": "Taylor, The Principles of Scientific Management (1911), conforme catálogo do Project Gutenberg, ebook 6435; só dados de catálogo consultados"
+    },
+    {
+     "id": "HMU-01-02#03",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Britannica, o sistema de administração científica de Taylor começou com estudos de tempo em uma usina siderúrgica em 1881.",
+     "gabarito": "C",
+     "explicacao": "A enciclopédia registra 1881 e a usina siderúrgica como origem desses estudos.",
+     "fonte": "Britannica, \"Frederick W. Taylor\" (britannica.com/biography/Frederick-W-Taylor)"
+    },
+    {
+     "id": "HMU-01-02#04",
+     "tipo": "certo_errado",
+     "enunciado": "O taylorismo foi formulado por Henry Ford, que o aplicou na fábrica de Highland Park.",
+     "gabarito": "E",
+     "explicacao": "Taylor formulou a administração científica. Ford é associado à linha de montagem móvel, que originou o termo fordismo.",
+     "fonte": "Britannica, \"Frederick W. Taylor\" (britannica.com/biography/Frederick-W-Taylor); The Henry Ford, \"Henry Ford: Assembly Line\" (thehenryford.org/collections-and-research/digital-collections/expert-sets/7139)"
+    },
+    {
+     "id": "HMU-01-02#05",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo The Henry Ford, a linha de montagem móvel foi plenamente implementada em Highland Park em 1914, depois de experimentos em 1913.",
+     "gabarito": "C",
+     "explicacao": "O museu descreve a linha de 1913 como rudimentar e a de 1914 como a implementação plena.",
+     "fonte": "The Henry Ford, \"Henry Ford: Assembly Line\" (thehenryford.org/collections-and-research/digital-collections/expert-sets/7139)"
+    },
+    {
+     "id": "HMU-01-02#06",
+     "tipo": "certo_errado",
+     "enunciado": "O Modelo T foi lançado em 1913, junto com a linha de montagem móvel.",
+     "gabarito": "E",
+     "explicacao": "O Modelo T foi introduzido em 1908, antes da linha móvel de 1913-1914.",
+     "fonte": "Britannica, \"Henry Ford\" (britannica.com/biography/Henry-Ford)"
+    },
+    {
+     "id": "HMU-01-02#07",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Britannica, cartel é uma associação de firmas independentes que coordenam preços, produção ou mercados e mantêm identidade e independência financeira próprias.",
+     "gabarito": "C",
+     "explicacao": "É a definição apresentada pela Britannica, que define cartel como associação de firmas independentes que mantêm identidade e independência financeira de empresas.",
+     "fonte": "Britannica, \"cartel\" (britannica.com/money/cartel)"
+    },
+    {
+     "id": "HMU-01-02#08",
+     "tipo": "associar",
+     "enunciado": "Associe cada conceito à sua descrição.",
+     "pares": [
+      [
+       "Cartel",
+       "Empresas independentes que coordenam preços ou produção"
+      ],
+      [
+       "Taylorismo",
+       "Organização científica do trabalho por estudo de tempos e movimentos"
+      ],
+      [
+       "Fordismo",
+       "Linha de montagem móvel com produção padronizada em massa"
+      ],
+      [
+       "Sherman Antitrust Act",
+       "Lei norte-americana de 1890 contra combinações restritivas do comércio"
+      ]
+     ],
+     "explicacao": "Cada par corresponde ao que as fontes definem: cartel (Britannica), administração científica (Taylor), linha móvel (Highland Park) e a lei de 1890.",
+     "fonte": "Britannica, \"cartel\" (britannica.com/money/cartel); Britannica, \"Frederick W. Taylor\" (britannica.com/biography/Frederick-W-Taylor); The Henry Ford, \"Henry Ford: Assembly Line\" (thehenryford.org/collections-and-research/digital-collections/expert-sets/7139); Sherman Antitrust Act, 1890 (let.rug.nl/usa/documents/1876-1900/the-sherman-antitrust-act-1890.php)"
+    },
+    {
+     "id": "HMU-01-02#09",
+     "tipo": "lacuna",
+     "enunciado": "O Sherman Antitrust Act, lei dos Estados Unidos contra trustes e conspirações restritivas do comércio, é do ano de ___.",
+     "aceitas": [
+      "1890"
+     ],
+     "explicacao": "A lei é de 1890.",
+     "fonte": "Sherman Antitrust Act, 1890 (let.rug.nl/usa/documents/1876-1900/the-sherman-antitrust-act-1890.php)"
+    },
+    {
+     "id": "HMU-01-02#10",
+     "tipo": "lacuna",
+     "enunciado": "Rudolf Hilferding publicou Finance Capital (Das Finanzkapital) em ___.",
+     "aceitas": [
+      "1910"
+     ],
+     "explicacao": "A Britannica e o prefácio da edição consultada indicam 1910 (prefácio datado do Natal de 1909).",
+     "fonte": "Britannica, \"Rudolf Hilferding\" (britannica.com/biography/Rudolf-Hilferding); Hilferding, Finance Capital, 1910, prefácio (marxists.org/archive/hilferding/1910/finkap/preface.htm)"
+    },
+    {
+     "id": "HMU-01-02#11",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Britannica, o Standard Oil Trust foi formado em 1882 por acordo assinado por nove trustees, entre eles Rockefeller.",
+     "gabarito": "C",
+     "explicacao": "A Britannica registra o acordo de 1882 com nove trustees.",
+     "fonte": "Britannica, \"Standard Oil\" (britannica.com/topic/Standard-Oil)"
+    },
+    {
+     "id": "HMU-01-02#12",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo Hilferding em Finance Capital, a fase recente do capitalismo se caracterizava por maior distanciamento entre bancos e indústria.",
+     "gabarito": "E",
+     "explicacao": "Hilferding aponta crescente intimidade entre capital bancário e industrial, além da concentração por cartéis e trustes.",
+     "fonte": "Hilferding, Finance Capital, 1910, prefácio (marxists.org/archive/hilferding/1910/finkap/preface.htm)"
+    }
+   ]
+  },
+  "GEO-01-02": {
+   "resumo": "A Geografia moderna de Humboldt e Ritter, e depois de Ratzel e Vidal de La Blache, desenvolveu-se junto à consolidação dos Estados nacionais. A unificação italiana (1861-1870) e a alemã (1871) mostram nação, território e informação geográfica associados, o que não vale para toda a Geografia.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "Por que Geografia e Estado andam juntos",
+      "paragrafos": [
+       "No século XIX, a Europa viu crescer o Estado-nação. Segundo a Britannica, é uma entidade política soberana, com território delimitado, que governa em nome de cidadãos que se identificam como nação. Estados nacionais costumam demandar mapas, descrições do território e censos da população.",
+       "A Geografia moderna se consolidou no século XIX, em ambiente de ciência europeia e de formação de Estados nacionais. Ela forneceu descrições, mapas e explicações do espaço que serviram à ciência, à educação e, em muitos casos, à política. Isso não significa que toda a Geografia tenha sido instrumento de governo. Foi uma relação frequente, não uma regra universal. Nem toda pesquisa geográfica tinha esse fim: a obra de Humboldt, por exemplo, contribuiu para a popularização da ciência (Britannica). A pergunta de prova costuma ser sobre o vínculo, e não sobre uma identidade total entre ciência e Estado."
+      ]
+     },
+     {
+      "titulo": "Humboldt e Ritter: os fundadores",
+      "paragrafos": [
+       "Alexander von Humboldt (1769-1859) é figura central do período clássico da geografia física, e seu livro Kosmos ajudou a popularizar a ciência. Carl Ritter (1779-1859) ocupou cátedra na Universidade de Berlim desde 1820.",
+       "Segundo a Britannica, Ritter co-fundou a ciência geográfica moderna com Humboldt e a tratou como ciência empírica, baseada em observação. Sua obra Erdkunde teve o primeiro volume, sobre a África, em 1817. Ficou incompleta, com cerca de 19 volumes. Ritter escrevia muitas vezes como historiador, relacionando natureza e história humana."
+      ]
+     },
+     {
+      "titulo": "Ratzel e Vidal de La Blache",
+      "paragrafos": [
+       "Friedrich Ratzel (1844-1904) publicou Anthropogeographie (1882 e 1891) e Politische Geographie (1897). Segundo a Britannica, originou o conceito de Lebensraum (ensaio de 1901), o 'espaço vital', que liga grupos humanos ao território onde se desenvolvem. A Britannica ressalva que o uso nazista posterior se baseou sobretudo na interpretação de Rudolf Kjellén, e não na do próprio Ratzel.",
+       "Paul Vidal de La Blache (1845-1918), francês, fundou os Annales de Géographie em 1891 e foi professor na Sorbonne de 1898 a 1918. Defendia que o ser humano não é passivo e pode modificar o meio dentro de limites. Seu Tableau de la géographie de la France (1903) serviu de prefácio à história da França de Ernest Lavisse. A Britannica o liga a monografias regionais sobre a França e outras partes do mundo."
+      ]
+     },
+     {
+      "titulo": "Mackinder em uma linha",
+      "paragrafos": [
+       "Halford Mackinder (1861-1947), britânico, é associado à ideia de um coração continental euroasiático (heartland) em oposição às terras marítimas. Aqui ele serve como contraste: o tema é a geopolítica de grande escala, e não a descrição de uma nação em particular. Itens de prova sobre Mackinder devem delimitar a obra e a tese citadas, e esta lição se limita ao que a Britannica confirma: o par heartland e terras marítimas."
+      ]
+     },
+     {
+      "titulo": "Unificação alemã e italiana",
+      "paragrafos": [
+       "Na Itália, a Britannica descreve o Risorgimento como processo que culminou no Reino da Itália, em 1861. Veneza foi anexada em 1866 e a Roma papal em 1870, o que a enciclopédia considera a unificação final.",
+       "Na Alemanha, o Império foi proclamado em 18 de janeiro de 1871, em Versalhes, no reinado de Wilhelm I, sendo Bismarck seu primeiro chanceler (1871-1890), segundo a Britannica. Antes disso, a Alemanha era uma coletividade política frouxa. A Britannica a descreve como uma comunidade política frouxa de povos de língua germânica, e fixa a Alemanha unida, em sua forma aproximadamente atual, em 1871. Já Bismarck foi primeiro-ministro da Prússia e, no Império, chanceler. Em ambos os casos, a nação política foi construída por Estados com território bem definido."
+      ]
+     },
+     {
+      "titulo": "Censos e mapas como instrumentos",
+      "paragrafos": [
+       "Censo é, nas palavras da Britannica, a enumeração de pessoas, casas, firmas ou outros itens importantes de um país ou região em dado momento. Em geral, o termo sozinho indica censo populacional, mas há também censos de indústria e de agricultura.",
+       "Mapas e censos transformam território e população em informação que o Estado pode consultar. Isso explica por que recenseamento e cartografia aparecem em estudos sobre construção do Estado. Esta aula se limita a essa ideia geral. Quando uma questão disser 'segundo' um autor ou uma fonte, a resposta deve seguir o que o autor afirma. Não vamos atribuir a países ou datas específicas o uso de cartografia estatal, porque isso não foi conferido nas fontes consultadas."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Ratzel é associado ao Lebensraum, mas a Britannica ressalva que o uso nazista se apoiou sobretudo em Kjellén. Cuidado com itens que atribuem a Ratzel a política nazista.",
+     "Humboldt e Ritter morreram no mesmo ano, 1859, mas nasceram em 1769 e 1779, respectivamente. Não os confunda.",
+     "Roma papal foi anexada em 1870 e o Reino da Itália data de 1861. Veneza veio em 1866. Em itens de ordenação, use essas datas.",
+     "Evite 'toda a Geografia serviu ao Estado' ou 'censo só conta população': ambos têm exceção.",
+     "Vidal é francês e associado à geografia regional. Ratzel é alemão e associado à Geografia Política e à Antropogeografia.",
+     "Não diga que Bismarck foi imperador: Wilhelm I reinava, e Bismarck foi chanceler (1871-1890), segundo a Britannica."
+    ],
+    "fontes": [
+     "Britannica, \"nation-state\" (britannica.com/topic/nation-state)",
+     "Britannica, \"Alexander von Humboldt\" (britannica.com/biography/Alexander-von-Humboldt)",
+     "Britannica, \"Carl Ritter\" (britannica.com/biography/Carl-Ritter)",
+     "Britannica, \"Friedrich Ratzel\" (britannica.com/biography/Friedrich-Ratzel)",
+     "Britannica, \"Paul Vidal de la Blache\" (britannica.com/biography/Paul-Vidal-de-la-Blache)",
+     "Britannica, \"Halford Mackinder\" (britannica.com/biography/Halford-Mackinder)",
+     "Britannica, \"Risorgimento\" (britannica.com/event/Risorgimento)",
+     "Britannica, \"Otto von Bismarck\" (britannica.com/biography/Otto-von-Bismarck)",
+     "Britannica, \"census\" (britannica.com/topic/census)",
+     "Encyclopaedia Britannica, verbete Germany (unificação em torno de 1871)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "GEO-01-02#01",
+     "tipo": "certo_errado",
+     "enunciado": "Alexander von Humboldt e Carl Ritter morreram no mesmo ano, 1859.",
+     "gabarito": "C",
+     "explicacao": "Humboldt nasceu em 1769 e morreu em 1859. Ritter nasceu em 1779 e morreu em 1859.",
+     "fonte": "Britannica, \"Alexander von Humboldt\" (britannica.com/biography/Alexander-von-Humboldt); Britannica, \"Carl Ritter\" (britannica.com/biography/Carl-Ritter)"
+    },
+    {
+     "id": "GEO-01-02#02",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Britannica, Kosmos, de Humboldt, contribuiu para a popularização da ciência.",
+     "gabarito": "C",
+     "explicacao": "A enciclopédia credita à obra essa contribuição.",
+     "fonte": "Britannica, \"Alexander von Humboldt\" (britannica.com/biography/Alexander-von-Humboldt)"
+    },
+    {
+     "id": "GEO-01-02#03",
+     "tipo": "lacuna",
+     "enunciado": "O primeiro volume da Erdkunde, de Carl Ritter, publicado em 1817, tratava da ___.",
+     "aceitas": [
+      "África",
+      "Africa"
+     ],
+     "explicacao": "Segundo a Britannica, o volume inicial foi sobre a África.",
+     "fonte": "Britannica, \"Carl Ritter\" (britannica.com/biography/Carl-Ritter)"
+    },
+    {
+     "id": "GEO-01-02#04",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Britannica, Ratzel publicou Politische Geographie em 1897.",
+     "gabarito": "C",
+     "explicacao": "Anthropogeographie saiu em 1882 e 1891, e Politische Geographie em 1897.",
+     "fonte": "Britannica, \"Friedrich Ratzel\" (britannica.com/biography/Friedrich-Ratzel)"
+    },
+    {
+     "id": "GEO-01-02#05",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Britannica, o uso nazista do conceito de Lebensraum se baseou principalmente na interpretação do próprio Ratzel.",
+     "gabarito": "E",
+     "explicacao": "A Britannica diz que o uso nazista se baseou em grande parte na interpretação de Rudolf Kjellén.",
+     "fonte": "Britannica, \"Friedrich Ratzel\" (britannica.com/biography/Friedrich-Ratzel)"
+    },
+    {
+     "id": "GEO-01-02#06",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Britannica, Vidal de La Blache fundou o periódico Annales de Géographie em 1891.",
+     "gabarito": "C",
+     "explicacao": "A Britannica registra a fundação em 1891, com Vidal como editor até a morte.",
+     "fonte": "Britannica, \"Paul Vidal de la Blache\" (britannica.com/biography/Paul-Vidal-de-la-Blache)"
+    },
+    {
+     "id": "GEO-01-02#07",
+     "tipo": "certo_errado",
+     "enunciado": "O Tableau de la géographie de la France, de Vidal de La Blache, de 1903, serviu como prefácio à história da Alemanha organizada por Lavisse.",
+     "gabarito": "E",
+     "explicacao": "O texto serviu de prefácio à história da França de Ernest Lavisse.",
+     "fonte": "Britannica, \"Paul Vidal de la Blache\" (britannica.com/biography/Paul-Vidal-de-la-Blache)"
+    },
+    {
+     "id": "GEO-01-02#08",
+     "tipo": "lacuna",
+     "enunciado": "O Império Alemão foi proclamado em Versalhes, em 18 de janeiro de ___.",
+     "aceitas": [
+      "1871"
+     ],
+     "explicacao": "A Britannica registra a proclamação em 18 de janeiro de 1871.",
+     "fonte": "Britannica, \"Otto von Bismarck\" (britannica.com/biography/Otto-von-Bismarck)"
+    },
+    {
+     "id": "GEO-01-02#09",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Britannica, o Reino da Itália foi estabelecido em 1861, e a anexação da Roma papal, em 1870, marcou a unificação final.",
+     "gabarito": "C",
+     "explicacao": "A enciclopédia fixa essas datas, com Veneza anexada em 1866.",
+     "fonte": "Britannica, \"Risorgimento\" (britannica.com/event/Risorgimento)"
+    },
+    {
+     "id": "GEO-01-02#10",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Britannica, a anexação da Roma papal pelo Reino da Itália ocorreu em 1861.",
+     "gabarito": "E",
+     "explicacao": "O ano de 1861 marca o estabelecimento do Reino. A anexação da Roma papal foi em 1870.",
+     "fonte": "Britannica, \"Risorgimento\" (britannica.com/event/Risorgimento)"
+    },
+    {
+     "id": "GEO-01-02#11",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Britannica, Estado-nação é um Estado soberano de território delimitado que governa em nome de cidadãos que se identificam como nação.",
+     "gabarito": "C",
+     "explicacao": "É a definição apresentada, vinculada à autodeterminação do grupo nacional.",
+     "fonte": "Britannica, \"nation-state\" (britannica.com/topic/nation-state)"
+    },
+    {
+     "id": "GEO-01-02#12",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Britannica, o termo censo, isolado, designa em geral o recenseamento de população, embora muitos países também façam censos industriais ou agrícolas.",
+     "gabarito": "C",
+     "explicacao": "A definição admite outros tipos de censo, o que contraria afirmações de exclusividade populacional.",
+     "fonte": "Britannica, \"census\" (britannica.com/topic/census)"
+    }
+   ]
+  },
+  "ECO-01-03": {
+   "resumo": "Variações percentuais se calculam sobre o valor inicial e se compõem por multiplicação de fatores. Juros compostos incidem sobre juros anteriores, e a taxa real segue a relação exata de Fisher (1 + i) = (1 + r)(1 + π), aproximada por r ≈ i − π.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "Variação percentual",
+      "paragrafos": [
+       "Variação percentual é a diferença entre o valor final e o inicial, dividida pelo inicial: (V1 − V0) / V0. Se um preço vai de 80 para 100, a variação é 20/80 = 0,25, ou 25%. A base é sempre o valor inicial, e por isso subir e descer a mesma porcentagem não devolve ao ponto de partida. Para achar o valor final, multiplique o inicial por (1 + variação): um salário de 2.000 com reajuste de 5% passa a 2.000 × 1,05 = 2.100.",
+       "Exemplo: uma alta de 25% seguida de queda de 20%. O fator de alta é 1,25 e o de queda é 0,80, e 1,25 × 0,80 = 1. Aqui o resultado volta ao original. Mas 10% de alta seguidos de 10% de queda dão 1,10 × 0,90 = 0,99, uma perda de 1%."
+      ]
+     },
+     {
+      "titulo": "Fatores multiplicadores",
+      "paragrafos": [
+       "Uma variação de i% corresponde ao fator (1 + i/100). Variações em sequência multiplicam-se, não se somam. Dois aumentos de 10% dão 1,10 × 1,10 = 1,21, ou 21%, e não 20%.",
+       "Cuidado com ponto percentual (p.p.), que mede diferença entre duas taxas. De 10% para 12% a diferença é de 2 p.p., mas a variação relativa é de 2/10 = 20%. A banca explora essa distinção com frequência."
+      ]
+     },
+     {
+      "titulo": "Juros simples e compostos",
+      "paragrafos": [
+       "Juros simples incidem sempre sobre o capital inicial C: J = C × i × n. Em juros compostos, os juros de cada período passam a render juros: M = C × (1 + i)^n, onde M é o montante e n é o número de períodos.",
+       "Exemplo com C = 1.000, i = 5% ao mês, n = 3. Juros simples: J = 1.000 × 0,05 × 3 = 150, montante 1.150. Juros compostos: M = 1.000 × 1,05³ = 1.157,625, ou 1.157,63 com arredondamento a duas casas. Os juros são 157,63. Para n > 1 e i > 0, o composto supera o simples."
+      ]
+     },
+     {
+      "titulo": "Taxas equivalentes",
+      "paragrafos": [
+       "Taxas equivalentes produzem o mesmo montante no mesmo prazo. No regime composto, a taxa anual ia e a mensal im se relacionam por (1 + ia) = (1 + im)^12. Logo im = (1 + ia)^(1/12) − 1.",
+       "Com ia = 12%, im ≈ 0,9489%, ou 0,95% se arredondado a duas casas. Dividir 12% por 12 daria 1%, que é a taxa proporcional dos juros simples e não a equivalente composta. A diferença parece pequena, mas ao longo de um ano 1% ao mês composto rende mais de 12%: 1,01^12 ≈ 1,1268, ou 12,68%. Em regra, taxa proporcional e taxa equivalente só coincidem no regime de juros simples."
+      ]
+     },
+     {
+      "titulo": "Taxa nominal, taxa real e Fisher",
+      "paragrafos": [
+       "Taxa nominal (i) é a taxa declarada, sem descontar a inflação. Taxa real (r) é a taxa ajustada pela inflação, que mede a variação do poder de compra. Chamamos de π a taxa de inflação.",
+       "A relação exata de Fisher é (1 + i) = (1 + r)(1 + π). Logo r = (1 + i)/(1 + π) − 1. A aproximação é i ≈ r + π, isto é, r ≈ i − π, razoável quando as taxas são baixas. Com i = 10% e π = 4%, a aproximação dá r ≈ 6%, e a conta exata dá 1,10/1,04 − 1 ≈ 5,77%.",
+       "Se a inflação supera a taxa nominal, a taxa real é negativa. Com i = 4% e π = 6%, r = 1,04/1,06 − 1 ≈ −1,89%, enquanto a aproximação daria −2 p.p."
+      ]
+     },
+     {
+      "titulo": "Como resolver em prova",
+      "paragrafos": [
+       "Escreva os fatores, multiplique e só então subtraia 1. Exemplo: três meses de inflação de 1%, 2% e 1,5% dão 1,01 × 1,02 × 1,015 = 1,045653, ou 4,57% com duas casas decimais; somar daria 4,50%, o que está errado. Em juros compostos, use sempre potências, e não multiplicação do número de períodos pela taxa. Declare o arredondamento só no final. Confira se a taxa e o período estão na mesma unidade (ao mês com meses, ao ano com anos). Use a aproximação r ≈ i − π apenas se o enunciado mandar ou pedir uma estimativa com taxas baixas. Na dúvida, calcule a forma exata e arredonde no fim: 'aproximadamente' no enunciado pode ser só o arredondamento do resultado exato."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Subir e descer a mesma porcentagem não anula: 10% de alta e 10% de queda deixam 0,99 do valor original.",
+     "Dois aumentos de 10% somam 21%, não 20%. Percentuais em sequência se multiplicam.",
+     "Ponto percentual não é o mesmo que variação percentual: de 10% para 12% são 2 p.p. e 20% de aumento relativo.",
+     "Taxa proporcional (12%/12 = 1% ao mês) não é equivalente composta (≈ 0,95% ao mês).",
+     "Aproximação de Fisher (r ≈ i − π) e fórmula exata dão resultados diferentes; leia se o enunciado pede aproximado ou exato.",
+     "Taxa real pode ser negativa quando a inflação supera a taxa nominal."
+    ],
+    "fontes": [
+     "Equação de Fisher, forma exata (1 + i) = (1 + r)(1 + π), conforme Corporate Finance Institute: https://corporatefinanceinstitute.com/resources/economics/fisher-equation/ (fonte secundária; obra primária não consultada)",
+     "Fórmulas de matemática financeira (juros simples e compostos): textos introdutórios; sem obra específica consultada nesta checagem",
+     "Todos os valores numéricos desta lição foram recalculados em Python com Fraction e Decimal"
+    ]
+   },
+   "itens": [
+    {
+     "id": "ECO-01-03#01",
+     "tipo": "certo_errado",
+     "enunciado": "Se o preço de um produto sobe de 80 para 100, a variação percentual é de 25%.",
+     "gabarito": "C",
+     "explicacao": "(100 − 80)/80 = 0,25, base no valor inicial.",
+     "fonte": "Conceito padrão de matemática financeira (variação percentual, juros simples e compostos); fonte secundária não consultada"
+    },
+    {
+     "id": "ECO-01-03#02",
+     "tipo": "certo_errado",
+     "enunciado": "Uma alta de 10% seguida de uma queda de 10% sobre o novo valor devolve exatamente o preço original.",
+     "gabarito": "E",
+     "explicacao": "1,10 × 0,90 = 0,99, ou seja, o preço final é 99% do original.",
+     "fonte": "Conceito padrão de matemática financeira (variação percentual, juros simples e compostos); fonte secundária não consultada"
+    },
+    {
+     "id": "ECO-01-03#03",
+     "tipo": "certo_errado",
+     "enunciado": "Dois aumentos sucessivos de 10% equivalem a um aumento total de 20%.",
+     "gabarito": "E",
+     "explicacao": "1,10 × 1,10 = 1,21, ou 21%.",
+     "fonte": "Conceito padrão de matemática financeira (variação percentual, juros simples e compostos); fonte secundária não consultada"
+    },
+    {
+     "id": "ECO-01-03#04",
+     "tipo": "certo_errado",
+     "enunciado": "Um preço que sobe 25% e depois cai 20% retorna ao valor original.",
+     "gabarito": "C",
+     "explicacao": "1,25 × 0,80 = 1,00.",
+     "fonte": "Conceito padrão de matemática financeira (variação percentual, juros simples e compostos); fonte secundária não consultada"
+    },
+    {
+     "id": "ECO-01-03#05",
+     "tipo": "certo_errado",
+     "enunciado": "Uma taxa que passa de 10% para 12% aumentou 2 pontos percentuais e 20% em termos relativos.",
+     "gabarito": "C",
+     "explicacao": "A diferença é 2 p.p. e a variação relativa é 2/10 = 20%.",
+     "fonte": "Conceito padrão de matemática financeira (variação percentual, juros simples e compostos); fonte secundária não consultada"
+    },
+    {
+     "id": "ECO-01-03#06",
+     "tipo": "lacuna",
+     "enunciado": "Um capital de R$ 1.000,00 é aplicado a juros simples de 5% ao mês por 3 meses. Os juros totais, em reais, são ___.",
+     "aceitas": [
+      "150",
+      "150,00",
+      "R$ 150,00",
+      "R$ 150"
+     ],
+     "explicacao": "J = 1.000 × 0,05 × 3 = 150.",
+     "fonte": "Conceito padrão de matemática financeira (variação percentual, juros simples e compostos); fonte secundária não consultada"
+    },
+    {
+     "id": "ECO-01-03#07",
+     "tipo": "multipla_escolha",
+     "enunciado": "Um capital de R$ 1.000,00 é aplicado a juros compostos de 5% ao mês por 3 meses. O montante, arredondado a duas casas decimais, é:",
+     "opcoes": [
+      "R$ 1.150,00",
+      "R$ 1.157,63",
+      "R$ 1.157,50",
+      "R$ 1.166,40"
+     ],
+     "gabarito": 1,
+     "explicacao": "M = 1.000 × 1,05³ = 1.157,625, que arredonda para 1.157,63. A opção 0 é o montante a juros simples.",
+     "fonte": "Conceito padrão de matemática financeira (variação percentual, juros simples e compostos); fonte secundária não consultada"
+    },
+    {
+     "id": "ECO-01-03#08",
+     "tipo": "resposta_curta",
+     "enunciado": "Arredonde a duas casas decimais. Qual é a taxa mensal equivalente, no regime composto, a 12% ao ano?",
+     "gabarito": "Aproximadamente 0,95% ao mês, pois (1,12)^(1/12) − 1 ≈ 0,9489%.",
+     "explicacao": "No regime composto, 1 + ia = (1 + im)^12. Dividir 12% por 12 daria 1%, que é taxa proporcional.",
+     "fonte": "Conceito padrão de matemática financeira (variação percentual, juros simples e compostos); fonte secundária não consultada"
+    },
+    {
+     "id": "ECO-01-03#09",
+     "tipo": "lacuna",
+     "enunciado": "Com taxa nominal de 10% e inflação de 4%, a taxa real pela aproximação de Fisher (r ≈ i − π) é de ___ % ao período.",
+     "aceitas": [
+      "6",
+      "6%",
+      "6,0",
+      "6,00"
+     ],
+     "explicacao": "10% − 4% = 6%.",
+     "fonte": "Equação de Fisher, forma exata (1 + i) = (1 + r)(1 + π), conforme Corporate Finance Institute: https://corporatefinanceinstitute.com/resources/economics/fisher-equation/ (fonte secundária; obra primária não consultada)"
+    },
+    {
+     "id": "ECO-01-03#10",
+     "tipo": "resposta_curta",
+     "enunciado": "Os resultados são pedidos com arredondamento a duas casas decimais, salvo indicação. Pela fórmula exata de Fisher, qual é a taxa real quando a taxa nominal é de 12% e a inflação é de 5%, no mesmo período?",
+     "gabarito": "Aproximadamente 6,67%, pois 1,12/1,05 − 1 ≈ 0,0667.",
+     "explicacao": "Da relação (1 + i) = (1 + r)(1 + π) vem r = (1 + i)/(1 + π) − 1 = 1,12/1,05 − 1.",
+     "fonte": "Equação de Fisher, forma exata (1 + i) = (1 + r)(1 + π), conforme Corporate Finance Institute: https://corporatefinanceinstitute.com/resources/economics/fisher-equation/ (fonte secundária; obra primária não consultada)"
+    },
+    {
+     "id": "ECO-01-03#11",
+     "tipo": "certo_errado",
+     "enunciado": "Com taxa nominal de 4% e inflação de 6% no mesmo período, a taxa real exata é negativa, de aproximadamente −1,89%.",
+     "gabarito": "C",
+     "explicacao": "1,04/1,06 − 1 ≈ −0,0189, ou −1,89% (a aproximação dá −2 p.p.).",
+     "fonte": "Equação de Fisher, forma exata (1 + i) = (1 + r)(1 + π), conforme Corporate Finance Institute: https://corporatefinanceinstitute.com/resources/economics/fisher-equation/ (fonte secundária; obra primária não consultada)"
+    },
+    {
+     "id": "ECO-01-03#12",
+     "tipo": "multipla_escolha",
+     "enunciado": "A inflação foi de 1%, 2% e 1,5% em três meses consecutivos. A inflação acumulada no trimestre, com arredondamento a duas casas decimais, é:",
+     "opcoes": [
+      "4,50%",
+      "4,57%",
+      "4,65%",
+      "5,00%"
+     ],
+     "gabarito": 1,
+     "explicacao": "1,01 × 1,02 × 1,015 = 1,045653, ou 4,5653%, que arredonda para 4,57%. A soma simples (4,50%) ignora os efeitos compostos.",
+     "fonte": "Conceito padrão de matemática financeira (variação percentual, juros simples e compostos); fonte secundária não consultada"
+    }
+   ]
+  }
+ }
+}

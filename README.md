@@ -2,7 +2,7 @@
 
 App de estudos offline (PWA) para o concurso do Instituto Rio Branco (CACD). Trilha de 737 lições em 64 ciclos de 14 dias, de 02/11/2026 a 15/04/2029, com desafio ao fim de cada ciclo, revisão espaçada e caderno de erros.
 
-**Estado:** trilha completa, calendário, tour e o **Ciclo 1 com aula e exercícios** (11 lições, 129 itens, pacote `items-C01`). Os demais ciclos entram em pacotes seguintes, todos marcados como `rascunho` até revisão humana. Cada aula traz fontes; cada item traz fonte e explicação. O texto-fonte fica em `content/ciclo01/*.json`.
+**Estado:** trilha completa, calendário, tour e os **Ciclos 1 e 2 com aula e exercícios** (23 lições, pacotes `items-C01` e `items-C02`). Os demais ciclos entram em pacotes seguintes, todos marcados como `rascunho` até revisão humana. Cada aula traz fontes; cada item traz fonte e explicação. O texto-fonte fica em `content/ciclo01/*.json` e `content/ciclo02/*.json`.
 
 ## Como funciona
 - Sem servidor e sem conta. Tudo roda no navegador; o progresso fica no aparelho (IndexedDB).

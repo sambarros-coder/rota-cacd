@@ -1,0 +1,610 @@
+{
+ "licoes": {
+  "HBR-01-01": {
+   "resumo": "A Coroa portuguesa passou a dividir a América portuguesa em capitanias entregues a donatários a partir de 1534, por carta de doação e foral. Como o sistema não produziu ocupação maciça do litoral, criou em 1549 o Governo-Geral, com sede em Salvador e Tomé de Sousa como primeiro governador, ao qual as capitanias ficaram subordinadas.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "O ponto de partida: a parte portuguesa da América",
+      "paragrafos": [
+       "O Tratado de Tordesilhas, de 1494, traçou uma linha de demarcação: as terras a oeste ficaram com a Espanha e as a leste, com Portugal. A América portuguesa nasceu desse acordo e, nas primeiras décadas, foi ocupada sobretudo pela faixa litorânea.",
+       "Esta lição trata de como a Coroa passou a administrar essa faixa: primeiro por capitanias entregues a particulares, depois por um governo central instalado em Salvador."
+      ]
+     },
+     {
+      "titulo": "As capitanias hereditárias (a partir de 1534)",
+      "paragrafos": [
+       "A capitania era uma unidade territorial confiada a um donatário, o particular que recebia a concessão. O rei D. João III iniciou a divisão da colônia em capitanias na década de 1530. Segundo a Revista Brasileira de Geografia (IBGE), cada uma teria cerca de 50 léguas de costa em média, embora as concessões variassem, estendendo-se para o interior até o limite fixado em Tordesilhas. Antes, Martim Afonso de Sousa havia feito um reconhecimento preliminar do litoral.",
+       "As doações foram feitas entre 1534 e 1536. Exemplos: Pernambuco, a Duarte Coelho (1534), e São Vicente, a Martim Afonso de Sousa (1535)."
+      ]
+     },
+     {
+      "titulo": "Carta de doação e foral: o que o donatário recebia",
+      "paragrafos": [
+       "A posse do donatário era formalizada por dois documentos. A carta de doação concedia a capitania; o foral fixava direitos e deveres, tanto do donatário quanto dos colonos e da Coroa.",
+       "O donatário recebia o título de capitão-governador e podia administrar a justiça, montar a administração local e promover a fé católica. Cabia-lhe também parte do dízimo (imposto de um décimo cobrado em nome da Igreja), a chamada redízima. Ele não era dono da colônia: governava em nome do rei."
+      ]
+     },
+     {
+      "titulo": "Limites do sistema e o Governo-Geral (1549)",
+      "paragrafos": [
+       "Ao final da década de 1540, as donatarias não haviam produzido uma ocupação maciça do território. Em 1549, a Coroa criou o Governo-Geral, com sede em Salvador, para coordenar a administração. As capitanias não foram extintas: passaram a ser subordinadas a ele.",
+       "O primeiro governador-geral foi Tomé de Sousa, que governou de 1549 a 1553 e chegou com uma expedição de cerca de mil homens para construir a capital fortificada. Salvador surgiu perto de uma vila anterior, a Vila do Pereira, e a data oficial de fundação é 29 de março de 1549, considerada inconteste pelo IBGE, embora nenhum documento conhecido estabeleça a data da instalação."
+      ]
+     },
+     {
+      "titulo": "A Bahia vira capitania real e as donatarias continuam",
+      "paragrafos": [
+       "Depois da morte de Francisco Pereira Coutinho, donatário da Bahia, a Coroa comprou a capitania e a transformou na primeira capitania real da América portuguesa. Capitania real é aquela pertencente diretamente ao rei, sem donatário, e por isso administrada em nome da Coroa.",
+       "Assim, o Governo-Geral convivia com dois tipos de capitania: as hereditárias, nas mãos de donatários, e as reais, ligadas à Coroa. Na independência, segundo o IBGE, havia 19 capitanias, que passaram a ser chamadas de províncias.",
+       "Criar o Governo-Geral não impediu novas concessões. Segundo Bonfim, Tomé de Sousa doou em 1552 as ilhas de Itaparica e Tamarandiva a seu primo, o Conde de Castanheira; o rei depois as elevou a capitania (1556).",
+       "Também o cargo de governador-geral tinha poderes amplos: Bonfim, citando Cosentino, diz que eles eram os próprios do ofício régio, isto é, do exercício da autoridade do rei. Tomé de Sousa partiu de Lisboa em 1º de fevereiro de 1549 para instalar esse governo."
+      ]
+     },
+     {
+      "titulo": "Reorganizações posteriores e quadro-resumo",
+      "paragrafos": [
+       "A estrutura administrativa continuou mudando. Entre 1572 e 1577 (segundo o IBGE), o governo foi dividido em dois, com sedes em Salvador (norte) e no Rio de Janeiro (sul); o IBGE data de 12 de abril de 1577 a restauração da unidade.",
+       "Em 1621, o Estado do Maranhão foi separado do Estado do Brasil. Em 1763, a capital da colônia passou de Salvador para o Rio de Janeiro.",
+       "Fixe a sequência com os marcos abaixo."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Data",
+        "Marco",
+        "O que mudou"
+       ],
+       "linhas": [
+        [
+         "1534-1536",
+         "Doações de capitanias",
+         "A Coroa entrega capitanias a donatários por carta de doação e foral"
+        ],
+        [
+         "1549",
+         "Governo-Geral",
+         "Sede em Salvador; capitanias subordinadas; Tomé de Sousa governa de 1549 a 1553"
+        ],
+        [
+         "1572-1577 (segundo o IBGE)",
+         "Governo dividido",
+         "Salvador (norte) e Rio de Janeiro (sul); unidade restaurada em 12 de abril de 1577"
+        ],
+        [
+         "1621",
+         "Estado do Maranhão",
+         "Separado do Estado do Brasil"
+        ],
+        [
+         "1763",
+         "Nova capital",
+         "Rio de Janeiro substitui Salvador"
+        ]
+       ]
+      }
+     }
+    ],
+    "pegadinhas": [
+     "Não confunda a data de 1534 (início das doações) com a de 1549 (Governo-Geral). Uma abriu o sistema de capitanias; a outra o subordinou a um governo central.",
+     "O Governo-Geral não acabou com as capitanias: ele as coordenou e passou a ser a autoridade superior.",
+     "Donatário não era dono absoluto: recebia direitos de administração e justiça por carta de doação e foral, e parte do dízimo, não o dízimo inteiro.",
+     "A capital colonial foi Salvador até 1763, quando passou ao Rio de Janeiro; a sede do Governo-Geral em 1549 não foi o Rio.",
+     "Capitania hereditária e capitania real são coisas diferentes: a primeira tem donatário; a segunda pertence diretamente à Coroa (caso da Bahia)."
+    ],
+    "fontes": [
+     "Alexandre G. do Bonfim, Donatarias na América portuguesa pós-governos gerais (c.1556-c.1665), ANPUH (https://www.anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548945030_3c91f1757d1282761ee531bf91406ecd.pdf)",
+     "Luciene M. P. Pereira, texto sobre sesmarias, cartas de doação e forais, Anais do XXVI Simpósio Nacional de História, ANPUH, 2011 (https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548856588_d48900a551b25fc9004ad6ceb6fb0838.pdf)",
+     "A. T. Guerra e I. A. L. T. Guerra, Subsídios para uma Nova Divisão Política do Brasil, Revista Brasileira de Geografia, 1960, IBGE (https://rbg.ibge.gov.br/index.php/rbg/article/view/1686/1331)",
+     "Britannica, Tomé de Sousa (https://www.britannica.com/biography/Tome-de-Sousa)",
+     "IBGE, Biblioteca, verbete Salvador (https://biblioteca.ibge.gov.br/visualizacao/dtb/bahia/salvador.pdf)",
+     "Britannica, Treaty of Tordesillas (https://www.britannica.com/topic/Treaty-of-Tordesillas)",
+     "Ronaldo Vainfas, Tempo dos Filipes no Brasil colonial, Revista Maracanan n. 16, 2017 (https://www.e-publicacoes.uerj.br/maracanan/article/download/27118/19588/87289) (Estado do Maranhão, 1621)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "HBR-01-01#01",
+     "tipo": "ordenar",
+     "enunciado": "Ordene cronologicamente, do mais antigo ao mais recente, estes marcos da administração da América portuguesa.",
+     "ordem": [
+      "Tratado de Tordesilhas (1494)",
+      "Início das doações de capitanias hereditárias, como Pernambuco a Duarte Coelho (1534)",
+      "Criação do Governo-Geral, com sede em Salvador (1549)",
+      "Separação do Estado do Maranhão do Estado do Brasil (1621)",
+      "Transferência da capital de Salvador para o Rio de Janeiro (1763)"
+     ],
+     "explicacao": "As datas são 1494, 1534, 1549, 1621 e 1763, nessa sequência.",
+     "fonte": "Britannica (Tordesilhas, 7 jun 1494); Pereira, ANPUH 2011 (1534); Bonfim, ANPUH (1549); Vainfas, Maracanan 2017 (1621); Guerra e Guerra, RBG/IBGE 1960 (1763)."
+    },
+    {
+     "id": "HBR-01-01#02",
+     "tipo": "certo_errado",
+     "enunciado": "A criação do Governo-Geral, em 1549, extinguiu as capitanias existentes, que foram substituídas por províncias administradas diretamente de Salvador.",
+     "gabarito": "E",
+     "explicacao": "As capitanias não foram extintas: tornaram-se subordinadas ao Governo-Geral, cuja função principal era auxiliá-las e coordená-las.",
+     "fonte": "Alexandre G. do Bonfim, Donatarias na América portuguesa pós-governos gerais (c.1556-c.1665), ANPUH (https://www.anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548945030_3c91f1757d1282761ee531bf91406ecd.pdf)"
+    },
+    {
+     "id": "HBR-01-01#03",
+     "tipo": "certo_errado",
+     "enunciado": "Tomé de Sousa foi o primeiro governador-geral do Brasil, tendo governado de 1549 a 1553 e construído Salvador como capital fortificada.",
+     "gabarito": "C",
+     "explicacao": "A Britannica registra Tomé de Sousa como primeiro governador-geral (1549-1553), à frente de uma expedição de cerca de mil homens que construiu Salvador.",
+     "fonte": "Britannica, Tomé de Sousa (https://www.britannica.com/biography/Tome-de-Sousa)"
+    },
+    {
+     "id": "HBR-01-01#04",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo Pereira (ANPUH, 2011), as cartas de doação e os forais das capitanias começaram a ser concedidos a partir de 1534, e Duarte Coelho recebeu Pernambuco nesse ano.",
+     "gabarito": "C",
+     "explicacao": "O texto indica concessões de cartas de doação e forais a partir de 1534 e cita Duarte Coelho (Pernambuco, 1534) entre os donatários.",
+     "fonte": "Luciene M. P. Pereira, texto sobre sesmarias, cartas de doação e forais, Anais do XXVI Simpósio Nacional de História, ANPUH, 2011 (https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548856588_d48900a551b25fc9004ad6ceb6fb0838.pdf)"
+    },
+    {
+     "id": "HBR-01-01#05",
+     "tipo": "certo_errado",
+     "enunciado": "Na capitania hereditária, o donatário ficava integralmente com o dízimo arrecadado, sem repasse de qualquer parte à Coroa.",
+     "gabarito": "E",
+     "explicacao": "O dízimo era cobrado em nome da Igreja e do rei; ao donatário cabia uma parte, chamada redízima, e não a totalidade, conforme Bonfim.",
+     "fonte": "Alexandre G. do Bonfim, Donatarias na América portuguesa pós-governos gerais (c.1556-c.1665), ANPUH (https://www.anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548945030_3c91f1757d1282761ee531bf91406ecd.pdf)"
+    },
+    {
+     "id": "HBR-01-01#06",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo Bonfim (ANPUH), a Coroa comprou a capitania da Bahia depois da morte de seu donatário, Francisco Pereira Coutinho, e a transformou na primeira capitania real da América portuguesa.",
+     "gabarito": "C",
+     "explicacao": "Bonfim descreve a compra da Bahia pela Coroa após a morte de Pereira Coutinho e a criação da primeira capitania real.",
+     "fonte": "Alexandre G. do Bonfim, Donatarias na América portuguesa pós-governos gerais (c.1556-c.1665), ANPUH (https://www.anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548945030_3c91f1757d1282761ee531bf91406ecd.pdf)"
+    },
+    {
+     "id": "HBR-01-01#07",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo Bonfim (ANPUH), as donatarias, já no fim da década de 1540, haviam produzido uma ocupação maciça e homogênea do território.",
+     "gabarito": "E",
+     "explicacao": "O texto afirma o contrário: no fim dos anos 1540 as donatarias não haviam produzido uma ocupação maciça, o que acompanha a criação do Governo-Geral.",
+     "fonte": "Alexandre G. do Bonfim, Donatarias na América portuguesa pós-governos gerais (c.1556-c.1665), ANPUH (https://www.anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548945030_3c91f1757d1282761ee531bf91406ecd.pdf)"
+    },
+    {
+     "id": "HBR-01-01#08",
+     "tipo": "certo_errado",
+     "enunciado": "Em 1763, a capital da colônia foi transferida do Rio de Janeiro para Salvador, onde estava o Governo-Geral desde 1549.",
+     "gabarito": "E",
+     "explicacao": "A transferência de 1763 foi no sentido inverso: de Salvador para o Rio de Janeiro.",
+     "fonte": "A. T. Guerra e I. A. L. T. Guerra, Subsídios para uma Nova Divisão Política do Brasil, Revista Brasileira de Geografia, 1960, IBGE (https://rbg.ibge.gov.br/index.php/rbg/article/view/1686/1331)"
+    },
+    {
+     "id": "HBR-01-01#09",
+     "tipo": "flashcard",
+     "frente": "O que eram a carta de doação e o foral nas capitanias hereditárias?",
+     "verso": "Documentos que formalizavam a posse do donatário. A carta de doação concedia a capitania; o foral fixava direitos e deveres. O donatário (capitão-governador) podia administrar a justiça e a administração local, e ficava com parte do dízimo (redízima).",
+     "explicacao": "Resume o instrumento jurídico da capitania: concessão da Coroa com poderes de administração, sem tornar o donatário dono soberano.",
+     "fonte": "Alexandre G. do Bonfim, Donatarias na América portuguesa pós-governos gerais (c.1556-c.1665), ANPUH (https://www.anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548945030_3c91f1757d1282761ee531bf91406ecd.pdf)"
+    },
+    {
+     "id": "HBR-01-01#10",
+     "tipo": "flashcard",
+     "frente": "Qual foi o papel do Governo-Geral criado em 1549?",
+     "verso": "Coordenar a administração da América portuguesa a partir de Salvador, auxiliando as capitanias existentes, que passaram a lhe ser subordinadas. O primeiro governador-geral foi Tomé de Sousa (1549-1553).",
+     "explicacao": "O Governo-Geral não substituiu as capitanias: criou um nível central acima delas.",
+     "fonte": "Alexandre G. do Bonfim, Donatarias na América portuguesa pós-governos gerais (c.1556-c.1665), ANPUH (https://www.anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548945030_3c91f1757d1282761ee531bf91406ecd.pdf); Britannica, Tomé de Sousa (https://www.britannica.com/biography/Tome-de-Sousa)"
+    }
+   ]
+  },
+  "HBR-01-02": {
+   "resumo": "O Tratado de Tordesilhas (1494) fixou um meridiano a 370 léguas a oeste de Cabo Verde, mas a expansão colonial o ultrapassou. A União Ibérica (1580-1640), o bandeirismo, a pecuária no sertão e a mineração em Minas, Goiás e Mato Grosso ampliaram o território português na América.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "A linha de Tordesilhas (1494)",
+      "paragrafos": [
+       "O Tratado de Tordesilhas foi assinado em 7 de junho de 1494 entre Portugal e Espanha. Ele revisou a linha definida pelo papa Alexandre VI em 1493: as terras a oeste ficaram com a Espanha, e as a leste, com Portugal.",
+       "A linha era um meridiano (linha imaginária que liga os polos) situado a 370 léguas a oeste das ilhas de Cabo Verde, o que equivale a cerca de 46°37' de longitude oeste, segundo a Memoria Chilena. Como não era um acidente geográfico visível, o tratado deixou lacunas e dúvidas."
+      ]
+     },
+     {
+      "titulo": "A União Ibérica (1580-1640)",
+      "paragrafos": [
+       "Entre 1580 e 1583, a Guerra de Sucessão Portuguesa terminou com a Espanha na posse do trono português. Em 1581, as Cortes de Tomar aclamaram Filipe II da Espanha como Filipe I de Portugal, preservando formalmente a autonomia do reino. Esse período, de 1580 a 1640, é a União Ibérica.",
+       "Em 1640, a Restauração portuguesa encerrou a união. Segundo Pires e Sousa Filho, nesses decênios a administração colonial ganhou caráter mais hispânico e os limites de Tordesilhas foram, na prática, diluídos."
+      ]
+     },
+     {
+      "titulo": "Efeito territorial da União",
+      "paragrafos": [
+       "Segundo Vainfas, ao reportar a interpretação de Capistrano de Abreu, a União Ibérica ajudou a empurrar a expansão colonial para além dos limites de Tordesilhas, tanto ao norte, em direção à Amazônia, quanto ao sul, em direção à bacia do Prata.",
+       "Exemplos no norte: a expulsão dos franceses de São Luís por Jerônimo de Albuquerque (1615) e a criação do Estado do Maranhão, separado do Estado do Brasil em 1621.",
+       "A União também trouxe riscos: os holandeses atacaram Salvador em 1624 e dominaram Pernambuco a partir de 1630, em um período de guerra entre a Espanha e as Províncias Unidas."
+      ]
+     },
+     {
+      "titulo": "Bandeirismo e mineração: o avanço paulista",
+      "paragrafos": [
+       "Bandeiras eram expedições armadas de sertanistas saídos de São Paulo, os bandeirantes. Suas colunas eram formadas sobretudo por indígenas dependentes ou escravizados. O objetivo principal era capturar indígenas, o que era ilegal, e a justificativa aceita pelas autoridades era a busca por ouro e prata.",
+       "Esses deslocamentos levaram fronteiras portuguesas a áreas reivindicadas pela Espanha. Ao fim do século XVII, a prospecção deu resultado: o ouro aluvional (de rios e córregos) apareceu em Minas Gerais entre 1693 e 1695, provavelmente por obra de paulistas, e a corrida do ouro começou em 1697.",
+       "A disputa pelas minas gerou a Guerra dos Emboabas (1707-1709), entre paulistas e forasteiros. A Coroa decidiu dividir a capitania do Rio de Janeiro e criar a de São Paulo e Minas do Ouro (9 de novembro de 1709, segundo a Secult-MG; a Aula 8 da UFS data a decisão de fevereiro de 1710). A mineração se espalhou depois para Mato Grosso, Goiás e o sul da Bahia.",
+       "A Coroa também organizou o controle: o Regimento das Minas, redigido em 1700, passou a valer em 1702; Vila Rica foi fundada em 1711; e a Casa de Fundição de Vila Rica foi instalada em 1720, para cobrar o quinto, a parte devida à Coroa."
+      ]
+     },
+     {
+      "titulo": "Pecuária: o gado ocupa o sertão",
+      "paragrafos": [
+       "Sertão é o interior, longe do litoral. Segundo Arraes, a pecuária extensiva (gado criado solto, em grandes áreas) foi o principal elemento para povoar e tomar posse das terras sertanejas. Capistrano de Abreu distinguiu dois eixos: o sertão de dentro, a partir da Bahia, e o sertão de fora, a partir de Olinda e Recife.",
+       "O vale do São Francisco foi central. A Casa da Torre, da família Dias d'Ávila, teve papel destacado: Garcia d'Ávila foi protegido do governador Tomé de Sousa e recebeu terras ao norte de Salvador. No início do século XVIII, Antonil registrou cerca de 800 currais no lado pernambucano do rio e 500 no baiano.",
+       "O gado avançou até o Piauí: em 1697, um padre registrou 129 fazendas de gado no território. Em 1699, D. Pedro II mandou conceder sesmarias (terras da Coroa cedidas para cultivo) a quem quisesse cultivá-las, para conter os grandes senhores do sertão."
+      ]
+     },
+     {
+      "titulo": "Resultado: um território maior que o tratado",
+      "paragrafos": [
+       "Pecuária, bandeirismo e mineração explicam por que o território efetivamente ocupado passou a diferir do traçado de 1494. Na lição seguinte, o Tratado de Madri (1750) aparece como o acordo que trocou o meridiano por limites baseados na geografia e na ocupação efetiva, segundo a EBSCO.",
+       "Relacione cada frente de expansão ao que a fonte registra."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Frente",
+        "Período e local",
+        "Registro"
+       ],
+       "linhas": [
+        [
+         "Bandeirismo",
+         "Séculos XVI a XVIII, a partir de São Paulo",
+         "Captura de indígenas e busca de metais"
+        ],
+        [
+         "Ouro",
+         "1693-1695 em Minas; corrida em 1697",
+         "Emboabas 1707-1709; capitania de São Paulo e Minas (1709-1710)"
+        ],
+        [
+         "Pecuária",
+         "Séc. XVII, sertão do São Francisco e Piauí",
+         "Principal elemento de posse do sertão, segundo Arraes"
+        ],
+        [
+         "Norte",
+         "1615 em São Luís; 1621 Estado do Maranhão",
+         "Expansão ligada à União Ibérica, segundo Vainfas"
+        ]
+       ]
+      }
+     }
+    ],
+    "pegadinhas": [
+     "Tordesilhas foi um acordo entre as Coroas de Portugal e da Espanha, firmado em 1494; não foi um tratado entre o Brasil e países vizinhos.",
+     "Não confunda a bula de 1493 (Alexandre VI) com o Tratado de 1494: o tratado revisou a linha da bula.",
+     "A União Ibérica não fez de Portugal uma província espanhola: as Cortes de Tomar preservaram formalmente a autonomia do reino.",
+     "O bandeirismo tinha como objetivo principal a captura de indígenas, justificada oficialmente pela busca de metais.",
+     "Pecuária e mineração não são a mesma frente: o gado ocupou o sertão (São Francisco, Piauí) e a mineração, as Minas e o centro-oeste.",
+     "Datas: União Ibérica de 1580 a 1640; a Restauração (1640) a encerra, não a inicia."
+    ],
+    "fontes": [
+     "Britannica, Treaty of Tordesillas (https://www.britannica.com/topic/Treaty-of-Tordesillas)",
+     "Memoria Chilena, Tratado de Tordesillas (https://www.memoriachilena.gob.cl/602/w3-article-98037.html); página descritiva, texto do tratado não consultado",
+     "Ronaldo Vainfas, Tempo dos Filipes no Brasil colonial, Revista Maracanan n. 16, 2017 (https://www.e-publicacoes.uerj.br/maracanan/article/download/27118/19588/87289)",
+     "Resenha de Pires e Sousa Filho sobre J. Hermann, Cenário do encontro de povos: a construção do território (IBGE, Brasil: 500 anos de povoamento), Revista GeoAmazônia, 2024 (https://periodicos.ufpa.br/index.php/geoamazonia/article/download/15520/pdf_1); fonte secundária, capítulo original não consultado",
+     "Britannica, bandeirante (https://www.britannica.com/topic/bandeirante)",
+     "UFS/CESAD, História do Brasil Colônia, Aula 8, Os Caminhos e Descaminhos do Ouro (https://cesad.ufs.br/ORBI/public/uploadCatalago/17294905102012Historia_do_Brasil_Colonia_Aula_8.pdf)",
+     "Esdras Arraes, Curral de reses, curral de almas, Revista do Instituto de Estudos Brasileiros n. 58, USP, 2014 (https://www.redalyc.org/pdf/4056/405641280004.pdf)",
+     "EBSCO Research Starters, Treaty of Madrid (https://www.ebsco.com/research-starters/history/treaty-madrid/)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "HBR-01-02#01",
+     "tipo": "ordenar",
+     "enunciado": "Ordene cronologicamente, do mais antigo ao mais recente.",
+     "ordem": [
+      "Assinatura do Tratado de Tordesilhas (1494)",
+      "Início da União Ibérica (1580)",
+      "Restauração portuguesa, fim da União Ibérica (1640)",
+      "Primeiros achados de ouro aluvional em Minas Gerais (1693-1695, segundo a Aula 8 da UFS)",
+      "Tratado de Madri (1750)"
+     ],
+     "explicacao": "A sequência é 1494, 1580, 1640, 1693-1695 e 1750.",
+     "fonte": "Britannica (Tordesilhas); Vainfas, Maracanan 2017 (1580 e 1640); UFS/CESAD Aula 8 (ouro); EBSCO Research Starters (Madri, 13 jan 1750)."
+    },
+    {
+     "id": "HBR-01-02#02",
+     "tipo": "associar",
+     "enunciado": "Associe cada elemento à sua descrição.",
+     "pares": [
+      [
+       "Tratado de Tordesilhas (1494)",
+       "Meridiano a 370 léguas a oeste de Cabo Verde"
+      ],
+      [
+       "União Ibérica",
+       "Período de 1580 a 1640 em que a Coroa espanhola controlou Portugal"
+      ],
+      [
+       "Cortes de Tomar (1581)",
+       "Aclamação de Filipe II da Espanha como Filipe I de Portugal"
+      ],
+      [
+       "Bandeirantes",
+       "Sertanistas paulistas que capturavam indígenas e buscavam metais"
+      ],
+      [
+       "Pecuária extensiva",
+       "Principal elemento de posse do sertão, segundo Arraes"
+      ]
+     ],
+     "explicacao": "Cada par corresponde a um fato descrito nas fontes da lição.",
+     "fonte": "Memoria Chilena, Tratado de Tordesillas (https://www.memoriachilena.gob.cl/602/w3-article-98037.html); página descritiva, texto do tratado não consultado; Ronaldo Vainfas, Tempo dos Filipes no Brasil colonial, Revista Maracanan n. 16, 2017 (https://www.e-publicacoes.uerj.br/maracanan/article/download/27118/19588/87289); Britannica, bandeirante (https://www.britannica.com/topic/bandeirante); Esdras Arraes, Curral de reses, curral de almas, Revista do Instituto de Estudos Brasileiros n. 58, USP, 2014 (https://www.redalyc.org/pdf/4056/405641280004.pdf)"
+    },
+    {
+     "id": "HBR-01-02#03",
+     "tipo": "certo_errado",
+     "enunciado": "O Tratado de Tordesilhas foi assinado em 7 de junho de 1494 entre Portugal e Espanha e revisou a linha de demarcação definida pelo papa Alexandre VI em 1493.",
+     "gabarito": "C",
+     "explicacao": "A Britannica indica a data de 7 de junho de 1494, as duas Coroas como partes e a definição anterior da linha por Alexandre VI em 1493.",
+     "fonte": "Britannica, Treaty of Tordesillas (https://www.britannica.com/topic/Treaty-of-Tordesillas)"
+    },
+    {
+     "id": "HBR-01-02#04",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Memoria Chilena, a linha de Tordesilhas foi fixada a 370 léguas a oeste das ilhas dos Açores.",
+     "gabarito": "E",
+     "explicacao": "A referência são as ilhas de Cabo Verde, não os Açores.",
+     "fonte": "Memoria Chilena, Tratado de Tordesillas (https://www.memoriachilena.gob.cl/602/w3-article-98037.html); página descritiva, texto do tratado não consultado"
+    },
+    {
+     "id": "HBR-01-02#05",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo Vainfas, ao reportar a interpretação de Capistrano de Abreu, a União Ibérica contribuiu para que a expansão colonial ultrapassasse os limites de Tordesilhas, tanto ao norte (Amazônia) quanto ao sul (bacia do Prata).",
+     "gabarito": "C",
+     "explicacao": "Vainfas, reportando Capistrano de Abreu, liga o período da União ao avanço para além de Tordesilhas, nas duas direções citadas.",
+     "fonte": "Ronaldo Vainfas, Tempo dos Filipes no Brasil colonial, Revista Maracanan n. 16, 2017 (https://www.e-publicacoes.uerj.br/maracanan/article/download/27118/19588/87289)"
+    },
+    {
+     "id": "HBR-01-02#06",
+     "tipo": "certo_errado",
+     "enunciado": "Com a União Ibérica, Portugal deixou de existir como reino e passou a ser província da Espanha, conforme as Cortes de Tomar de 1581.",
+     "gabarito": "E",
+     "explicacao": "As Cortes de Tomar aclamaram Filipe II como Filipe I de Portugal e preservaram formalmente a autonomia do reino.",
+     "fonte": "Ronaldo Vainfas, Tempo dos Filipes no Brasil colonial, Revista Maracanan n. 16, 2017 (https://www.e-publicacoes.uerj.br/maracanan/article/download/27118/19588/87289)"
+    },
+    {
+     "id": "HBR-01-02#07",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo Arraes, a mineração, e não a pecuária, foi o principal elemento de povoamento e de posse das terras do sertão nordestino.",
+     "gabarito": "E",
+     "explicacao": "Arraes afirma que a pecuária extensiva foi o principal elemento para povoar e tomar posse das terras sertanejas.",
+     "fonte": "Esdras Arraes, Curral de reses, curral de almas, Revista do Instituto de Estudos Brasileiros n. 58, USP, 2014 (https://www.redalyc.org/pdf/4056/405641280004.pdf)"
+    },
+    {
+     "id": "HBR-01-02#08",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Aula 8 da UFS/CESAD, as expedições bandeirantes visavam principalmente à captura de indígenas, o que era ilegal, e eram justificadas perante as autoridades como busca por ouro e prata.",
+     "gabarito": "C",
+     "explicacao": "A Aula 8 descreve a captura de indígenas como objetivo principal e a prospecção de metais como o único argumento aceito pelas autoridades.",
+     "fonte": "UFS/CESAD, História do Brasil Colônia, Aula 8, Os Caminhos e Descaminhos do Ouro (https://cesad.ufs.br/ORBI/public/uploadCatalago/17294905102012Historia_do_Brasil_Colonia_Aula_8.pdf)"
+    },
+    {
+     "id": "HBR-01-02#09",
+     "tipo": "certo_errado",
+     "enunciado": "A Restauração portuguesa, em 1640, deu início à União Ibérica.",
+     "gabarito": "E",
+     "explicacao": "A União Ibérica começou em 1580; a Restauração de 1640 a encerrou.",
+     "fonte": "Ronaldo Vainfas, Tempo dos Filipes no Brasil colonial, Revista Maracanan n. 16, 2017 (https://www.e-publicacoes.uerj.br/maracanan/article/download/27118/19588/87289)"
+    },
+    {
+     "id": "HBR-01-02#10",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Aula 8 da UFS/CESAD, a Guerra dos Emboabas, entre paulistas e forasteiros pelo controle das minas, ocorreu entre 1707 e 1709.",
+     "gabarito": "C",
+     "explicacao": "A Aula 8 situa os conflitos entre 1707 e 1709.",
+     "fonte": "UFS/CESAD, História do Brasil Colônia, Aula 8, Os Caminhos e Descaminhos do Ouro (https://cesad.ufs.br/ORBI/public/uploadCatalago/17294905102012Historia_do_Brasil_Colonia_Aula_8.pdf)"
+    }
+   ]
+  },
+  "HBR-01-03": {
+   "resumo": "A Colônia do Sacramento (1680) concentrou a disputa luso-espanhola no Prata. O Tratado de Madri (1750), baseado no uti possidetis e negociado por Alexandre de Gusmão, foi anulado por El Pardo (1761); Santo Ildefonso (1777) e a paz de Badajoz (1801) redesenharam a fronteira sul.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "Por que o Prata importava, e o cuidado com Utrecht",
+      "paragrafos": [
+       "Em janeiro de 1680, o português D. Manuel Lobo fundou a Colônia do Sacramento, na margem norte do Rio da Prata, em frente a Buenos Aires, segundo a UNESCO; a data de janeiro de 1680 e o fundador vêm da Topoi. A posição era estratégica para o comércio na região, e a Espanha queria impedir o contrabando de prata que passava por ali.",
+       "A Colônia foi disputada por um século. Foi tomada pelo governador de Buenos Aires no próprio ano de 1680 (Infopédia), devolvida de forma provisória em 1681, abandonada em 1705, durante a Guerra de Sucessão Espanhola, e devolvida a Portugal em 1715, pelo tratado de paz de Utrecht com a Espanha.",
+       "Utrecht reúne vários tratados. O firmado entre Portugal e a França em 11 de abril de 1713 tratou, no artigo 8, da fronteira entre o Brasil e a Guiana Francesa. O tratado de paz entre Portugal e a Espanha, que devolveu Sacramento aos portugueses, é de 1715."
+      ]
+     },
+     {
+      "titulo": "Uti possidetis e o Tratado de Madri (1750)",
+      "paragrafos": [
+       "Uti possidetis é um princípio de direito internacional segundo o qual a terra pertence a quem efetivamente a ocupa. Foi o argumento central do Tratado de Madri, assinado em 13 de janeiro de 1750 por Portugal e Espanha.",
+       "Alexandre de Gusmão, secretário de D. João V, foi o principal negociador e artífice do lado português; o tratado foi assinado por Tomás da Silva Teles (Portugal) e José de Carvajal y Lancáster (Espanha). O tratado substituiu a linha de Tordesilhas por limites baseados em rios, montanhas e ocupação efetiva. Pelo acordo, Portugal cedia Sacramento e recebia a região dos Sete Povos das Missões, antigas reduções jesuíticas espanholas. Na leitura de Acruche, Gusmão aceitava concessões no sul para garantir as fronteiras do norte, sobretudo o acesso à bacia amazônica.",
+       "Segundo a EBSCO, a Espanha queria Sacramento para conter o contrabando de prata, e Portugal concordou em cedê-la, mas atrasou a entrega."
+      ]
+     },
+     {
+      "titulo": "El Pardo (1761): a anulação",
+      "paragrafos": [
+       "A troca das Missões deu origem à Guerra Guaranítica (1754-1756), que dificultou a incorporação dos Sete Povos. Em 12 de fevereiro de 1761, o Tratado de El Pardo anulou o de Madri e restabeleceu a situação anterior a 1750.",
+       "Segundo Acruche, as duas Coroas concluíram que as definições de fronteira não atendiam a seus interesses, em meio às reformas pombalinas e bourbônicas. A Guerra dos Sete Anos também repercutiu na América. Pela EBSCO, Carvalho e Melo, o futuro Marquês de Pombal, conduziu o novo acordo, em clima de desconfiança mútua."
+      ]
+     },
+     {
+      "titulo": "Santo Ildefonso (1777) e Badajoz (1801)",
+      "paragrafos": [
+       "O Tratado de Santo Ildefonso, de 1º de outubro de 1777, foi um acordo preliminar de limites que deveria servir de base a um tratado definitivo. Sacramento ficou com a Espanha, assim como os Sete Povos e as terras a oeste do Jacuí. A ilha de Santa Catarina e o continente de Rio Grande voltaram a Portugal, segundo Acruche.",
+       "O arranjo de 1777 traçou uma linha norte-sul pelo Rio Grande de São Pedro e vigorou até 1801.",
+       "Em 1801, a paz de Badajoz encerrou a guerra entre Portugal e a Espanha, aliada da França. Segundo a RBG/IBGE, ela não restaurou o Tratado de 1777; segundo a Revista do IGHMB, o texto silenciou sobre restituições de território.",
+       "O texto do tratado chegou ao Rio Grande em dezembro de 1801 e não previa devolução dos territórios tomados por forças luso-brasileiras. Como elas haviam ocupado os Sete Povos, a área permaneceu com elas, em aplicação do uti possidetis. A Espanha ficou com Olivença, que tomara de Portugal."
+      ]
+     },
+     {
+      "titulo": "A herança dos tratados e quadro-resumo",
+      "paragrafos": [
+       "O IBGE registra que, na independência, o Brasil defendeu que cada país mantivesse o território que de fato ocupava, enquanto os vizinhos preferiam fronteiras baseadas nos tratados coloniais. A tese brasileira prevaleceu, o que mostra a longa influência do princípio de 1750.",
+       "Outro efeito prático: o artigo XIX de Santo Ildefonso estabeleceu que escravizados fugidos entre as duas possessões seriam devolvidos, e a travessia da fronteira não daria liberdade (Acruche).",
+       "Use esta sequência para fixar datas e efeitos."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Tratado",
+        "Data",
+        "Efeito principal"
+       ],
+       "linhas": [
+        [
+         "Madri",
+         "13 jan 1750",
+         "Uti possidetis; Sacramento para a Espanha; Sete Povos para Portugal"
+        ],
+        [
+         "El Pardo",
+         "12 fev 1761",
+         "Anula Madri e restaura a situação anterior a 1750"
+        ],
+        [
+         "Santo Ildefonso",
+         "1º out 1777",
+         "Sacramento e Sete Povos para a Espanha; Santa Catarina e Rio Grande para Portugal"
+        ],
+        [
+         "Badajoz",
+         "6 jun 1801 (segundo a Revista do IGHMB)",
+         "Segundo o IBGE, não restaura 1777; Sete Povos ficam com os luso-brasileiros"
+        ]
+       ]
+      }
+     }
+    ],
+    "pegadinhas": [
+     "Madri (1750) não foi o fim da história: foi anulado em 1761 por El Pardo.",
+     "Não confunda os dois Utrechts desta lição: 1713 (Portugal e França, fronteira com a Guiana Francesa) e 1715 (Portugal e Espanha, devolução de Sacramento).",
+     "Nas Missões, a ordem é: Madri (1750) dá os Sete Povos a Portugal; Santo Ildefonso (1777) os leva à Espanha; Badajoz (1801), segundo o IBGE, não os devolve, e eles ficam com os luso-brasileiros.",
+     "Uti possidetis significa posse efetiva, não título jurídico antigo nem meridiano. É o oposto da lógica de Tordesilhas.",
+     "Alexandre de Gusmão foi o principal negociador português de Madri, não de Santo Ildefonso nem de Badajoz.",
+     "Santo Ildefonso (1777) é um tratado preliminar de limites, não o tratado definitivo."
+    ],
+    "fontes": [
+     "Revista Brasileira de Geografia, IBGE, artigo sobre a evolução das fronteiras e dos tratados (https://rbg.ibge.gov.br/index.php/rbg/article/view/3812/3097)",
+     "Portal de Periódicos da Marinha, Revista do IGHMB (https://www.portaldeperiodicos.marinha.mil.br/index.php/ighmb/article/download/3369/3259)",
+     "Artigo da revista Topoi sobre a Colônia do Sacramento (https://scielo.br/j/topoi/a/tCjfnrbGJfpw359Y4STS9QB/?format=pdf)",
+     "UNESCO, Historic Quarter of the City of Colonia del Sacramento (https://whc.unesco.org/en/list/747/)",
+     "Infopédia, Colónia do Sacramento (https://www.infopedia.pt/artigos/$colonia-do-sacramento)",
+     "EBSCO Research Starters, Treaty of Madrid (https://www.ebsco.com/research-starters/history/treaty-madrid/)",
+     "Hevelly F. Acruche, A fronteira e as gentes (1750-1820), ANPUH (https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548874919_e39e5faf9b04ce94412cdecc36bb22ec.pdf)",
+     "Hevelly F. Acruche, Ya de paz, ya de guerra, Revista Eletrônica da ANPHLAC n. 22, 2017 (https://anphlac.emnuvens.com.br/anphlac/article/download/2667/2413)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "HBR-01-03#01",
+     "tipo": "ordenar",
+     "enunciado": "Ordene pela data de assinatura, do mais antigo ao mais recente. Considere Utrecht como o tratado de paz entre Portugal e a Espanha.",
+     "ordem": [
+      "Fundação da Colônia do Sacramento (1680)",
+      "Tratado de Utrecht entre Portugal e Espanha, que devolveu Sacramento a Portugal (1715)",
+      "Tratado de Madri (13 de janeiro de 1750)",
+      "Tratado de El Pardo (12 de fevereiro de 1761)",
+      "Tratado de Santo Ildefonso (1º de outubro de 1777)",
+      "Paz de Badajoz (1801)"
+     ],
+     "explicacao": "A ordem é 1680, 1715, 1750, 1761, 1777 e 1801.",
+     "fonte": "Topoi e Infopédia (1680 e 1715); IBGE/RBG (Madri, El Pardo, Santo Ildefonso, Badajoz); Marinha, Revista do IGHMB (Santo Ildefonso e Badajoz)."
+    },
+    {
+     "id": "HBR-01-03#02",
+     "tipo": "associar",
+     "enunciado": "Associe cada tratado ou personagem ao seu efeito ou papel.",
+     "pares": [
+      [
+       "Tratado de Madri (1750)",
+       "Adotou o uti possidetis e previu a cessão de Sacramento à Espanha"
+      ],
+      [
+       "Tratado de El Pardo (1761)",
+       "Anulou o Tratado de Madri"
+      ],
+      [
+       "Tratado de Santo Ildefonso (1777)",
+       "Acordo preliminar de limites que deu Sacramento à Espanha"
+      ],
+      [
+       "Paz de Badajoz (1801)",
+       "Segundo o IBGE, não restaurou o tratado de 1777; os Sete Povos ficaram com os luso-brasileiros"
+      ],
+      [
+       "Alexandre de Gusmão",
+       "Principal negociador português do Tratado de Madri"
+      ]
+     ],
+     "explicacao": "Cada par reproduz o efeito do tratado descrito nas fontes.",
+     "fonte": "Revista Brasileira de Geografia, IBGE, artigo sobre a evolução das fronteiras e dos tratados (https://rbg.ibge.gov.br/index.php/rbg/article/view/3812/3097); Portal de Periódicos da Marinha, Revista do IGHMB (https://www.portaldeperiodicos.marinha.mil.br/index.php/ighmb/article/download/3369/3259); Hevelly F. Acruche, A fronteira e as gentes (1750-1820), ANPUH (https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548874919_e39e5faf9b04ce94412cdecc36bb22ec.pdf)"
+    },
+    {
+     "id": "HBR-01-03#03",
+     "tipo": "certo_errado",
+     "enunciado": "O Tratado de Madri foi assinado em 13 de janeiro de 1750 e reconheceu o princípio do uti possidetis.",
+     "gabarito": "C",
+     "explicacao": "O artigo da RBG/IBGE data o tratado de 13 de janeiro de 1750 e registra o reconhecimento do uti possidetis; a EBSCO confirma a data.",
+     "fonte": "Revista Brasileira de Geografia, IBGE, artigo sobre a evolução das fronteiras e dos tratados (https://rbg.ibge.gov.br/index.php/rbg/article/view/3812/3097); EBSCO Research Starters, Treaty of Madrid (https://www.ebsco.com/research-starters/history/treaty-madrid/)"
+    },
+    {
+     "id": "HBR-01-03#04",
+     "tipo": "certo_errado",
+     "enunciado": "O Tratado de El Pardo, de 12 de fevereiro de 1761, confirmou o Tratado de Madri e fixou de forma definitiva a cessão dos Sete Povos a Portugal.",
+     "gabarito": "E",
+     "explicacao": "El Pardo anulou o Tratado de Madri, restaurando a situação anterior a 1750.",
+     "fonte": "Revista Brasileira de Geografia, IBGE, artigo sobre a evolução das fronteiras e dos tratados (https://rbg.ibge.gov.br/index.php/rbg/article/view/3812/3097); Hevelly F. Acruche, Ya de paz, ya de guerra, Revista Eletrônica da ANPHLAC n. 22, 2017 (https://anphlac.emnuvens.com.br/anphlac/article/download/2667/2413)"
+    },
+    {
+     "id": "HBR-01-03#05",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o Portal de Periódicos da Marinha, o Tratado de Santo Ildefonso (1º de outubro de 1777) colocou os Sete Povos das Missões e as terras a oeste do Jacuí do lado espanhol.",
+     "gabarito": "C",
+     "explicacao": "O artigo descreve uma linha que deixava as Missões e as terras a oeste do Jacuí com a Espanha.",
+     "fonte": "Portal de Periódicos da Marinha, Revista do IGHMB (https://www.portaldeperiodicos.marinha.mil.br/index.php/ighmb/article/download/3369/3259)"
+    },
+    {
+     "id": "HBR-01-03#06",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o IBGE (RBG), a paz de Badajoz (1801) restaurou o Tratado de Santo Ildefonso e reabriu as discussões sobre limites.",
+     "gabarito": "E",
+     "explicacao": "O artigo afirma que Badajoz não restaurou o Tratado de 1777 e que não houve mais discussão sobre limites.",
+     "fonte": "Revista Brasileira de Geografia, IBGE, artigo sobre a evolução das fronteiras e dos tratados (https://rbg.ibge.gov.br/index.php/rbg/article/view/3812/3097)"
+    },
+    {
+     "id": "HBR-01-03#07",
+     "tipo": "certo_errado",
+     "enunciado": "Pelo princípio do uti possidetis, adotado no Tratado de Madri, a terra pertence a quem efetivamente a ocupa, o que favorecia Portugal nas áreas a oeste de Tordesilhas já povoadas por portugueses.",
+     "gabarito": "C",
+     "explicacao": "O princípio privilegia a ocupação efetiva, e Gusmão o usou para sustentar direitos portugueses onde havia súditos portugueses.",
+     "fonte": "Revista Brasileira de Geografia, IBGE, artigo sobre a evolução das fronteiras e dos tratados (https://rbg.ibge.gov.br/index.php/rbg/article/view/3812/3097); Hevelly F. Acruche, A fronteira e as gentes (1750-1820), ANPUH (https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548874919_e39e5faf9b04ce94412cdecc36bb22ec.pdf)"
+    },
+    {
+     "id": "HBR-01-03#08",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo Acruche, a Guerra Guaranítica (1754-1756) facilitou a incorporação dos Sete Povos das Missões ao território português prevista em Madri.",
+     "gabarito": "E",
+     "explicacao": "A autora diz que a guerra dificultou a incorporação das Missões, não que a facilitou.",
+     "fonte": "Hevelly F. Acruche, A fronteira e as gentes (1750-1820), ANPUH (https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548874919_e39e5faf9b04ce94412cdecc36bb22ec.pdf)"
+    },
+    {
+     "id": "HBR-01-03#09",
+     "tipo": "certo_errado",
+     "enunciado": "A Colônia do Sacramento foi fundada pelos portugueses em 1680, na margem norte do Rio da Prata, em frente a Buenos Aires.",
+     "gabarito": "C",
+     "explicacao": "A UNESCO registra a fundação portuguesa em 1680 na margem norte do Prata; a Topoi atribui a fundação a D. Manuel Lobo, em janeiro de 1680.",
+     "fonte": "UNESCO, Historic Quarter of the City of Colonia del Sacramento (https://whc.unesco.org/en/list/747/); Artigo da revista Topoi sobre a Colônia do Sacramento (https://scielo.br/j/topoi/a/tCjfnrbGJfpw359Y4STS9QB/?format=pdf)"
+    },
+    {
+     "id": "HBR-01-03#10",
+     "tipo": "certo_errado",
+     "enunciado": "O Tratado de Utrecht de 11 de abril de 1713, citado pelo IBGE, fixou no artigo 8 a fronteira entre o Brasil e a Guiana Francesa e devolveu Sacramento a Portugal.",
+     "gabarito": "E",
+     "explicacao": "O IBGE liga o artigo 8 de Utrecht (1713) à fronteira com a Guiana Francesa, mas a devolução de Sacramento consta do tratado de paz com a Espanha, de 1715.",
+     "fonte": "Revista Brasileira de Geografia, IBGE, artigo sobre a evolução das fronteiras e dos tratados (https://rbg.ibge.gov.br/index.php/rbg/article/view/3812/3097); Infopédia, Colónia do Sacramento (https://www.infopedia.pt/artigos/$colonia-do-sacramento); Artigo da revista Topoi sobre a Colônia do Sacramento (https://scielo.br/j/topoi/a/tCjfnrbGJfpw359Y4STS9QB/?format=pdf)"
+    }
+   ]
+  }
+ }
+}

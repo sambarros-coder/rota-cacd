@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "gerado_em": "2026-10-04T21:22:50Z",
+ "gerado_em": "2026-10-08T13:39:50Z",
  "pacotes": [
   {
    "id": "core",
@@ -25,6 +25,14 @@
    "arquivo": "packs/items-C01-1.0.0.json",
    "sha256": "2e91c9a489810e5e52048a37d2e749eaa1cdb6e476cd8357c772ba6a61913895",
    "bytes": 126239
+  },
+  {
+   "id": "items-C02",
+   "tipo": "items",
+   "version": "1.0.0",
+   "arquivo": "packs/items-C02-1.0.0.json",
+   "sha256": "1ccc69cc9df2b2830ccaab359df125859b3c3d0f4aec8c4c05ad92ffb0271576",
+   "bytes": 145956
   }
  ]
 }

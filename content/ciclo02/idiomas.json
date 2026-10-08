@@ -1,0 +1,1010 @@
+{
+ "licoes": {
+  "ESP-01-02": {
+   "resumo": "Toda palavra tônica tem uma sílaba tônica, e a posição dela define se é aguda, llana, esdrújula ou sobresdrújula. A tilde (acento gráfico) segue regras de terminação, de hiato e de tilde diacrítica. Esta lição ensina a aplicá-las e o que a RAE diz hoje sobre solo e aún.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "1. Sílaba tônica e quatro classes de palavra",
+      "paragrafos": [
+       "Em toda palavra de duas ou mais sílabas, uma sílaba é pronunciada com mais força: a sílaba tônica. A classe da palavra depende da posição dela, contada a partir do fim.",
+       "Dizer onde está a tônica é o primeiro passo. Só depois se decide se há tilde, o acento gráfico escrito (´)."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Classe",
+        "Tônica",
+        "Exemplo"
+       ],
+       "linhas": [
+        [
+         "Aguda",
+         "última sílaba",
+         "can-ción, ca-fé, re-loj"
+        ],
+        [
+         "Llana (grave)",
+         "penúltima",
+         "mesa, ár-bol, lá-piz"
+        ],
+        [
+         "Esdrújula",
+         "antepenúltima",
+         "te-lé-fo-no, mú-si-ca"
+        ],
+        [
+         "Sobresdrújula",
+         "anterior à antepenúltima",
+         "dí-ga-me-lo, cóm-pra-me-lo"
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "2. Agudas e llanas: a regra das terminações",
+      "paragrafos": [
+       "Segundo o Diccionario panhispánico de dudas (DPD), as agudas levam tilde quando terminam em vogal, em -n ou em -s não precedida de outra consoante: café, canción, jamás. Sem tilde ficam comer, reloj, ciudad, pois terminam em outras consoantes.",
+       "As llanas funcionam ao contrário. Levam tilde quando terminam em consoante diferente de -n e -s, ou em -s precedida de outra consoante: árbol, lápiz, cárcel, bíceps, récords. Não levam em mesa, joven, lunes.",
+       "Pronuncie a palavra devagar e perceba a sílaba mais forte. Depois conte da direita para a esquerda: última é aguda, penúltima é llana, antepenúltima é esdrújula.",
+       "Método em quatro passos: separe as sílabas, marque a tônica, classifique a palavra e olhe a terminação. Veja alguns casos."
+      ],
+      "lista": [
+       "Aguda: tilde se acaba em vogal, -n ou -s (café, canción, adiós).",
+       "Llana: tilde se acaba em consoante que não seja -n ou -s (árbol, lápiz).",
+       "As duas regras são, em geral, complementares: a aguda leva tilde em -n, -s ou vogal, e a llana leva nas demais terminações (inclusive -s precedida de consoante, como bíceps).",
+       "can-CIÓN: aguda, termina em -n, leva tilde.",
+       "ÁR-bol: llana, termina em -l, leva tilde.",
+       "ME-sa: llana, termina em vogal, não leva tilde.",
+       "re-LOJ: aguda, termina em -j, não leva tilde."
+      ]
+     },
+     {
+      "titulo": "3. Esdrújulas e sobresdrújulas",
+      "paragrafos": [
+       "O DPD diz que esdrújulas e sobresdrújulas levam tilde sempre, sem olhar a terminação: teléfono, música, cántaro, dígamelo.",
+       "As sobresdrújulas aparecem sobretudo quando se juntam pronomes ao verbo: cómpramelo, explícaselo."
+      ]
+     },
+     {
+      "titulo": "4. Ditongos e hiatos",
+      "paragrafos": [
+       "Ditongo é o encontro de duas vogais na mesma sílaba (bien, aire, cuidado). Hiato é o encontro de duas vogais em sílabas separadas (pa-ís, dí-a). As vogais abertas são a, e, o; as fechadas são i, u.",
+       "Pelo DPD, quando a vogal fechada é tônica e a aberta é átona, em qualquer ordem (pa-ís, dí-a), forma-se hiato e a tilde cai sobre a fechada, mesmo contra as regras gerais: baúl (aguda em -l), día e río (llanas em vogal), sabiduría. País é aguda terminada em -s e já levaria tilde pela regra geral."
+      ],
+      "lista": [
+       "Em ditongo, a tilde segue as regras gerais (también, canción).",
+       "Em hiato de fechada tônica, a tilde é obrigatória (país, río)."
+      ]
+     },
+     {
+      "titulo": "5. Tilde diacrítica",
+      "paragrafos": [
+       "A regra geral diz que monossílabos não levam tilde (fue, dio, vio). A exceção é a tilde diacrítica, que distingue palavras iguais na escrita, uma tônica e outra átona.",
+       "Pares que você precisa dominar: tú (pronome) e tu (possessivo); él (pronome) e el (artigo); mí (pronome) e mi (possessivo); sí (afirmação) e si (conjunção); té (infusão) e te (pronome); sé (de ser ou saber) e se (pronome); más (quantidade) e mas (conjunção adversativa, 'pero'); dé (de dar) e de (preposição).",
+       "Treine os pares em frases completas, pois o contexto decide qual forma usar.",
+       "Tú tienes tu libro. Él dijo que el coche es suyo. Para mí, mi casa es grande. Sí, si puedo, voy. Quiero té; te lo doy. No sé si se fue. Más o menos, mas no importa. Quiero que me dé el libro de Ana."
+      ],
+      "lista": [
+       "Tônica e com tilde: tú, él, mí, sí, té, sé, más, dé.",
+       "Átona e sem tilde: tu, el, mi, si, te, se, mas, de."
+      ]
+     },
+     {
+      "titulo": "6. Interrogativos, exclamativos, aún e solo",
+      "paragrafos": [
+       "Qué, cuál, quién, cómo, cuándo, cuánto e dónde levam tilde quando são interrogativos ou exclamativos: ¿Qué hora es?, ¡Cómo llueve! As interrogativas indiretas também levam tilde: Dime qué quieres. Como relativo ou conjunção, que fica sem tilde: Es el libro que compré.",
+       "Aún leva tilde quando equivale a todavía (Aún no llega). Sem tilde, aun significa incluso ou até (Aun así, voy).",
+       "Sobre solo: a RAE esclarece, em nota de 2023, que o advérbio se escreve sem tilde quando não há risco de ambiguidade. Havendo risco, a tilde é opcional, a critério de quem escreve. Nos usos pronominais de este, ese e aquel, a tilde é optativa e só se justifica havendo risco de ambiguidade; sem esse risco, não se acentua.",
+       "Roteiro final para qualquer palavra: quantas sílabas tem, onde está a tônica, qual é a classe, qual é a terminação e se há hiato com vogal fechada tônica ou par diacrítico. Se a resposta a uma dessas duas últimas perguntas for sim, a tilde vem por regra especial e não pela terminação."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Não confunda a tônica falada com o acento escrito: muitas palavras são tônicas sem tilde (comer, mesa).",
+     "As regras de agudas e llanas são opostas. Lápiz é llana terminada em -z, por isso leva tilde; canción é aguda terminada em -n, por isso leva.",
+     "Monossílabos como fue, dio e vio não levam tilde. Só levam os casos de tilde diacrítica.",
+     "Em hiato com vogal fechada tônica a tilde é obrigatória mesmo contra a regra geral: baúl leva tilde, embora seja aguda terminada em -l, e día leva, embora seja llana terminada em vogal.",
+     "Sólo com tilde não é erro nem obrigação: é opcional apenas quando houver ambiguidade, segundo a RAE (2023).",
+     "Qué interrogativo leva tilde; que conjunção ou relativo, não."
+    ],
+    "fontes": [
+     "RAE e ASALE, Diccionario panhispánico de dudas, https://www.rae.es/dpd/tilde (consultado)",
+     "RAE e ASALE, Ortografía de la lengua española (2010), obra primária não aberta integralmente; as regras foram conferidas no DPD",
+     "https://www.rae.es/dpd/tilde",
+     "RAE, Nota informativa sobre la tilde en «solo» (9 mar. 2023), rae.es (consultada)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "ESP-01-02#01",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o DPD, as palavras agudas levam tilde quando terminam em vogal, em -n ou em -s não precedida de outra consoante.",
+     "gabarito": "C",
+     "explicacao": "É a regra das agudas: café, canción, jamás levam tilde.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, https://www.rae.es/dpd/tilde (consultado)"
+    },
+    {
+     "id": "ESP-01-02#02",
+     "tipo": "certo_errado",
+     "enunciado": "A palavra lápiz leva tilde por ser esdrújula.",
+     "gabarito": "E",
+     "explicacao": "Lá-piz tem a tônica na penúltima sílaba: é llana. Leva tilde porque termina em -z, consoante diferente de -n e -s.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, https://www.rae.es/dpd/tilde (consultado)"
+    },
+    {
+     "id": "ESP-01-02#03",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o DPD, as esdrújulas e as sobresdrújulas levam tilde sempre.",
+     "gabarito": "C",
+     "explicacao": "Nessas classes a tilde não depende da terminação: teléfono, dígamelo.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, https://www.rae.es/dpd/tilde (consultado)"
+    },
+    {
+     "id": "ESP-01-02#04",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a RAE, o advérbio solo deve obrigatoriamente levar tilde quando houver risco de ambiguidade.",
+     "gabarito": "E",
+     "explicacao": "A RAE diz que, havendo risco de ambiguidade, a tilde é opcional, a critério de quem escreve. Sem risco, escreve-se sem tilde.",
+     "fonte": "RAE, Nota informativa sobre la tilde en «solo» (9 mar. 2023), rae.es (consultada)"
+    },
+    {
+     "id": "ESP-01-02#05",
+     "tipo": "multipla_escolha",
+     "enunciado": "Qual das grafias abaixo está correta?",
+     "opcoes": [
+      "arbol",
+      "cancion",
+      "camión",
+      "lapíz"
+     ],
+     "gabarito": 2,
+     "explicacao": "Camión é aguda terminada em -n e leva tilde. Árbol e lápiz são llanas terminadas em consoante diferente de -n e -s e exigem tilde na primeira sílaba, não nas formas dadas.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, https://www.rae.es/dpd/tilde (consultado)"
+    },
+    {
+     "id": "ESP-01-02#06",
+     "tipo": "lacuna",
+     "enunciado": "Complete com o pronome pessoal sujeito de segunda pessoa do singular (atenção à tilde): ¿___ tienes hambre?",
+     "aceitas": [
+      "Tú",
+      "tú"
+     ],
+     "explicacao": "Pronome pessoal sujeito leva tilde diacrítica para se distinguir do possessivo tu.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, https://www.rae.es/dpd/tilde (consultado)"
+    },
+    {
+     "id": "ESP-01-02#07",
+     "tipo": "lacuna",
+     "enunciado": "Complete com a forma correta: Eso es para ___ (pronome, 'para mim').",
+     "aceitas": [
+      "mí",
+      "Mí"
+     ],
+     "explicacao": "O pronome preposicional mí leva tilde; o possessivo mi não leva.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, https://www.rae.es/dpd/tilde (consultado)"
+    },
+    {
+     "id": "ESP-01-02#08",
+     "tipo": "multipla_escolha",
+     "enunciado": "Em qual palavra a vogal fechada tônica forma hiato com vogal aberta e, por isso, leva tilde?",
+     "opcoes": [
+      "bien",
+      "país",
+      "aire",
+      "cuota"
+     ],
+     "gabarito": 1,
+     "explicacao": "Em pa-ís a vogal fechada í é tônica e forma hiato com a aberta a; a tilde é obrigatória. Bien, aire e cuota têm ditongo.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, https://www.rae.es/dpd/tilde (consultado)"
+    },
+    {
+     "id": "ESP-01-02#09",
+     "tipo": "certo_errado",
+     "enunciado": "Em ¿Qué hora es?, a palavra qué leva tilde por ser interrogativa.",
+     "gabarito": "C",
+     "explicacao": "Interrogativos e exclamativos levam tilde, diferente do que conjunção ou relativo.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, https://www.rae.es/dpd/tilde (consultado)"
+    },
+    {
+     "id": "ESP-01-02#10",
+     "tipo": "certo_errado",
+     "enunciado": "Dígamelo é sobresdrújula e leva tilde.",
+     "gabarito": "C",
+     "explicacao": "A tônica está antes da antepenúltima sílaba (dí-ga-me-lo); sobresdrújulas levam sempre tilde.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, https://www.rae.es/dpd/tilde (consultado)"
+    },
+    {
+     "id": "ESP-01-02#11",
+     "tipo": "certo_errado",
+     "enunciado": "Aun sem tilde equivale a todavía em Aun no llega.",
+     "gabarito": "E",
+     "explicacao": "Aún com tilde equivale a todavía. Sem tilde, aun significa incluso, hasta ou tem valor concessivo.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, https://www.rae.es/dpd/tilde (consultado)"
+    },
+    {
+     "id": "ESP-01-02#12",
+     "tipo": "certo_errado",
+     "enunciado": "A palavra fue leva tilde por ser aguda terminada em vogal.",
+     "gabarito": "E",
+     "explicacao": "Fue é monossílabo, e monossílabos não levam tilde, salvo tilde diacrítica. Fue não é caso de tilde diacrítica.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, https://www.rae.es/dpd/tilde (consultado)"
+    }
+   ]
+  },
+  "ESP-01-03": {
+   "resumo": "O espanhol tem fórmulas de saudação e despedida de uso comum (hola, buenos días, adiós, hasta luego) e dois tratamentos singulares: tú, informal, e usted, formal, este com o verbo na terceira pessoa. No plural, o uso de vosotros e ustedes varia por região, conforme a RAE.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "1. Cumprimentar",
+      "paragrafos": [
+       "A saudação mais neutra é Hola. Há também as fórmulas ligadas ao momento do dia: Buenos días, Buenas tardes e Buenas noches. A forma curta Buenas também é usada, e ¿Qué tal? serve para perguntar como a pessoa está.",
+       "Para perguntar como a pessoa vai, o espanhol exige escolher o tratamento: ¿Cómo estás? (tú) ou ¿Cómo está usted? (usted)."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Espanhol",
+        "Português",
+        "Observação"
+       ],
+       "linhas": [
+        [
+         "Hola",
+         "Olá",
+         "Saudação geral"
+        ],
+        [
+         "Buenos días",
+         "Bom dia",
+         "Por momento do dia"
+        ],
+        [
+         "Buenas tardes",
+         "Boa tarde",
+         "Por momento do dia"
+        ],
+        [
+         "Buenas noches",
+         "Boa noite",
+         "Por momento do dia"
+        ],
+        [
+         "¿Qué tal?",
+         "Como vai?",
+         "Pergunta curta"
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "2. Despedir-se",
+      "paragrafos": [
+       "A despedida mais geral é Adiós. Quando se espera rever a pessoa, usam-se fórmulas com hasta: Hasta luego (até logo), Hasta pronto (até breve), Hasta mañana (até amanhã) e, com um dia marcado, Hasta el viernes.",
+       "Entre pessoas próximas aparecem ainda Nos vemos e ¡Cuídate!. Esta última usa a forma de tú."
+      ],
+      "lista": [
+       "Adiós: despedida geral.",
+       "Hasta luego, hasta pronto, hasta mañana: promessa de rever.",
+       "Nos vemos: informal, entre próximos."
+      ]
+     },
+     {
+      "titulo": "3. Tú e usted",
+      "paragrafos": [
+       "No singular, o espanhol tem dois tratamentos. Tú é o tratamento informal e expressa proximidade. Usted é o tratamento de cortesia, que indica distanciamento e respeito, como em contextos profissionais, com desconhecidos ou com pessoas de autoridade.",
+       "A norma varia entre famílias e países, de modo que a escolha também depende do contexto. Na dúvida, observe como a outra pessoa trata você."
+      ]
+     },
+     {
+      "titulo": "4. Mini-diálogos",
+      "paragrafos": [
+       "Com tú: Hola, ¿qué tal? Bien, ¿y tú? Muy bien, gracias. Hasta luego. Com usted: Buenos días, ¿cómo está usted? Muy bien, gracias, ¿y usted? Bien. Hasta mañana.",
+       "Segundo o material didático consultado, respostas comuns são (Muy) bien, Más o menos e (Muy) mal. Para desejar o bem ao se despedir, existem ¡Que te vaya bien! (tú) e ¡Que le vaya bien! (usted).",
+       "Gracias é respondido com De nada.",
+       "Note que a escolha de tú ou usted deve ser mantida no diálogo todo: quem começa com usted não passa a ¿Y tú? na resposta. Observe também que Hola cabe nos dois diálogos, porque a saudação em si não depende do tratamento; quem muda é a pergunta e a resposta que a segue."
+      ]
+     },
+     {
+      "titulo": "5. A gramática de usted",
+      "paragrafos": [
+       "Usted vem de vuestra merced e, por isso, é gramaticalmente de terceira pessoa, embora se refira a quem ouve. O verbo vai na terceira pessoa: ¿Cómo está usted?, e não ¿Cómo estás usted?.",
+       "Os pronomes associados também são de terceira pessoa: le, lo, la, su. Diz-se ¿Puedo ayudarle?, e não uma forma de vuestro. A abreviatura mais recomendada é Ud., plural Uds., com inicial maiúscula."
+      ]
+     },
+     {
+      "titulo": "6. Plural e variação regional",
+      "paragrafos": [
+       "Segundo o DPD, vosotros é a forma usada na maior parte da Espanha para o plural informal, com verbo próprio de segunda pessoa do plural. Em Canarias e na Andaluzia ocidental, o plural informal se faz com ustedes.",
+       "Segundo o DPD, na América vosotros e suas formas verbais carecem de uso. Ustedes é o plural tanto formal quanto informal.",
+       "Quanto ao voseo, a RAE o descreve como traço característico do espanhol falado em algumas regiões da América, sobretudo as áreas rio-platense e centro-americana. Vos se dirige a uma única pessoa. A RAE não o trata como erro, e sim como fenômeno dialetal, cujo prestígio muda de região para região.",
+       "Ainda segundo a RAE, em algumas regiões americanas convivem vos, tú e usted, e na Espanha e em amplas zonas da América tú é a forma informal. Por isso, aprenda tú e usted primeiro e trate vos e vosotros como reconhecimento regional."
+      ]
+     },
+     {
+      "titulo": "7. Como escolher na prática",
+      "paragrafos": [
+       "Em contextos formais ou com alguém que você não conhece, a cortesia costuma pedir usted. Com colegas e amigos, tú. Para plural: na América, ustedes serve para o plural formal e o informal; na Espanha, ustedes é o plural de cortesia, e entre amigos se usa vosotros.",
+       "Para a prova, e para o dia a dia, aprenda primeiro as formas de tú e de usted. Vos e vosotros entram como reconhecimento: você deve identificá-los e saber onde ocorrem, sem generalizar.",
+       "Em resumo, para cumprimentar bem em espanhol, escolha primeiro a saudação, depois o tratamento e por último a despedida compatível com o contexto. Se mudar de tú para usted no meio da frase, o verbo muda junto."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Usted não leva verbo na segunda pessoa: a forma correta é está, não estás.",
+     "Na América, vosotros carece de uso, segundo o DPD. Se a questão pede o plural em toda a América, a resposta é ustedes.",
+     "Não diga que todo o mundo hispânico usa vos. A RAE o associa a algumas regiões da América.",
+     "Voseo trata uma única pessoa. Não confunda com vosotros, que é plural.",
+     "Não fixe horários rígidos para buenos días, buenas tardes e buenas noches: o material consultado só as associa ao momento do dia.",
+     "Adiós é despedida geral; hasta luego, hasta pronto e hasta mañana pressupõem rever a pessoa."
+    ],
+    "fontes": [
+     "Skyline College (OER), Elementary Spanish, cap. 2 «Saludos y despedidas», human.libretexts.org (material didático universitário; consultado)",
+     "RAE e ASALE, Diccionario panhispánico de dudas, https://www.rae.es/dpd/usted",
+     "RAE e ASALE, Diccionario panhispánico de dudas, https://www.rae.es/dpd/vosotros",
+     "RAE, Glosario de términos gramaticales, https://www.rae.es/gtg/voseo",
+     "RAE e ASALE, Diccionario panhispánico de dudas, https://www.rae.es/dpd/tú"
+    ]
+   },
+   "itens": [
+    {
+     "id": "ESP-01-03#01",
+     "tipo": "associar",
+     "enunciado": "Associe cada fórmula espanhola ao seu sentido em português.",
+     "pares": [
+      [
+       "Hola",
+       "Olá"
+      ],
+      [
+       "Adiós",
+       "Adeus"
+      ],
+      [
+       "Hasta mañana",
+       "Até amanhã"
+      ],
+      [
+       "Hasta luego",
+       "Até logo"
+      ]
+     ],
+     "explicacao": "São fórmulas básicas de saudação e despedida do material didático citado.",
+     "fonte": "Skyline College (OER), Elementary Spanish, cap. 2 «Saludos y despedidas», human.libretexts.org (material didático universitário; consultado)"
+    },
+    {
+     "id": "ESP-01-03#02",
+     "tipo": "associar",
+     "enunciado": "Associe cada pronome ao seu uso, segundo a RAE.",
+     "pares": [
+      [
+       "tú",
+       "tratamento informal no singular"
+      ],
+      [
+       "usted",
+       "tratamento de cortesia no singular"
+      ],
+      [
+       "vosotros",
+       "plural informal na maior parte da Espanha"
+      ],
+      [
+       "ustedes",
+       "plural usado em toda a América"
+      ]
+     ],
+     "explicacao": "Conforme o DPD: vosotros na maior parte da Espanha, ustedes em toda a América e, na Espanha, também como plural de cortesia.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbetes «usted» e «vosotros»; RAE, Glosario de términos gramaticales, «voseo» (todos consultados em rae.es)"
+    },
+    {
+     "id": "ESP-01-03#03",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o DPD, usted é gramaticalmente de terceira pessoa, e o verbo que o acompanha deve ir na terceira pessoa.",
+     "gabarito": "C",
+     "explicacao": "Usted vem de vuestra merced; por isso, diz-se ¿Cómo está usted?.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbetes «usted» e «vosotros»; RAE, Glosario de términos gramaticales, «voseo» (todos consultados em rae.es)"
+    },
+    {
+     "id": "ESP-01-03#04",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o DPD, na América o plural informal é feito com vosotros.",
+     "gabarito": "E",
+     "explicacao": "Na América vosotros e suas formas verbais não se usam; o plural, informal ou formal, é ustedes.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbetes «usted» e «vosotros»; RAE, Glosario de términos gramaticales, «voseo» (todos consultados em rae.es)"
+    },
+    {
+     "id": "ESP-01-03#05",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o DPD, em Canarias e na Andaluzia ocidental o plural informal se faz com ustedes.",
+     "gabarito": "C",
+     "explicacao": "O DPD registra essa exceção dentro da Espanha, onde vosotros predomina.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbetes «usted» e «vosotros»; RAE, Glosario de términos gramaticales, «voseo» (todos consultados em rae.es)"
+    },
+    {
+     "id": "ESP-01-03#06",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o Glosario de términos gramaticales da RAE, o voseo é traço característico do espanhol de algumas regiões da América, sobretudo rio-platense e centro-americana.",
+     "gabarito": "C",
+     "explicacao": "A RAE o descreve como fenômeno regional, sem generalizar para todo o mundo hispânico.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbetes «usted» e «vosotros»; RAE, Glosario de términos gramaticales, «voseo» (todos consultados em rae.es)"
+    },
+    {
+     "id": "ESP-01-03#07",
+     "tipo": "certo_errado",
+     "enunciado": "O voseo consiste em usar vos para se dirigir a várias pessoas ao mesmo tempo.",
+     "gabarito": "E",
+     "explicacao": "O voseo é o uso de vos para um único interlocutor. O plural é vosotros ou ustedes.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbetes «usted» e «vosotros»; RAE, Glosario de términos gramaticales, «voseo» (todos consultados em rae.es)"
+    },
+    {
+     "id": "ESP-01-03#08",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o DPD, é correto usar verbo de segunda pessoa com usted, como em ¿Cómo estás usted?.",
+     "gabarito": "E",
+     "explicacao": "Usar segunda pessoa com usted(es) é incorreto. A forma correta é ¿Cómo está usted?.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbetes «usted» e «vosotros»; RAE, Glosario de términos gramaticales, «voseo» (todos consultados em rae.es)"
+    },
+    {
+     "id": "ESP-01-03#09",
+     "tipo": "flashcard",
+     "frente": "Que diferença o DPD faz entre tú e usted no singular?",
+     "verso": "Tú é o tratamento informal, de proximidade. Usted é o de cortesia, que indica distanciamento e respeito, e leva o verbo na terceira pessoa.",
+     "explicacao": "Resume a oposição de registro e a concordância de usted.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbetes «usted» e «vosotros»; RAE, Glosario de términos gramaticales, «voseo» (todos consultados em rae.es)"
+    },
+    {
+     "id": "ESP-01-03#10",
+     "tipo": "multipla_escolha",
+     "enunciado": "Ouça a fórmula. O que ela significa em português?",
+     "fala": {
+      "texto": "Hasta mañana",
+      "lang": "es-ES"
+     },
+     "opcoes": [
+      "Até amanhã",
+      "Até logo",
+      "Boa noite",
+      "Bom dia"
+     ],
+     "gabarito": 0,
+     "explicacao": "Hasta mañana é 'até amanhã'; hasta luego é 'até logo'.",
+     "fonte": "Skyline College (OER), Elementary Spanish, cap. 2 «Saludos y despedidas», human.libretexts.org (material didático universitário; consultado)"
+    },
+    {
+     "id": "ESP-01-03#11",
+     "tipo": "lacuna",
+     "enunciado": "Complete, com o verbo estar, a pergunta 'como o senhor está?', dirigida a um professor que você não conhece: ¿Cómo ___ usted?",
+     "aceitas": [
+      "está"
+     ],
+     "explicacao": "Usted exige o verbo na terceira pessoa do singular: está.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbetes «usted» e «vosotros»; RAE, Glosario de términos gramaticales, «voseo» (todos consultados em rae.es)"
+    }
+   ]
+  },
+  "FRA-01-02": {
+   "resumo": "O francês tem vogais nasais (an/en, in/ain/ein, on, un), o r padrão é uvular fricativo e as consoantes finais, em geral mudas, às vezes soam por liaison. Aprenda a distinguir liaison obrigatória, proibida e facultativa e o enchaînement.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "1. Vogais nasais",
+      "paragrafos": [
+       "Em uma vogal nasal, o ar passa também pelo nariz, e a consoante n ou m escrita depois dela não é pronunciada como consoante. Em bon, o n só indica que o o é nasal.",
+       "Segundo o material didático consultado, são quatro nasais, com as grafias abaixo."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Som",
+        "Grafias",
+        "Exemplos"
+       ],
+       "linhas": [
+        [
+         "[ɑ̃]",
+         "an, am, en, em",
+         "lentement, jambe"
+        ],
+        [
+         "[ɛ̃]",
+         "in, im, ain, aim, ein",
+         "pain, vin, important"
+        ],
+        [
+         "[ɔ̃]",
+         "on, om",
+         "pompier, tomber"
+        ],
+        [
+         "[œ̃]",
+         "un, um",
+         "un, brun, parfum"
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "2. Quando a vogal deixa de ser nasal",
+      "paragrafos": [
+       "A mesma fonte dá a regra geral, dentro da palavra: se a letra n ou m é seguida de outra vogal, a vogal anterior deixa de ser nasal e a consoante soa. Na liaison há diferenças: segundo o OQLF, un mantém a nasal (un ami [œ̃nami]), enquanto bon se desnasaliza (bon ami [bɔnami]). Compare un [œ̃], com vogal nasal, e une [yn], em que o n soa.",
+       "Atenção: o material mostra que [œ̃] costuma ser percebido como [ɛ̃] por muitos falantes, que então ouvem só três nasais. Em prova, vale a lista de quatro.",
+       "Treine pares que diferem apenas pela vogal nasal: pain [ɛ̃], paon [ɑ̃] e pont [ɔ̃]. O exemplo paon, com grafia aon, aparece no material consultado como grafia rara de [ɑ̃].",
+       "Em frases, observe se a consoante escrita depois da vogal soa: un (vogal nasal, sem n) e une (o n soa).",
+       "O som nasal francês não tem equivalente exato no português; ouça os áudios antes de repetir."
+      ]
+     },
+     {
+      "titulo": "3. O r francês",
+      "paragrafos": [
+       "Segundo o OQLF, no francês padrão atual o r é sobretudo fricativo uvular [ʁ]: o dorso da língua se aproxima da úvula (a campainha da garganta) e o ar passa de forma contínua, sem vibração.",
+       "No Québec, o [r] apical foi variante padrão por muito tempo, segundo o OQLF; hoje é visto como antiquado ou regional. O r grasseyé [ʀ], uvular e vibrante, é menos comum. O projeto PFC registra [ʁ] em Paris e no Québec, e [r] em Dakar e Chlef.",
+       "Dica: muitos brasileiros já têm um som de r gutural em palavras como rato, mas isso varia com o sotaque. Ouça e imite."
+      ]
+     },
+     {
+      "titulo": "4. Liaison: o que é e quando é obrigatória",
+      "paragrafos": [
+       "Liaison é a pronúncia de uma consoante final normalmente muda diante de palavra iniciada por vogal ou h mudo, sem pausa. Segundo a Académie française, pode ser obrigatória, facultativa ou proibida.",
+       "É obrigatória, entre outros casos, entre determinante e nome (les amis [lezami], un ami [œ̃nami]), entre adjetivo anteposto e nome (un ancien ami), entre pronome e verbo (vous êtes, ils aiment) e depois da maioria das preposições monossilábicas, segundo a Académie (dans une heure)."
+      ],
+      "lista": [
+       "Obrigatória: les amis, un ami, vous êtes, ils aiment, dans une heure.",
+       "Note o som: s liga como [z] (des amis); t, como [t] (tout homme); n, como [n] (un ancien usage)."
+      ]
+     },
+     {
+      "titulo": "5. Liaison proibida e facultativa",
+      "paragrafos": [
+       "A Académie lista casos de liaison proibida. Entre eles: depois da conjunção et (un fils et une fille), depois da consoante final de um nome no singular (un temps idéal) e diante de un, oui e onze.",
+       "Nos demais casos, a liaison é facultativa. Quando feita, tende a soar mais formal. Pataquès é a liaison errada: em sentido estrito, t no lugar de z ou z no lugar de t; em sentido amplo, qualquer liaison fautive.",
+       "Leia em voz alta, ligando as consoantes marcadas: les amis [lezami], un ami [œ̃nami], vous êtes [vuzɛt], ils aiment [ilzɛm], dans une heure [dɑ̃zynœʁ].",
+       "Sem liaison, segundo a Académie: un fils et une fille (depois de et) e un temps idéal (depois de nome no singular).",
+       "Para enchaînement, treine elle est [ɛlɛ] e avec elle, em que a consoante já soava e apenas passa para a sílaba seguinte. O material consultado dá também sept enfants como exemplo."
+      ]
+     },
+     {
+      "titulo": "6. Enchaînement",
+      "paragrafos": [
+       "Enchaînement é a ligação de uma consoante que já é pronunciada à vogal da palavra seguinte, de modo que a sílaba passa a se formar entre as duas palavras. Exemplo: elle est soa [ɛlɛ], e avec elle soa como se fosse uma só unidade.",
+       "A diferença é simples: no enchaînement a consoante já soava (elle, avec); na liaison ela só aparece por causa da vogal seguinte (les amis).",
+       "Roteiro para frases: identifique as vogais nasais, depois veja se a próxima palavra começa por vogal ou h mudo, classifique o par gramatical (determinante e nome, pronome e verbo, et, nome singular) e decida entre liaison obrigatória, proibida ou facultativa."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Em bon, o n não soa como consoante: ele marca a nasalização. Em une, o n soa.",
+     "Não aplique liaison depois de et, nem depois de nome no singular (un temps idéal).",
+     "Liaison e enchaînement não são o mesmo: só a liaison revela uma consoante normalmente muda.",
+     "As grafias an e en normalmente representam o mesmo som nasal [ɑ̃], mas existem exceções, sobretudo depois de i ou é (por exemplo, en em bien ou examen é [ɛ̃]).",
+     "Liaison facultativa não é erro de omitir; ela tende ao registro formal.",
+     "O r padrão não é o r vibrante da ponta da língua, mas um som uvular, segundo o OQLF."
+    ],
+    "fontes": [
+     "Académie française, Questions de langue (liaison), https://dictionnaire-academie.fr/article/QDL046 (consultada)",
+     "Pressbooks BCcampus, French OER, «5.16 Structure des voyelles nasales», https://pressbooks.bccampus.ca/frenchoer1/chapter/5-16-structure-voyelles-nasales/ (consultado)",
+     "OQLF, Vitrine linguistique, «Prononciation de la lettre r», https://vitrinelinguistique.oqlf.gouv.qc.ca/24521/la-prononciation/prononciation-de-certaines-lettres/prononciation-de-la-lettre-r (consultada)",
+     "Projet PFC, «II. Le système consonantique», https://www.projet-pfc.net/le-projet-pfc-ef/le-francais-explique/prononciation/3/ (consultado)",
+     "Lawless French, «Enchaînement», https://www.lawlessfrench.com/pronunciation/enchainement/ (material didático; consultado)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "FRA-01-02#01",
+     "tipo": "multipla_escolha",
+     "enunciado": "Ouça a expressão. Que consoante de ligação soa entre les e amis?",
+     "fala": {
+      "texto": "les amis",
+      "lang": "fr-FR"
+     },
+     "opcoes": [
+      "Um som de /z/",
+      "Um som de /t/",
+      "Um som de /n/",
+      "Nenhuma consoante de ligação"
+     ],
+     "gabarito": 0,
+     "explicacao": "Entre determinante e nome a liaison é obrigatória e o s liga como [z]: [lezami].",
+     "fonte": "Académie française, Questions de langue (liaison), https://dictionnaire-academie.fr/article/QDL046 (consultada)"
+    },
+    {
+     "id": "FRA-01-02#02",
+     "tipo": "multipla_escolha",
+     "enunciado": "Ouça a expressão. Que consoante de ligação soa entre un e ami?",
+     "fala": {
+      "texto": "un ami",
+      "lang": "fr-FR"
+     },
+     "opcoes": [
+      "Um som de /z/",
+      "Um som de /t/",
+      "Um som de /n/",
+      "Nenhuma consoante de ligação"
+     ],
+     "gabarito": 2,
+     "explicacao": "Determinante e nome pedem liaison obrigatória, e o n de un passa a soar: [œ̃nami].",
+     "fonte": "Académie française, Questions de langue (liaison), https://dictionnaire-academie.fr/article/QDL046 (consultada)"
+    },
+    {
+     "id": "FRA-01-02#03",
+     "tipo": "multipla_escolha",
+     "enunciado": "Qual grafia representa a vogal nasal [ɔ̃]?",
+     "opcoes": [
+      "on",
+      "an",
+      "in",
+      "un"
+     ],
+     "gabarito": 0,
+     "explicacao": "Segundo o material consultado, [ɔ̃] se escreve on ou om; an é [ɑ̃], in é [ɛ̃] e un é [œ̃].",
+     "fonte": "Pressbooks BCcampus, French OER, «5.16 Structure des voyelles nasales», https://pressbooks.bccampus.ca/frenchoer1/chapter/5-16-structure-voyelles-nasales/ (consultado)"
+    },
+    {
+     "id": "FRA-01-02#04",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o material didático consultado, tanto an quanto en podem representar a vogal nasal [ɑ̃].",
+     "gabarito": "C",
+     "explicacao": "A fonte lista am, an, en, em para [ɑ̃].",
+     "fonte": "Pressbooks BCcampus, French OER, «5.16 Structure des voyelles nasales», https://pressbooks.bccampus.ca/frenchoer1/chapter/5-16-structure-voyelles-nasales/ (consultado)"
+    },
+    {
+     "id": "FRA-01-02#05",
+     "tipo": "certo_errado",
+     "enunciado": "Para todos os falantes do francês, [œ̃] e [ɛ̃] são sempre sons distintos.",
+     "gabarito": "E",
+     "explicacao": "A fonte registra que [œ̃] é frequentemente percebido como [ɛ̃], de modo que muitos falantes ouvem só três nasais.",
+     "fonte": "Pressbooks BCcampus, French OER, «5.16 Structure des voyelles nasales», https://pressbooks.bccampus.ca/frenchoer1/chapter/5-16-structure-voyelles-nasales/ (consultado)"
+    },
+    {
+     "id": "FRA-01-02#06",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Académie française, a liaison é obrigatória entre determinante e nome, como em des amis.",
+     "gabarito": "C",
+     "explicacao": "A Académie lista determinante e nome como caso de liaison obrigatória.",
+     "fonte": "Académie française, Questions de langue (liaison), https://dictionnaire-academie.fr/article/QDL046 (consultada)"
+    },
+    {
+     "id": "FRA-01-02#07",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Académie française, a liaison é proibida depois da conjunção et.",
+     "gabarito": "C",
+     "explicacao": "Exemplo da Académie: un fils et une fille, sem liaison depois de et.",
+     "fonte": "Académie française, Questions de langue (liaison), https://dictionnaire-academie.fr/article/QDL046 (consultada)"
+    },
+    {
+     "id": "FRA-01-02#08",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Académie française, a liaison é obrigatória depois da consoante final de um nome no singular, como em un temps idéal.",
+     "gabarito": "E",
+     "explicacao": "Depois da consoante final de um nome no singular, a liaison é proibida.",
+     "fonte": "Académie française, Questions de langue (liaison), https://dictionnaire-academie.fr/article/QDL046 (consultada)"
+    },
+    {
+     "id": "FRA-01-02#09",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o OQLF, no francês padrão atual o r é sobretudo fricativo uvular [ʁ].",
+     "gabarito": "C",
+     "explicacao": "O OQLF descreve o r fricativo uvular como o mais comum no padrão atual; o r apical é visto como antiquado ou regional.",
+     "fonte": "OQLF, Vitrine linguistique, «Prononciation de la lettre r», https://vitrinelinguistique.oqlf.gouv.qc.ca/24521/la-prononciation/prononciation-de-certaines-lettres/prononciation-de-la-lettre-r (consultada)"
+    },
+    {
+     "id": "FRA-01-02#10",
+     "tipo": "certo_errado",
+     "enunciado": "Enchaînement é a pronúncia de uma consoante normalmente muda diante de vogal.",
+     "gabarito": "E",
+     "explicacao": "Essa é a liaison. Enchaînement liga uma consoante que já é pronunciada à vogal seguinte, como em elle est.",
+     "fonte": "Lawless French, «Enchaînement», https://www.lawlessfrench.com/pronunciation/enchainement/ (material didático; consultado)"
+    },
+    {
+     "id": "FRA-01-02#11",
+     "tipo": "multipla_escolha",
+     "enunciado": "Em ils aiment (pronome e verbo), segundo a Académie, a liaison é:",
+     "opcoes": [
+      "obrigatória",
+      "proibida",
+      "facultativa, de registro formal",
+      "um pataquès"
+     ],
+     "gabarito": 0,
+     "explicacao": "Entre pronome e verbo a Académie lista liaison obrigatória (ils aiment, on aime).",
+     "fonte": "Académie française, Questions de langue (liaison), https://dictionnaire-academie.fr/article/QDL046 (consultada)"
+    }
+   ]
+  },
+  "FRA-01-03": {
+   "resumo": "Em francês, bonjour serve para cumprimentar em geral, bonsoir à noite e salut é informal. Para se despedir, usam-se au revoir, à bientôt, à demain e outros. A escolha entre tu e vous marca proximidade ou respeito, segundo o OQLF.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "1. Cumprimentar",
+      "paragrafos": [
+       "Bonjour é a saudação básica, usada inclusive no primeiro encontro, com Madame ou Monsieur. Bonsoir se usa à noite. Salut é informal e circula entre colegas e amigos.",
+       "Para perguntar como a pessoa está, o registro também importa: Comment vas-tu ? (tu) e Comment allez-vous ? (vous). A forma curta Ça va ? é muito comum."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Francês",
+        "Português",
+        "Registro"
+       ],
+       "linhas": [
+        [
+         "Bonjour",
+         "Olá, bom dia",
+         "Geral, inclusive formal"
+        ],
+        [
+         "Bonsoir",
+         "Boa noite (à noite, ao chegar ou ao partir)",
+         "Geral, à noite"
+        ],
+        [
+         "Salut",
+         "Oi, tchau",
+         "Informal"
+        ],
+        [
+         "Comment vas-tu ?",
+         "Como vai você?",
+         "Com tu"
+        ],
+        [
+         "Comment allez-vous ?",
+         "Como vai o senhor, a senhora?",
+         "Com vous"
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "2. Despedir-se",
+      "paragrafos": [
+       "Au revoir é a despedida mais comum. Quando se espera rever a pessoa, usam-se fórmulas com à: à bientôt (até breve), à demain (até amanhã), à ce soir (até a noite), à tout à l'heure (até daqui a pouco) e à la prochaine (até a próxima).",
+       "À plus, forma curta de à plus tard, e salut são informais."
+      ],
+      "lista": [
+       "Geral: au revoir.",
+       "Com um momento marcado: à demain, à ce soir.",
+       "Informal: salut, à plus."
+      ]
+     },
+     {
+      "titulo": "3. Votos: bonne journée e bonne soirée",
+      "paragrafos": [
+       "Bonne journée e bonne soirée são votos de despedida, não saudações de chegada. Bonne soirée só se diz ao partir; bonsoir se diz à noite e, segundo o OQLF, pode ser usado tanto ao encontrar quanto ao deixar alguém.",
+       "Bonne journée equivale a 'tenha um bom dia' e bonne soirée a 'tenha uma boa noite'.",
+       "Um recurso de francisation do governo do Québec lista fórmulas como Pas mal e Allô. Isso lembra que o vocabulário de cortesia também varia por região.",
+       "Para fins de prova, mantenha o núcleo: bonjour, bonsoir, salut, au revoir e os votos de despedida.",
+       "Ao ler um enunciado, pergunte-se três coisas: quem fala com quem, em que momento do dia e em que registro. Com essas respostas, a escolha entre bonjour e salut, ou entre tu e vous, quase sempre se resolve."
+      ]
+     },
+     {
+      "titulo": "4. Mini-diálogos",
+      "paragrafos": [
+       "Com tu: Salut, ça va ? Ça va, et toi ? Ça va bien. À plus ! Com vous: Bonjour, Madame. Comment allez-vous ? Très bien, merci, et vous ? Bien, merci. Au revoir, à bientôt.",
+       "Note que o diálogo com vous usa Madame, Monsieur e a pergunta com allez-vous, enquanto o diálogo com tu usa salut e à plus, ambos informais."
+      ]
+     },
+     {
+      "titulo": "5. Tu e vous: quando usar cada um",
+      "paragrafos": [
+       "Segundo o OQLF, o vouvoiement (uso de vous) marca polidez e respeito, sobretudo com alguém que se encontra pela primeira vez, um superior hierárquico ou uma pessoa mais velha.",
+       "O tutoiement (uso de tu) marca proximidade e familiaridade. É espontâneo entre adolescentes, jovens adultos e membros de uma mesma família, e comum em locais de trabalho, clubes e associações.",
+       "O mesmo contraste vale para outras fórmulas de cortesia. Fica Excuse-moi para tu e Excusez-moi para vous. S'il te plaît (tu) corresponde a S'il vous plaît (vous), e Je t'en prie a Je vous en prie.",
+       "O pronome vous serve também para se dirigir a várias pessoas ao mesmo tempo, mesmo conhecidas; por isso Comment allez-vous ? pode ser dirigido a um grupo."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Com tu",
+        "Com vous",
+        "Sentido"
+       ],
+       "linhas": [
+        [
+         "Comment vas-tu ?",
+         "Comment allez-vous ?",
+         "Como vai?"
+        ],
+        [
+         "Excuse-moi",
+         "Excusez-moi",
+         "Com licença, desculpe"
+        ],
+        [
+         "S'il te plaît",
+         "S'il vous plaît",
+         "Por favor"
+        ],
+        [
+         "Je t'en prie",
+         "Je vous en prie",
+         "De nada, fique à vontade"
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "6. Assimetrias e variação",
+      "paragrafos": [
+       "O OQLF registra exceções: um professor pode tutoyer um aluno, um adulto uma criança e uma pessoa idosa alguém bem mais jovem. Quem é tutoyé não pode, por isso, tutoyer em retorno.",
+       "O OQLF também observa que, no Québec, muitas vezes se tutoie desde o primeiro encontro, enquanto em outras regiões francófonas isso pode parecer deslocado. Portanto, não generalize a regra de um lugar para o mundo francófono."
+      ]
+     },
+     {
+      "titulo": "7. Passar de vous a tu",
+      "paragrafos": [
+       "Em um primeiro encontro, é mais prudente manter vous até que o assunto surja. Em geral, decide a mudança a pessoa mais velha, a de posição hierárquica superior ou a que recebe.",
+       "Fórmulas possíveis, segundo o OQLF: On pourrait peut-être se dire tu ? ou Voulez-vous qu'on se tutoie ?.",
+       "Resumo prático: na dúvida, use bonjour, vous e au revoir, que são seguros em qualquer registro. Troque para salut e tu apenas quando o contexto indicar proximidade, como entre colegas de turma."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Bonsoir é saudação noturna, que também pode acompanhar a partida; bonne soirée é só voto de despedida.",
+     "Salut serve para dizer oi e tchau, mas é informal: não o use com um superior em primeiro encontro.",
+     "Comment vas-tu ? e Comment allez-vous ? significam o mesmo; muda o registro.",
+     "A regra de tu e vous não é a mesma em todos os lugares: no Québec, o tu aparece cedo, conforme o OQLF.",
+     "Ser tutoyé não autoriza a tutoyer de volta quando há assimetria de idade, cargo ou papel.",
+     "Em dúvida, comece com vous e espere o interlocutor propor o tu."
+    ],
+    "fontes": [
+     "OQLF, Vitrine linguistique, «Contextes d'emploi du vouvoiement et du tutoiement», https://vitrinelinguistique.oqlf.gouv.qc.ca/25140/la-redaction-et-la-communication/protocole-et-activites-publiques/contextes-demploi-du-vouvoiement-et-du-tutoiement (consultada)",
+     "Carrasco, Zahedi e Parrish, French OER 1, «Comment se saluer», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)",
+     "Dictionnaire de l'Académie française, verbete salut: https://dictionnaire-academie.fr/article/A9S0308"
+    ]
+   },
+   "itens": [
+    {
+     "id": "FRA-01-03#01",
+     "tipo": "associar",
+     "enunciado": "Associe cada fórmula francesa ao seu sentido.",
+     "pares": [
+      [
+       "Bonjour",
+       "Olá, bom dia"
+      ],
+      [
+       "Bonsoir",
+       "Boa noite (à noite, ao chegar ou ao partir)"
+      ],
+      [
+       "Au revoir",
+       "Até a vista"
+      ],
+      [
+       "À demain",
+       "Até amanhã"
+      ],
+      [
+       "À ce soir",
+       "Até a noite"
+      ]
+     ],
+     "explicacao": "São fórmulas básicas do material didático citado.",
+     "fonte": "Carrasco, Zahedi e Parrish, French OER 1, «Comment se saluer», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)"
+    },
+    {
+     "id": "FRA-01-03#02",
+     "tipo": "associar",
+     "enunciado": "Associe a forma com tu à correspondente com vous.",
+     "pares": [
+      [
+       "Comment vas-tu ?",
+       "Comment allez-vous ?"
+      ],
+      [
+       "Excuse-moi",
+       "Excusez-moi"
+      ],
+      [
+       "S'il te plaît",
+       "S'il vous plaît"
+      ],
+      [
+       "Je t'en prie",
+       "Je vous en prie"
+      ]
+     ],
+     "explicacao": "O material mostra cada fórmula em dois registros, informal (tu) e formal (vous).",
+     "fonte": "Carrasco, Zahedi e Parrish, French OER 1, «Comment se saluer», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)"
+    },
+    {
+     "id": "FRA-01-03#03",
+     "tipo": "certo_errado",
+     "enunciado": "Salut é uma fórmula informal, usada entre colegas e amigos.",
+     "gabarito": "C",
+     "explicacao": "O Dictionnaire de l'Académie registra salut como emprego familiar no lugar de bonjour ou au revoir.",
+     "fonte": "Carrasco, Zahedi e Parrish, French OER 1, «Comment se saluer», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)"
+    },
+    {
+     "id": "FRA-01-03#04",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o OQLF, o vouvoiement é usado sobretudo com alguém encontrado pela primeira vez, um superior hierárquico ou uma pessoa mais velha.",
+     "gabarito": "C",
+     "explicacao": "É a descrição do OQLF para o vous de polidez e respeito.",
+     "fonte": "OQLF, Vitrine linguistique, «Contextes d'emploi du vouvoiement et du tutoiement», https://vitrinelinguistique.oqlf.gouv.qc.ca/25140/la-redaction-et-la-communication/protocole-et-activites-publiques/contextes-demploi-du-vouvoiement-et-du-tutoiement (consultada)"
+    },
+    {
+     "id": "FRA-01-03#05",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o OQLF, em toda a francofonia o tu é a regra no primeiro encontro.",
+     "gabarito": "E",
+     "explicacao": "O OQLF diz que no Québec muitas vezes se tutoie desde o primeiro encontro, mas em outras regiões isso pode parecer deslocado.",
+     "fonte": "OQLF, Vitrine linguistique, «Contextes d'emploi du vouvoiement et du tutoiement», https://vitrinelinguistique.oqlf.gouv.qc.ca/25140/la-redaction-et-la-communication/protocole-et-activites-publiques/contextes-demploi-du-vouvoiement-et-du-tutoiement (consultada)"
+    },
+    {
+     "id": "FRA-01-03#06",
+     "tipo": "certo_errado",
+     "enunciado": "Bonne soirée é saudação de chegada equivalente a bonsoir.",
+     "gabarito": "E",
+     "explicacao": "Bonsoir é saudação noturna (pode ser usada também ao partir); bonne soirée é só voto de despedida, não saudação de chegada.",
+     "fonte": "Carrasco, Zahedi e Parrish, French OER 1, «Comment se saluer», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)"
+    },
+    {
+     "id": "FRA-01-03#07",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o OQLF, um professor pode tutoyer um aluno sem que o aluno possa, por isso, tutoyer o professor.",
+     "gabarito": "C",
+     "explicacao": "O OQLF registra essa assimetria entre professor e aluno.",
+     "fonte": "OQLF, Vitrine linguistique, «Contextes d'emploi du vouvoiement et du tutoiement», https://vitrinelinguistique.oqlf.gouv.qc.ca/25140/la-redaction-et-la-communication/protocole-et-activites-publiques/contextes-demploi-du-vouvoiement-et-du-tutoiement (consultada)"
+    },
+    {
+     "id": "FRA-01-03#08",
+     "tipo": "flashcard",
+     "frente": "Bonsoir ou bonne soirée: qual só serve para se despedir?",
+     "verso": "Bonne soirée. Bonsoir é saudação noturna, usada ao chegar e também, segundo o OQLF, ao partir.",
+     "explicacao": "O material didático distingue a saudação do voto.",
+     "fonte": "Carrasco, Zahedi e Parrish, French OER 1, «Comment se saluer», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)"
+    },
+    {
+     "id": "FRA-01-03#09",
+     "tipo": "multipla_escolha",
+     "enunciado": "Ouça a pergunta. Que pronome de tratamento ela usa?",
+     "fala": {
+      "texto": "Comment allez-vous ?",
+      "lang": "fr-FR"
+     },
+     "opcoes": [
+      "Com vous (singular formal ou plural)",
+      "Com tu",
+      "Com on",
+      "Nenhuma das anteriores"
+     ],
+     "gabarito": 0,
+     "explicacao": "Comment allez-vous ? é a versão com vous de Comment vas-tu ?. Vous serve para uma pessoa a quem se deve cortesia ou para várias pessoas.",
+     "fonte": "Carrasco, Zahedi e Parrish, French OER 1, «Comment se saluer», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)"
+    },
+    {
+     "id": "FRA-01-03#10",
+     "tipo": "multipla_escolha",
+     "enunciado": "Ouça a saudação. Em qual situação ela é mais adequada?",
+     "fala": {
+      "texto": "Salut !",
+      "lang": "fr-FR"
+     },
+     "opcoes": [
+      "Com um desconhecido mais velho em reunião formal",
+      "Entre colegas de turma",
+      "Com uma autoridade em cerimônia oficial",
+      "Em uma carta formal"
+     ],
+     "gabarito": 1,
+     "explicacao": "Salut é informal e se usa entre pares, como colegas de turma.",
+     "fonte": "Carrasco, Zahedi e Parrish, French OER 1, «Comment se saluer», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)"
+    },
+    {
+     "id": "FRA-01-03#11",
+     "tipo": "lacuna",
+     "enunciado": "Entre amigos, para perguntar como o outro está, complete com o verbo aller: Comment ___-tu ?",
+     "aceitas": [
+      "vas"
+     ],
+     "explicacao": "Com tu, o verbo aller é vas: Comment vas-tu ?.",
+     "fonte": "Carrasco, Zahedi e Parrish, French OER 1, «Comment se saluer», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)"
+    }
+   ]
+  }
+ }
+}

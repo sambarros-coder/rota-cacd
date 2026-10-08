@@ -1,0 +1,436 @@
+{
+ "licoes": {
+  "DIR-01-03": {
+   "resumo": "A Constituição é a norma fundamental do Estado e tem primado sobre as demais. Segundo a classificação doutrinária majoritária, a CF/88 é, em regra, escrita, rígida, analítica, formal, promulgada e dogmática, com divergências de nomenclatura como o rótulo super-rígida.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "O que é Constituição e por que ela importa",
+      "paragrafos": [
+       "Em termos gerais, Constituição é o documento jurídico fundamental de um Estado. Ela organiza os poderes, distribui competências e protege direitos das pessoas. As demais normas, como leis, decretos e portarias, buscam nela o seu fundamento.",
+       "Por isso se fala em primado (ou supremacia) da Constituição: nenhuma norma pode contrariá-la. Uma lei contrária à Constituição é considerada inconstitucional, e o ordenamento prevê mecanismos para afastá-la, tema da próxima lição."
+      ]
+     },
+     {
+      "titulo": "Primado da Constituição e a ideia de validade",
+      "paragrafos": [
+       "Hans Kelsen, jurista austríaco, é a referência clássica da teoria que vê o direito como sistema de normas em que uma norma busca validade em outra. Segundo a Britannica, para Kelsen todo sistema jurídico se fundamenta em uma suposição (a norma fundamental, ou Grundnorm) aceita por parcela substancial da comunidade. A imagem de pirâmide é uma simplificação didática dessa ideia.",
+       "No Brasil, a Constituição de 1988 atribui ao Supremo Tribunal Federal (STF), no art. 102, a guarda da Constituição. Note a palavra usada pelo texto: o STF tem essa missão precipuamente, isto é, principalmente, e não de modo exclusivo."
+      ]
+     },
+     {
+      "titulo": "Como a doutrina classifica as constituições",
+      "paragrafos": [
+       "Os manuais classificam as constituições por critérios diferentes. Cada critério responde a uma pergunta distinta, e uma mesma Constituição recebe uma etiqueta em cada um deles. A tabela resume os principais critérios, conforme a classificação doutrinária majoritária."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Critério",
+        "Tipos",
+        "Ideia central"
+       ],
+       "linhas": [
+        [
+         "Forma",
+         "Escrita ou não escrita (costumeira)",
+         "Se as normas estão reunidas em documento formal ou resultam de costumes e textos esparsos"
+        ],
+        [
+         "Estabilidade",
+         "Rígida, flexível, semirrígida",
+         "Quão difícil é alterar o texto em comparação com a lei comum"
+        ],
+        [
+         "Extensão",
+         "Analítica ou sintética",
+         "Se o texto é minucioso ou enxuto"
+        ],
+        [
+         "Conteúdo",
+         "Formal ou material",
+         "Se vale pela forma de produção ou pelo assunto tratado"
+        ],
+        [
+         "Origem",
+         "Promulgada (democrática) ou outorgada",
+         "Se elaborada por representantes do povo ou imposta"
+        ],
+        [
+         "Modo de elaboração",
+         "Dogmática ou histórica",
+         "Se escrita de uma vez em um texto ou formada ao longo do tempo"
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "Entendendo os pares",
+      "paragrafos": [
+       "Rígida é a Constituição cujo processo de alteração é mais difícil que o das leis comuns. Flexível é a que se altera pelo mesmo processo das leis. Semirrígida mistura os dois regimes, conforme a parte do texto.",
+       "Analítica é a Constituição extensa, que desce a detalhes. Sintética é a curta, que se limita a princípios e à estrutura do Estado.",
+       "Escrita é a Constituição reunida em documento formal, como a brasileira. Não escrita, ou costumeira, é a que se apoia sobretudo em costumes e textos esparsos. Promulgada (ou democrática) é a elaborada por representantes do povo, em geral reunidos em assembleia constituinte. Outorgada é a imposta por um governante ou grupo, sem essa participação. Dogmática é a escrita de uma só vez, com base em ideias previamente definidas. Histórica é a que se forma lentamente, ao longo do tempo.",
+       "Constituição em sentido formal é o conjunto das normas que estão no documento constitucional, qualquer que seja o assunto. Em sentido material, são constitucionais as normas que tratam de matéria tipicamente constitucional, como organização do poder e direitos fundamentais, estejam ou não no documento."
+      ]
+     },
+     {
+      "titulo": "E a Constituição de 1988?",
+      "paragrafos": [
+       "Segundo a classificação doutrinária majoritária, a CF/88 é, em regra, escrita, rígida, analítica, formal, promulgada e dogmática. Promulgada porque foi elaborada por representantes eleitos, e dogmática porque foi elaborada por uma constituinte, em texto sistematizado, com base em ideias previamente definidas.",
+       "Há divergências de nomenclatura. Alguns autores chamam a CF/88 de super-rígida, ou a descrevem como rígida com um núcleo super-rígido, por causa das cláusulas pétreas, que não podem ser abolidas nem por emenda. Outros usam rótulos adicionais, como constituição dirigente. Em prova, o enunciado costuma indicar a classificação a ser seguida."
+      ]
+     },
+     {
+      "titulo": "Como cai em prova",
+      "paragrafos": [
+       "A banca costuma trocar um rótulo por seu oposto, por exemplo afirmar que a CF/88 é sintética ou flexível, ou inverter definições. Também explora a diferença entre os critérios: rígida e analítica respondem a perguntas distintas.",
+       "Para memorizar, associe cada critério a uma pergunta: como está escrita, quão difícil é mudar, quão longa é, quem a fez, como foi feita."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Precipuamente (art. 102) não significa exclusivamente: o STF tem a guarda da Constituição como missão principal, sem monopólio.",
+     "Rigidez diz respeito à dificuldade de alteração, e não ao tamanho do texto. Tamanho é extensão (analítica ou sintética).",
+     "Formal e material não são sinônimos de escrita e não escrita: o primeiro par trata do conteúdo, o segundo da forma de existência.",
+     "Super-rígida é rótulo de parte da doutrina para a CF/88, por causa das cláusulas pétreas. Sem delimitação no enunciado, a resposta padrão é rígida.",
+     "Promulgada (ou democrática) se opõe a outorgada; dogmática se opõe a histórica. Não troque os pares."
+    ],
+    "fontes": [
+     "Estratégia Concursos, Classificações das Constituições (https://www.estrategiaconcursos.com.br/blog/classificacoes-das-constituicoes/), fonte secundária consultada; obras primárias não consultadas",
+     "Constituição Federal de 1988, art. 102 (conforme LegJur, https://www.legjur.com/legislacao/art/CF8800000001988-102, fonte secundária; texto oficial integral não aberto; art. 102, §§ 2º e 3º, conforme EC 45/2004 no Planalto)",
+     "Encyclopaedia Britannica, Hans Kelsen (https://www.britannica.com/biography/Hans-Kelsen)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "DIR-01-03#01",
+     "tipo": "associar",
+     "enunciado": "Segundo a classificação doutrinária majoritária da CF/88, associe cada critério de classificação ao rótulo que a CF/88 recebe.",
+     "pares": [
+      [
+       "Quanto à estabilidade",
+       "Rígida"
+      ],
+      [
+       "Quanto à extensão",
+       "Analítica"
+      ],
+      [
+       "Quanto à origem",
+       "Promulgada"
+      ],
+      [
+       "Quanto ao modo de elaboração",
+       "Dogmática"
+      ]
+     ],
+     "explicacao": "Pela classificação majoritária, a CF/88 é rígida (estabilidade), analítica (extensão), promulgada (origem) e dogmática (modo de elaboração).",
+     "fonte": "Classificação doutrinária majoritária das constituições, conforme Estratégia Concursos (fonte secundária; obras primárias de Silva e Lenza não consultadas)"
+    },
+    {
+     "id": "DIR-01-03#02",
+     "tipo": "associar",
+     "enunciado": "Associe cada tipo de Constituição à sua ideia central, conforme a classificação doutrinária.",
+     "pares": [
+      [
+       "Rígida",
+       "Alteração por processo mais difícil que o das leis comuns"
+      ],
+      [
+       "Flexível",
+       "Alteração pelo mesmo processo das leis comuns"
+      ],
+      [
+       "Outorgada",
+       "Imposta, sem elaboração por representantes do povo"
+      ],
+      [
+       "Sintética",
+       "Texto enxuto, limitado a princípios e estrutura básica"
+      ]
+     ],
+     "explicacao": "São definições usuais da doutrina: a rigidez e a flexibilidade medem a dificuldade de alteração; outorgada se opõe a promulgada; sintética se opõe a analítica.",
+     "fonte": "Classificação doutrinária majoritária das constituições, conforme Estratégia Concursos (fonte secundária; obras primárias de Silva e Lenza não consultadas)"
+    },
+    {
+     "id": "DIR-01-03#03",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a classificação doutrinária majoritária, a Constituição de 1988 é rígida, pois seu processo de alteração é mais difícil que o das leis comuns.",
+     "gabarito": "C",
+     "explicacao": "É a classificação predominante. Parte da doutrina a chama de super-rígida por causa das cláusulas pétreas, mas o enunciado delimita a classificação majoritária.",
+     "fonte": "Classificação doutrinária majoritária das constituições, conforme Estratégia Concursos (fonte secundária; obras primárias de Silva e Lenza não consultadas)"
+    },
+    {
+     "id": "DIR-01-03#04",
+     "tipo": "certo_errado",
+     "enunciado": "Constituição flexível é aquela cujo processo de alteração é mais difícil do que o exigido para a elaboração das leis comuns.",
+     "gabarito": "E",
+     "explicacao": "Essa é a definição de Constituição rígida. A flexível se altera pelo mesmo processo das leis.",
+     "fonte": "Classificação doutrinária majoritária das constituições, conforme Estratégia Concursos (fonte secundária; obras primárias de Silva e Lenza não consultadas)"
+    },
+    {
+     "id": "DIR-01-03#05",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a classificação doutrinária majoritária, a Constituição de 1988 é sintética, por tratar apenas de princípios gerais e da estrutura básica do Estado.",
+     "gabarito": "E",
+     "explicacao": "A CF/88 é classificada majoritariamente como analítica, por ser extensa e tratar de muitos assuntos em detalhe.",
+     "fonte": "Classificação doutrinária majoritária das constituições, conforme Estratégia Concursos (fonte secundária; obras primárias de Silva e Lenza não consultadas)"
+    },
+    {
+     "id": "DIR-01-03#06",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a classificação doutrinária majoritária, a CF/88 é analítica, pois seu texto é extenso e minucioso em diversas matérias.",
+     "gabarito": "C",
+     "explicacao": "Analítica se refere à extensão e ao detalhamento do texto, e é o rótulo majoritário para a CF/88.",
+     "fonte": "Classificação doutrinária majoritária das constituições, conforme Estratégia Concursos (fonte secundária; obras primárias de Silva e Lenza não consultadas)"
+    },
+    {
+     "id": "DIR-01-03#07",
+     "tipo": "certo_errado",
+     "enunciado": "Em sentido material, são constitucionais as normas que tratam de matéria tipicamente constitucional, como a organização do poder e os direitos fundamentais, independentemente de estarem no documento constitucional.",
+     "gabarito": "C",
+     "explicacao": "O critério material olha o conteúdo da norma, e o formal olha a sua inserção no documento constitucional.",
+     "fonte": "Classificação doutrinária majoritária das constituições, conforme Estratégia Concursos (fonte secundária; obras primárias de Silva e Lenza não consultadas)"
+    },
+    {
+     "id": "DIR-01-03#08",
+     "tipo": "certo_errado",
+     "enunciado": "Nos termos do art. 102 da CF/88, compete ao STF, exclusivamente, a guarda da Constituição.",
+     "gabarito": "E",
+     "explicacao": "O art. 102 diz que compete ao STF, precipuamente, a guarda da Constituição. Precipuamente significa principalmente, e não de modo exclusivo.",
+     "fonte": "CF/1988, art. 102, caput e incisos, e art. 103 (art. 103, caput e IV e V, conforme EC 45/2004 no Planalto; o restante conforme LegJur, fonte secundária; texto oficial integral não aberto)"
+    },
+    {
+     "id": "DIR-01-03#09",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Britannica, para Hans Kelsen todo sistema jurídico se fundamenta em uma suposição, a norma fundamental (Grundnorm).",
+     "gabarito": "C",
+     "explicacao": "A Britannica, no verbete sobre Kelsen, apresenta a Grundnorm como suposição, aceita por parcela substancial da comunidade, em que se funda o sistema jurídico. Obra primária de Kelsen não consultada.",
+     "fonte": "Encyclopaedia Britannica, Hans Kelsen (https://www.britannica.com/biography/Hans-Kelsen)"
+    },
+    {
+     "id": "DIR-01-03#10",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a classificação doutrinária majoritária, a CF/88 é histórica, porque se formou lentamente ao longo do tempo, a partir dos costumes.",
+     "gabarito": "E",
+     "explicacao": "A CF/88 é classificada como dogmática, pois foi elaborada por uma assembleia constituinte, em texto sistematizado, com base em ideias previamente definidas. Histórica é a que resulta de lenta formação.",
+     "fonte": "Classificação doutrinária majoritária das constituições, conforme Estratégia Concursos (fonte secundária; obras primárias de Silva e Lenza não consultadas)"
+    },
+    {
+     "id": "DIR-01-03#11",
+     "tipo": "flashcard",
+     "frente": "O que é primado (ou supremacia) da Constituição?",
+     "verso": "A ideia de que a Constituição está acima das demais normas, que nela buscam fundamento de validade. Norma que a contraria é inconstitucional e pode ser afastada pelos mecanismos de controle de constitucionalidade.",
+     "explicacao": "Resume o conceito geral que fundamenta o controle de constitucionalidade; a guarda da Constituição cabe precipuamente ao STF (art. 102).",
+     "fonte": "CF/1988, art. 102, caput e incisos, e art. 103 (art. 103, caput e IV e V, conforme EC 45/2004 no Planalto; o restante conforme LegJur, fonte secundária; texto oficial integral não aberto)"
+    },
+    {
+     "id": "DIR-01-03#12",
+     "tipo": "flashcard",
+     "frente": "Como a classificação majoritária descreve a CF/88?",
+     "verso": "Em regra: escrita, rígida, analítica, formal, promulgada e dogmática. Parte da doutrina a chama de super-rígida por causa das cláusulas pétreas.",
+     "explicacao": "Lista dos rótulos da classificação majoritária, com a divergência de nomenclatura mais comum.",
+     "fonte": "Classificação doutrinária majoritária das constituições, conforme Estratégia Concursos (fonte secundária; obras primárias de Silva e Lenza não consultadas)"
+    }
+   ]
+  },
+  "DIR-01-04": {
+   "resumo": "O controle de constitucionalidade verifica a compatibilidade de normas com a Constituição. O difuso cabe a qualquer juiz em caso concreto, e o concentrado ao STF por ADI, ADC e ADPF, com regras como a reserva de plenário (art. 97), o art. 52, X e a súmula vinculante (art. 103-A).",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "Por que existe controle de constitucionalidade",
+      "paragrafos": [
+       "Se a Constituição está acima das demais normas, é preciso um meio de afastar a norma que a contraria. Esse meio é o controle de constitucionalidade. O art. 102 da CF/88 dá ao Supremo Tribunal Federal (STF), precipuamente, a guarda da Constituição.",
+       "Controle de constitucionalidade é, então, o conjunto de mecanismos que verificam se uma lei ou ato normativo é compatível com a Constituição."
+      ]
+     },
+     {
+      "titulo": "Difuso e concentrado",
+      "paragrafos": [
+       "Segundo a doutrina, o Brasil adota sistema misto. No controle difuso, qualquer juiz ou tribunal, ao julgar um caso concreto, pode deixar de aplicar a lei contrária à Constituição. Ele é incidental (a questão surge como etapa do raciocínio) e, em regra, seus efeitos valem entre as partes.",
+       "No controle concentrado, a análise cabe a um órgão específico, e a constitucionalidade da norma é o próprio objeto da ação."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Aspecto",
+        "Difuso",
+        "Concentrado"
+       ],
+       "linhas": [
+        [
+         "Quem julga",
+         "Qualquer juiz ou tribunal",
+         "STF, por ação própria (e Tribunais de Justiça, para leis estaduais ou municipais em face da Constituição do Estado)"
+        ],
+        [
+         "Como surge",
+         "Incidentalmente, em caso concreto",
+         "Ação cujo pedido principal é a inconstitucionalidade"
+        ],
+        [
+         "Efeito, em regra",
+         "Entre as partes",
+         "Contra todos e vinculante"
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "O controle difuso na prática: art. 97 e art. 52, X",
+      "paragrafos": [
+       "O art. 97 estabelece a cláusula de reserva de plenário: somente pelo voto da maioria absoluta de seus membros, ou do órgão especial, os tribunais podem declarar a inconstitucionalidade de lei ou ato normativo do poder público. Segundo a doutrina, o juiz de primeiro grau pode declarar a inconstitucionalidade incidentalmente, sem a reserva de plenário.",
+       "O art. 52, X, atribui ao Senado Federal a competência privativa de suspender a execução, no todo ou em parte, de lei declarada inconstitucional por decisão definitiva do STF."
+      ]
+     },
+     {
+      "titulo": "Instrumentos do controle concentrado",
+      "paragrafos": [
+       "O art. 102, I, a, prevê a ação direta de inconstitucionalidade (ADI) de lei ou ato normativo federal ou estadual e a ação declaratória de constitucionalidade (ADC) de lei ou ato normativo federal. Para ambas, o art. 103 lista os legitimados, entre eles o Presidente da República, as Mesas do Senado e da Câmara, o Procurador-Geral da República, o Conselho Federal da OAB, partido com representação no Congresso e confederação sindical ou entidade de classe de âmbito nacional.",
+       "A Lei 9.868/1999 disciplina ADI e ADC. Não se admite intervenção de terceiros na ADI (art. 7º) nem desistência da ADC (art. 16). A decisão exige a presença de ao menos oito Ministros (art. 22), e a inconstitucionalidade ou constitucionalidade é proclamada com ao menos seis votos (art. 23).",
+       "Segundo o art. 102, §2º, as decisões definitivas de mérito do STF em ADI e ADC produzem eficácia contra todos e efeito vinculante em relação aos demais órgãos do Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal. O parágrafo único do art. 28 da Lei 9.868 estende esse efeito à interpretação conforme a Constituição e à declaração parcial de inconstitucionalidade sem redução de texto.",
+       "O STF pode, por dois terços de seus membros, restringir os efeitos da declaração de inconstitucionalidade ou fixar outro momento para que ela valha, por razões de segurança jurídica ou excepcional interesse social (art. 27). Isso se chama modulação de efeitos."
+      ]
+     },
+     {
+      "titulo": "ADPF, súmula vinculante e controle estadual",
+      "paragrafos": [
+       "A arguição de descumprimento de preceito fundamental (ADPF) está no art. 102, §1º, e é regulada pela Lei 9.882/1999. Tem por objeto evitar ou reparar lesão a preceito fundamental resultante de ato do Poder Público e também cabe contra normas anteriores à Constituição. É subsidiária: não se admite quando houver outro meio eficaz de sanar a lesividade (art. 4º, §1º).",
+       "Pelo art. 103-A, o STF pode, por dois terços de seus membros e após reiteradas decisões sobre matéria constitucional, aprovar súmula com efeito vinculante sobre os demais órgãos do Judiciário e a administração pública. Contra ato administrativo ou decisão judicial que contrariar a súmula aplicável ou a aplicar indevidamente, cabe reclamação ao STF (art. 103-A, §3º). Por fim, o art. 125, §2º, deixa aos Estados a instituição de representação de inconstitucionalidade de leis estaduais ou municipais em face da Constituição estadual, vedada a legitimação de um único órgão."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "ADC só tem por objeto lei ou ato normativo federal; a ADI alcança também o estadual (art. 102, I, a).",
+     "Reserva de plenário (art. 97) exige maioria absoluta dos membros do tribunal ou do órgão especial, não maioria simples.",
+     "O Senado suspende a execução de lei declarada inconstitucional por decisão definitiva do STF (art. 52, X). Não é ele quem declara a inconstitucionalidade.",
+     "Modulação de efeitos exige dois terços dos membros do STF, e não maioria absoluta.",
+     "ADPF é subsidiária: não cabe quando houver outro meio eficaz de sanar a lesividade (art. 4º, §1º, da Lei 9.882). A lei exige meio eficaz, não qualquer meio.",
+     "A Lei 9.868 é de 1999 e o art. 13, que ainda consta do texto legal, lista apenas quatro legitimados para a ADC. Para legitimados atuais, vale o art. 103 da CF (redação da EC 45/2004)."
+    ],
+    "fontes": [
+     "Constituição Federal de 1988, arts. 52, X, 97, 102, 103, 103-A e 125, §2º (Planalto, EC 45/2004; LegJur, https://www.legjur.com/legislacao/art/CF8800000001988-102; texto integral da CF no Planalto não abriu por inteiro)",
+     "Lei 9.868/1999, arts. 7º, 16, 22, 23, 27 e 28 (https://www.planalto.gov.br/ccivil_03/leis/l9868.htm)",
+     "Lei 9.882/1999, arts. 1º, 4º, 11, 12 (https://www.planalto.gov.br/ccivil_03/leis/l9882.htm)",
+     "Melo, F. F., em EMERJ, Controle de Constitucionalidade (https://emerj.tjrj.jus.br/files/pages/publicacoes/serieaperfeicoamentodemagistrados/paginas/series/2/Controle_de_Constitucionalidade_104.pdf)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "DIR-01-04#01",
+     "tipo": "certo_errado",
+     "enunciado": "No controle difuso, qualquer juiz ou tribunal pode, ao julgar um caso concreto, deixar de aplicar lei que considere contrária à Constituição, e, em regra, os efeitos dessa decisão valem entre as partes.",
+     "gabarito": "C",
+     "explicacao": "Segundo a doutrina, o controle difuso é incidental e, em regra, produz efeitos entre as partes.",
+     "fonte": "Melo, F. F., EMERJ, Controle de Constitucionalidade (fonte secundária)"
+    },
+    {
+     "id": "DIR-01-04#02",
+     "tipo": "certo_errado",
+     "enunciado": "Nos termos do art. 102, I, a, da CF/88, a ação direta de inconstitucionalidade de lei estadual compete ao STF.",
+     "gabarito": "C",
+     "explicacao": "O dispositivo prevê ADI de lei ou ato normativo federal ou estadual.",
+     "fonte": "CF/1988, art. 102, I, a (redação da EC 3/1993 no Planalto; conferido também no LegJur)"
+    },
+    {
+     "id": "DIR-01-04#03",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o art. 102, I, a, da CF/88, a ação declaratória de constitucionalidade pode ter por objeto lei ou ato normativo federal ou estadual.",
+     "gabarito": "E",
+     "explicacao": "A ADC tem por objeto lei ou ato normativo federal. A menção a estadual vale só para a ADI.",
+     "fonte": "CF/1988, art. 102, I, a (redação da EC 3/1993 no Planalto; conferido também no LegJur)"
+    },
+    {
+     "id": "DIR-01-04#04",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o art. 103 da CF/88, o Procurador-Geral da República e o Conselho Federal da Ordem dos Advogados do Brasil podem propor ação direta de inconstitucionalidade e ação declaratória de constitucionalidade.",
+     "gabarito": "C",
+     "explicacao": "Ambos constam do rol de legitimados do art. 103 para as duas ações.",
+     "fonte": "CF/1988, art. 103 (Planalto, EC 45/2004; LegJur)"
+    },
+    {
+     "id": "DIR-01-04#05",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Lei 9.868/1999, é admitida a intervenção de terceiros no processo de ação direta de inconstitucionalidade.",
+     "gabarito": "E",
+     "explicacao": "O art. 7º da Lei 9.868 afirma que não se admitirá intervenção de terceiros na ADI, ainda que o relator possa admitir manifestação de outros órgãos ou entidades.",
+     "fonte": "Lei 9.868/1999 (Planalto, https://www.planalto.gov.br/ccivil_03/leis/l9868.htm)"
+    },
+    {
+     "id": "DIR-01-04#06",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Lei 9.868/1999, proposta a ação declaratória de constitucionalidade, o autor não pode desistir dela.",
+     "gabarito": "C",
+     "explicacao": "O art. 16 afirma que, proposta a ação declaratória, não se admitirá desistência.",
+     "fonte": "Lei 9.868/1999 (Planalto, https://www.planalto.gov.br/ccivil_03/leis/l9868.htm)"
+    },
+    {
+     "id": "DIR-01-04#07",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o art. 97 da CF/88, somente pelo voto da maioria absoluta de seus membros ou dos membros do respectivo órgão especial poderão os tribunais declarar a inconstitucionalidade de lei ou ato normativo do poder público.",
+     "gabarito": "C",
+     "explicacao": "É a cláusula de reserva de plenário.",
+     "fonte": "CF/1988, art. 97 (conforme LegJur, https://www.legjur.com/legislacao/art/CF8800000001988-97; fonte secundária, texto oficial não aberto)"
+    },
+    {
+     "id": "DIR-01-04#08",
+     "tipo": "multipla_escolha",
+     "enunciado": "Nos termos do art. 52, X, da CF/88, compete privativamente ao Senado Federal:",
+     "opcoes": [
+      "declarar a inconstitucionalidade de lei federal em ação direta",
+      "suspender a execução, no todo ou em parte, de lei declarada inconstitucional por decisão definitiva do STF",
+      "editar súmula vinculante após reiteradas decisões do STF",
+      "julgar a arguição de descumprimento de preceito fundamental"
+     ],
+     "gabarito": 1,
+     "explicacao": "O art. 52, X, atribui ao Senado a suspensão da execução da lei declarada inconstitucional por decisão definitiva do STF. As demais funções cabem ao STF.",
+     "fonte": "CF/1988, art. 52, X (conforme LegJur, https://www.legjur.com/legislacao/art/CF8800000001988-52; fonte secundária, texto oficial não aberto)"
+    },
+    {
+     "id": "DIR-01-04#09",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Lei 9.882/1999, a arguição de descumprimento de preceito fundamental será admitida mesmo havendo outro meio eficaz de sanar a lesividade.",
+     "gabarito": "E",
+     "explicacao": "O art. 4º, §1º, afirma que não será admitida ADPF quando houver outro meio eficaz de sanar a lesividade (subsidiariedade).",
+     "fonte": "Lei 9.882/1999 (Planalto, https://www.planalto.gov.br/ccivil_03/leis/l9882.htm)"
+    },
+    {
+     "id": "DIR-01-04#10",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Lei 9.868/1999, ao declarar a inconstitucionalidade de lei, o STF poderá, por maioria absoluta de seus membros, restringir os efeitos da declaração, por razões de segurança jurídica ou de excepcional interesse social.",
+     "gabarito": "E",
+     "explicacao": "O art. 27 exige maioria de dois terços dos membros do STF para a modulação de efeitos.",
+     "fonte": "Lei 9.868/1999 (Planalto, https://www.planalto.gov.br/ccivil_03/leis/l9868.htm)"
+    },
+    {
+     "id": "DIR-01-04#11",
+     "tipo": "multipla_escolha",
+     "enunciado": "Segundo o art. 103-A da CF/88, a súmula com efeito vinculante é aprovada pelo STF mediante decisão de:",
+     "opcoes": [
+      "maioria simples dos Ministros presentes",
+      "maioria absoluta dos membros",
+      "dois terços dos membros",
+      "unanimidade dos membros"
+     ],
+     "gabarito": 2,
+     "explicacao": "O caput do art. 103-A exige decisão de dois terços dos membros, após reiteradas decisões sobre matéria constitucional.",
+     "fonte": "CF/1988, art. 103-A (Planalto, texto dado pela EC 45/2004)"
+    },
+    {
+     "id": "DIR-01-04#12",
+     "tipo": "ordenar",
+     "enunciado": "Depois de decorrido o prazo das informações, ordene as etapas da ação direta de inconstitucionalidade, conforme os arts. 8º, 22, 23 e 28 da Lei 9.868/1999.",
+     "ordem": [
+      "Manifesta-se o Advogado-Geral da União",
+      "Manifesta-se o Procurador-Geral da República",
+      "Julgamento pelo STF, com presença de ao menos oito Ministros",
+      "Publicação da parte dispositiva do acórdão, em até dez dias após o trânsito em julgado"
+     ],
+     "explicacao": "O art. 8º manda ouvir, sucessivamente, o AGU e o PGR após o prazo das informações. O julgamento exige presença de oito Ministros (art. 22), e o art. 28 manda publicar a parte dispositiva em até dez dias após o trânsito em julgado.",
+     "fonte": "Lei 9.868/1999 (Planalto, https://www.planalto.gov.br/ccivil_03/leis/l9868.htm)"
+    }
+   ]
+  }
+ }
+}

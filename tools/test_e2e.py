@@ -42,7 +42,7 @@ with sync_playwright() as p:
         pg.wait_for_selector('#prox'); nxt()
     check('Sessão concluída' in pg.inner_text('h1'), 'sessão de 12 exercícios conclui e registra a lição')
     # todas as 11 lições do ciclo 1 têm conteúdo e abrem sem erro
-    for lid in ['POR-01-02','HMU-01-01','GEO-01-01','POL-01-01','ECO-01-01','ECO-01-02','DIR-01-01','DIR-01-02','ESP-01-01','FRA-01-01']:
+    for lid in ['HBR-01-01','HBR-01-02','HBR-01-03','HMU-01-02','GEO-01-02','ECO-01-03','DIR-01-03','DIR-01-04','ESP-01-02','ESP-01-03','FRA-01-02','FRA-01-03','POR-01-02','HMU-01-01','GEO-01-01','POL-01-01','ECO-01-01','ECO-01-02','DIR-01-01','DIR-01-02','ESP-01-01','FRA-01-01']:
         pg.goto(URL + f'?hoje=2026-11-03#/licao/{lid}'); pg.wait_for_selector('h1')
         t = pg.inner_text('main'); check('Pegadinhas de prova' in t and 'exercícios' in t, f'{lid} com aula e exercícios')
         pg.click('[data-go=licao]'); pg.wait_for_selector('.item')

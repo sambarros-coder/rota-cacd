@@ -3,7 +3,7 @@
 import csv, json, hashlib, os, re, datetime as dt
 HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
 OUT = os.path.join(ROOT, 'data'); PK = os.path.join(OUT, 'packs')
-CORE_V = '1.0.0'; DEMO_V = '1.0.0'; C01_V = '1.0.0'
+CORE_V = '1.0.0'; DEMO_V = '1.0.0'; CICLOS = [(1, '1.0.0'), (2, '1.0.0')]   # (n do ciclo, versão do pacote); aumente a versão ao corrigir conteúdo
 
 MAT = [('POR','Língua Portuguesa'),('ING','Língua Inglesa'),('HBR','História do Brasil'),('HMU','História Mundial'),
        ('GEO','Geografia'),('POL','Política Internacional'),('ECO','Economia'),('DIR','Direito'),
@@ -95,6 +95,6 @@ if __name__ == '__main__':
     man = {'schema': 1, 'gerado_em': dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'), 'pacotes': [
         dict(id='core', tipo='core', version=CORE_V, **write('core-%s.json' % CORE_V, c)),
         dict(id='demo', tipo='demo', version=DEMO_V, **write('demo-%s.json' % DEMO_V, d)),
-        dict(id='items-C01', tipo='items', version=C01_V, **write('items-C01-%s.json' % C01_V, itens_pack('ciclo01', 'items-C01', C01_V)))]}
+        ] + [dict(id='items-C%02d' % n, tipo='items', version=V, **write('items-C%02d-%s.json' % (n, V), itens_pack('ciclo%02d' % n, 'items-C%02d' % n, V))) for n, V in CICLOS]}
     json.dump(man, open(os.path.join(OUT, 'manifest.json'), 'w'), indent=1)
     print(json.dumps(man, indent=1)); print(len(c['licoes']), 'lições', len(c['ciclos']), 'ciclos', len(c['desafios']), 'desafios')
