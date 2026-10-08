@@ -3,7 +3,7 @@
 import csv, json, hashlib, os, re, datetime as dt
 HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
 OUT = os.path.join(ROOT, 'data'); PK = os.path.join(OUT, 'packs')
-CORE_V = '1.0.0'; DEMO_V = '1.0.0'; CICLOS = [(1, '1.0.0'), (2, '1.0.0')]   # (n do ciclo, versão do pacote); aumente a versão ao corrigir conteúdo
+CORE_V = '1.0.0'; DEMO_V = '1.0.0'; CICLOS = [(1, '1.0.0'), (2, '1.0.0'), (3, '1.0.0')]   # (n do ciclo, versão do pacote); aumente a versão ao corrigir conteúdo
 
 MAT = [('POR','Língua Portuguesa'),('ING','Língua Inglesa'),('HBR','História do Brasil'),('HMU','História Mundial'),
        ('GEO','Geografia'),('POL','Política Internacional'),('ECO','Economia'),('DIR','Direito'),

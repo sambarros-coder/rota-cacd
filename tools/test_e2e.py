@@ -42,13 +42,13 @@ with sync_playwright() as p:
         pg.wait_for_selector('#prox'); nxt()
     check('Sessão concluída' in pg.inner_text('h1'), 'sessão de 12 exercícios conclui e registra a lição')
     # todas as 11 lições do ciclo 1 têm conteúdo e abrem sem erro
-    for lid in ['HBR-01-01','HBR-01-02','HBR-01-03','HMU-01-02','GEO-01-02','ECO-01-03','DIR-01-03','DIR-01-04','ESP-01-02','ESP-01-03','FRA-01-02','FRA-01-03','POR-01-02','HMU-01-01','GEO-01-01','POL-01-01','ECO-01-01','ECO-01-02','DIR-01-01','DIR-01-02','ESP-01-01','FRA-01-01']:
+    for lid in ['POR-01-03','ING-01-01','ING-01-02','HMU-01-03','GEO-01-03','POL-01-02','ECO-01-04','ECO-01-05','DIR-01-05','ESP-01-04','FRA-01-04','HBR-01-01','HBR-01-02','HBR-01-03','HMU-01-02','GEO-01-02','ECO-01-03','DIR-01-03','DIR-01-04','ESP-01-02','ESP-01-03','FRA-01-02','FRA-01-03','POR-01-02','HMU-01-01','GEO-01-01','POL-01-01','ECO-01-01','ECO-01-02','DIR-01-01','DIR-01-02','ESP-01-01','FRA-01-01']:
         pg.goto(URL + f'?hoje=2026-11-03#/licao/{lid}'); pg.wait_for_selector('h1')
         t = pg.inner_text('main'); check('Pegadinhas de prova' in t and 'exercícios' in t, f'{lid} com aula e exercícios')
         pg.click('[data-go=licao]'); pg.wait_for_selector('.item')
         n = pg.evaluate("document.querySelector('.meta').innerText"); 
     # lição sem itens
-    pg.goto(URL + '?hoje=2026-11-03#/licao/POR-01-03'); pg.wait_for_selector('h1')
+    pg.goto(URL + '?hoje=2026-11-03#/licao/POR-01-04'); pg.wait_for_selector('h1')
     check('ainda não foram publicados' in pg.inner_text('main'), 'lição sem itens avisa')
     pg.click('[data-act=feita]'); pg.wait_for_timeout(300)
     check('Concluída' in pg.inner_text('main'), 'marcar lição como estudada')
@@ -85,7 +85,7 @@ with sync_playwright() as p:
     # backup roundtrip
     pg.goto(URL + '#/mais'); pg.wait_for_selector('h1')
     with pg.expect_download() as d: pg.click('[data-act=exportar]')
-    path = d.value.path(); bk = json.load(open(path)); check(bk['app'] == 'rota-cacd' and 'POR-01-03' in bk['progresso']['licoes'], 'backup exporta progresso')
+    path = d.value.path(); bk = json.load(open(path)); check(bk['app'] == 'rota-cacd' and 'POR-01-04' in bk['progresso']['licoes'], 'backup exporta progresso')
     pg.screenshot(path='tools/shots/mais.png', full_page=True)
     # apagar progresso e desfazer
     pg.click('[data-act=apagar1]'); check(pg.is_disabled('#btnApagar2'), 'apagar começa desabilitado')
@@ -93,7 +93,7 @@ with sync_playwright() as p:
     pg.goto(URL + '?hoje=2026-11-03#/'); pg.wait_for_selector('h1')
     check(pg.inner_text('.grade3').split()[0] == '0' and 'lições do ciclo' in pg.inner_text('.grade3'), 'progresso zerado')
     pg.goto(URL + '?hoje=2026-11-03#/mais'); pg.wait_for_selector('h1'); pg.click('[data-act=desfazer]'); pg.wait_for_timeout(500)
-    pg.goto(URL + '?hoje=2026-11-03#/licao/POR-01-03'); pg.wait_for_selector('h1'); check('Concluída' in pg.inner_text('main'), 'desfazer restaura o progresso')
+    pg.goto(URL + '?hoje=2026-11-03#/licao/POR-01-04'); pg.wait_for_selector('h1'); check('Concluída' in pg.inner_text('main'), 'desfazer restaura o progresso')
     # offline
     ctx.set_offline(True); pg.goto(URL + '?hoje=2026-11-03#/'); pg.wait_for_selector('html[data-pronto]', timeout=8000)
     check('Ciclo 1' in pg.inner_text('h1'), 'abre offline')

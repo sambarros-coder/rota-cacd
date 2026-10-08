@@ -1,0 +1,592 @@
+{
+ "licoes": {
+  "ESP-01-04": {
+   "resumo": "Em espanhol, o nome se diz com me llamo ou soy, e a nacionalidade e a profissão vêm depois de ser. O gentílico concorda em gênero e número, a profissão em regra não leva artigo, e ambos se escrevem em minúscula. O feminino de profissões segue a terminação do masculino, segundo o DPD.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "1. Dizer o nome: llamarse e ser",
+      "paragrafos": [
+       "Há duas fórmulas para dizer o nome. A mais comum usa o verbo llamarse: Me llamo Ana. A outra usa ser, o verbo da identidade: Soy Ana. Um material didático da Skyline College traz o diálogo «¿Eres Mauro? No, soy Sergio», em que ser identifica uma pessoa.",
+       "Llamarse é pronominal: o pronome (me, te, se) acompanha o verbo e faz parte dele. A Universidad de Piura (Castellano Actual) cita «Así es como me llamo» como exemplo desse uso pronominal, glosado como «ese es mi nombre». O ll soa como y para a maioria dos falantes (o yeísmo, visto em ESP-01-01); por isso me llamo se aproxima de «me IÁ-mo»."
+      ],
+      "lista": [
+       "Yo: me llamo. Tú: te llamas. Usted, él, ella: se llama.",
+       "Com tú: ¿Cómo te llamas?",
+       "Com usted: ¿Cómo se llama usted? O verbo vai na terceira pessoa, como estudado em ESP-01-03."
+      ]
+     },
+     {
+      "titulo": "2. O verbo ser no presente",
+      "paragrafos": [
+       "Segundo o DPD, ser é o principal verbo copulativo: liga o sujeito a um atributo, isto é, ao que se diz dele. Os exemplos do DPD são Su padre es médico (profissão) e Soy de Madrid (origem). Memorize as seis formas.",
+       "Vosotros e ustedes já foram distinguidos em ESP-01-03: sois é a forma de vosotros, usada na maior parte da Espanha, e son serve a ustedes e a ellos. Com usted, o verbo também vai na terceira pessoa: Usted es colombiano, e não «usted eres».",
+       "Na hora de montar a frase, o verbo concorda com o sujeito, e o atributo concorda com o sujeito em gênero e número: Ana es brasileña; Ana y Marta son brasileñas."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Pessoa",
+        "Forma",
+        "Exemplo"
+       ],
+       "linhas": [
+        [
+         "yo",
+         "soy",
+         "Soy Ana."
+        ],
+        [
+         "tú",
+         "eres",
+         "Eres colombiano."
+        ],
+        [
+         "usted, él, ella",
+         "es",
+         "Ella es médica."
+        ],
+        [
+         "nosotros, nosotras",
+         "somos",
+         "Somos estudiantes."
+        ],
+        [
+         "vosotros, vosotras",
+         "sois",
+         "Sois españoles."
+        ],
+        [
+         "ustedes, ellos, ellas",
+         "son",
+         "Ellos son ecuatorianos."
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "3. Nacionalidade: o gentílico que concorda",
+      "paragrafos": [
+       "Gentílico é a palavra que indica nacionalidade ou procedência. Funciona como adjetivo e concorda em gênero e número com a pessoa: Julieta es colombiana; Samuel y Silvia son españoles. Em espanhol, os gentílicos e os nomes de língua se escrevem com inicial minúscula, segundo o DPD.",
+       "Em francés e alemán, a tilde some no feminino: francesa e alemana são llanas terminadas em vogal, sem tilde (regra de ESP-01-02).",
+       "Para o Brasil, o DPD recomenda brasileño, majoritário em todo o âmbito hispânico, e registra brasilero em alguns países da América. Para os Estados Unidos, o gentílico recomendado é estadounidense, e o DPD aconselha evitar usamericano; também registra estadunidense, preferido em vários países da América, sobretudo no México.",
+       "O plural dos gentílicos em consoante recebe -es: español vira españoles, francés vira franceses. Atenção: nacionalidade não é ascendência. O material de Huebener alerta que Soy mexicana e irlandesa mistura as duas ideias; para ascendência, o modelo é Soy de ascendencia alemana.",
+       "Para dizer a origem, use ser + de: Soy de Madrid; Soy del Perú. A pergunta é ¿De dónde eres?"
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Padrão",
+        "Masculino",
+        "Feminino"
+       ],
+       "linhas": [
+        [
+         "-o muda para -a",
+         "mexicano, brasileño",
+         "mexicana, brasileña"
+        ],
+        [
+         "consoante final recebe -a",
+         "español, francés, alemán",
+         "española, francesa, alemana"
+        ],
+        [
+         "forma única",
+         "estadounidense, canadiense",
+         "estadounidense, canadiense"
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "4. Profissão: sem artigo e com gênero",
+      "paragrafos": [
+       "Em regra, o nome de profissão vem sem artigo depois de ser: Juan es estudiante; Javier es músico. O artigo un ou una entra quando há adjetivo: Arturo es un estudiante inteligente; Javier es un músico talentoso. Os nomes de profissão também se escrevem com minúscula (DPD).",
+       "O feminino depende da terminação do masculino, segundo o DPD. Para uma mulher, o DPD manda usar o feminino e não o masculino: la médica, la abogada, la ingeniera. O verbete de médico marca la médico como incorreto.",
+       "Para perguntar a profissão: ¿A qué te dedicas? (tú) ou ¿A qué se dedica usted? Pronúncia aproximada: «a KE te de-DÍ-kas». Resposta: Soy ingeniera. Lembre que médico e abogado têm feminino próprio, ao passo que estudiante e taxista não mudam: o artigo (el, la) é que mostra o gênero."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Terminação",
+        "Regra",
+        "Exemplos"
+       ],
+       "linhas": [
+        [
+         "-o",
+         "vira -a",
+         "médico/médica, abogado/abogada, ingeniero/ingeniera"
+        ],
+        [
+         "-or",
+         "recebe -a (alguns têm -triz)",
+         "profesor/profesora; actor/actriz"
+        ],
+        [
+         "-ista",
+         "mesma forma",
+         "el/la taxista, el/la dentista"
+        ],
+        [
+         "-ante",
+         "em geral, mesma forma",
+         "el/la estudiante"
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "5. Apresentação completa",
+      "paragrafos": [
+       "Informal. A: ¿Cómo te llamas? B: Me llamo Marina. Soy brasileña y soy abogada. ¿Y tú? A: Me llamo Pablo. Soy español y soy estudiante.",
+       "Formal. A: ¿Cómo se llama usted? B: Me llamo Rafael Souza. Soy brasileño. A: ¿A qué se dedica? B: Soy ingeniero.",
+       "A estrutura é a mesma nos dois registros: nome (me llamo ou soy), nacionalidade (soy + gentílico) e profissão (soy + nome sem artigo). O gênero do gentílico e da profissão acompanha o de quem fala.",
+       "Em prova, confira três pontos antes de marcar: se o verbo está na pessoa certa, se o gentílico e a profissão concordam em gênero e número com o sujeito, e se não há artigo nem maiúscula fora do lugar."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Escrever Brasileño ou Abogada com maiúscula no meio da frase: gentílicos e nomes de profissão são minúsculos.",
+     "Dizer Soy un médico para informar apenas a profissão: em regra, sem adjetivo, não há artigo (Soy médico).",
+     "Usar o masculino para mulher: o DPD pede la médica, la abogada, la ingeniera, e marca la médico como incorreto.",
+     "Esquecer que francés e alemán perdem a tilde no feminino: francesa, alemana.",
+     "Flexionar o que é de forma única: estadounidense e canadiense valem para homem e mulher, e el/la taxista também.",
+     "Misturar as fórmulas: é Me llamo Ana ou Soy Ana, nunca uma mistura dos dois verbos."
+    ],
+    "fontes": [
+     "RAE e ASALE, Diccionario panhispánico de dudas, verbete «ser», https://www.rae.es/dpd/ser (consultado)",
+     "RAE e ASALE, Diccionario panhispánico de dudas, verbete «género», https://www.rae.es/dpd/género (consultado)",
+     "RAE e ASALE, Diccionario panhispánico de dudas, verbete «médico, ca», https://www.rae.es/dpd/médico (consultado)",
+     "RAE e ASALE, Diccionario panhispánico de dudas, verbete «mayúsculas», seção 5.4, https://www.rae.es/dpd/mayúsculas (consultado)",
+     "RAE e ASALE, Diccionario panhispánico de dudas, apêndice «Países y capitales, con sus gentilicios», https://www.rae.es/dpd/ayuda/paises-y-capitales-con-sus-gentilicios (consultado)",
+     "RAE e ASALE, Diccionario panhispánico de dudas, verbete «Brasil», https://www.rae.es/dpd/Brasil (consultado)",
+     "RAE e ASALE, Diccionario panhispánico de dudas, verbete «Estados Unidos», https://www.rae.es/dpd/Estados%20Unidos (consultado)",
+     "Skyline College (OER), Elementary and Advanced Elementary Spanish v2, cap. 1, seção 1.4 «Pronombres personales y el verbo ser», human.libretexts.org (material didático universitário; consultado)",
+     "Huebener, Libro Libre: Beginning Spanish, cap. 5, seção 5.07 «Las nacionalidades», human.libretexts.org (material didático aberto; consultado)",
+     "Huebener, Libro Libre: Beginning Spanish, cap. 5, seção 5.06 «Las profesiones», human.libretexts.org (material didático aberto; consultado)",
+     "Universidad de Piura, Castellano Actual, «Duda resuelta: llamarse», 25/04/2014, https://www.udep.edu.pe/castellanoactual/duda-resuelta-llamarse/ (consultado)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "ESP-01-04#01",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o DPD, o feminino de médico é médica, e o masculino não deve ser empregado para se referir a uma mulher.",
+     "gabarito": "C",
+     "explicacao": "O verbete registra médica como feminino e diz que não se deve usar o masculino para uma mulher.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbete «médico, ca», https://www.rae.es/dpd/médico (consultado)"
+    },
+    {
+     "id": "ESP-01-04#02",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o DPD, os gentílicos que indicam nacionalidade, como brasileño, devem ser escritos com inicial maiúscula em espanhol.",
+     "gabarito": "E",
+     "explicacao": "O DPD (seção sobre mayúsculas) lista os gentílicos entre as palavras que não levam inicial maiúscula.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbete «mayúsculas», seção 5.4, https://www.rae.es/dpd/mayúsculas (consultado)"
+    },
+    {
+     "id": "ESP-01-04#03",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo materiais didáticos da Skyline College e de Huebener, depois de ser o nome de profissão vem em regra sem artigo, e o artigo entra quando há adjetivo: Javier es músico; Javier es un músico talentoso.",
+     "gabarito": "C",
+     "explicacao": "Os dois materiais dão exatamente esse contraste, com e sem adjetivo.",
+     "fonte": "Skyline College (OER), Elementary and Advanced Elementary Spanish v2, cap. 1, seção 1.4 «Pronombres personales y el verbo ser», human.libretexts.org (material didático universitário; consultado); Huebener, Libro Libre: Beginning Spanish, cap. 5, seção 5.06 «Las profesiones», human.libretexts.org (material didático aberto; consultado)"
+    },
+    {
+     "id": "ESP-01-04#04",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o DPD, o gentílico de Estados Unidos recomendado é usamericano.",
+     "gabarito": "E",
+     "explicacao": "O DPD recomenda estadounidense, por ser de uso majoritário, e aconselha evitar usamericano.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbete «Estados Unidos», https://www.rae.es/dpd/Estados%20Unidos (consultado)"
+    },
+    {
+     "id": "ESP-01-04#05",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o DPD, os substantivos formados com o sufixo -ista têm a mesma forma para o masculino e o feminino, como em el taxista e la taxista.",
+     "gabarito": "C",
+     "explicacao": "O DPD classifica os nomes em -ista como comuns em cuanto al género.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbete «género», https://www.rae.es/dpd/género (consultado)"
+    },
+    {
+     "id": "ESP-01-04#06",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o DPD, brasilero é o gentílico recomendado e majoritário em todo o âmbito hispânico.",
+     "gabarito": "E",
+     "explicacao": "A forma recomendada e majoritária é brasileño; brasilero alterna com ela apenas em alguns países da América.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbete «Brasil», https://www.rae.es/dpd/Brasil (consultado)"
+    },
+    {
+     "id": "ESP-01-04#07",
+     "tipo": "multipla_escolha",
+     "enunciado": "Ouça a frase. O que ela informa sobre quem fala?",
+     "fala": {
+      "texto": "Soy abogada.",
+      "lang": "es-ES"
+     },
+     "opcoes": [
+      "É uma mulher e é advogada",
+      "É um homem e é advogado",
+      "É uma mulher e é médica",
+      "É um homem e é engenheiro"
+     ],
+     "gabarito": 0,
+     "explicacao": "Soy é a 1ª pessoa de ser; abogada é o feminino de abogado, então quem fala é uma advogada.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbete «abogado, da», https://www.rae.es/dpd/abogado (consultado)"
+    },
+    {
+     "id": "ESP-01-04#08",
+     "tipo": "flashcard",
+     "frente": "Soy de Madrid.",
+     "fala": {
+      "texto": "Soy de Madrid.",
+      "lang": "es-ES"
+     },
+     "verso": "Sou de Madri. Ser + de + lugar indica a origem; o DPD usa exatamente este exemplo.",
+     "explicacao": "A origem se diz com ser + de + lugar, como neste exemplo do DPD.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbete «ser», https://www.rae.es/dpd/ser (consultado)"
+    },
+    {
+     "id": "ESP-01-04#09",
+     "tipo": "associar",
+     "enunciado": "Associe cada país ao gentílico feminino, segundo o DPD.",
+     "pares": [
+      [
+       "España",
+       "española"
+      ],
+      [
+       "Francia",
+       "francesa"
+      ],
+      [
+       "Alemania",
+       "alemana"
+      ],
+      [
+       "México",
+       "mexicana"
+      ]
+     ],
+     "explicacao": "O apêndice do DPD lista español -la, francés -sa, alemán -na e mexicano -na; francesa e alemana perdem a tilde.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, apêndice «Países y capitales, con sus gentilicios», https://www.rae.es/dpd/ayuda/paises-y-capitales-con-sus-gentilicios (consultado)"
+    },
+    {
+     "id": "ESP-01-04#10",
+     "tipo": "lacuna",
+     "enunciado": "Complete com a forma correta de llamarse: Ella se ___ Marta.",
+     "aceitas": [
+      "llama"
+     ],
+     "explicacao": "Ella pede a 3ª pessoa do singular: se llama.",
+     "fonte": "Universidad de Piura, Castellano Actual, «Duda resuelta: llamarse», 25/04/2014, https://www.udep.edu.pe/castellanoactual/duda-resuelta-llamarse/ (consultado)"
+    },
+    {
+     "id": "ESP-01-04#11",
+     "tipo": "lacuna",
+     "enunciado": "Complete com o gentílico masculino de Brasil recomendado pelo DPD: Pedro es ___.",
+     "aceitas": [
+      "brasileño",
+      "brasileno"
+     ],
+     "explicacao": "O DPD recomenda brasileño; brasilero é variante de alguns países da América. Aceita-se brasileno só por falta do ñ no teclado.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbete «Brasil», https://www.rae.es/dpd/Brasil (consultado)"
+    },
+    {
+     "id": "ESP-01-04#12",
+     "tipo": "resposta_curta",
+     "enunciado": "Apresente-se em espanhol como Ana, brasileira e engenheira, em três frases curtas: nome, nacionalidade e profissão.",
+     "gabarito": "Me llamo Ana. Soy brasileña. Soy ingeniera.",
+     "explicacao": "Nome com me llamo (ou Soy Ana), gentílico no feminino sem artigo e profissão no feminino (ingeniera) sem artigo.",
+     "fonte": "RAE e ASALE, Diccionario panhispánico de dudas, verbete «Brasil», https://www.rae.es/dpd/Brasil (consultado); RAE e ASALE, Diccionario panhispánico de dudas, verbete «ingeniero, ra», https://www.rae.es/dpd/ingeniero (consultado)"
+    }
+   ]
+  },
+  "FRA-01-04": {
+   "resumo": "Em francês, o nome se diz com je m'appelle, e a nacionalidade e a profissão vêm depois de être. A nacionalidade é adjetivo que concorda e, como nome de habitante, leva maiúscula. Depois de il ou elle, a profissão vem sem artigo; depois de c'est, com artigo.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "1. Dizer o nome: s'appeler",
+      "paragrafos": [
+       "Em francês o nome se diz com o verbo pronominal s'appeler: Je m'appelle Camille. O Dictionnaire de l'Académie française dá a conjugação do presente: je m'appelle, tu t'appelles, il/elle s'appelle, nous nous appelons, vous vous appelez, ils/elles s'appellent.",
+       "Note a grafia: o l é dobrado em appelle, appelles e appellent, e simples em appelons e appelez. Pronúncia aproximada de je m'appelle: «je ma-PÉL».",
+       "O material da Mount Saint Mary's University traz as perguntas por registro: com amigos e colegas, tu; com desconhecidos e superiores, vous (FRA-01-03). Há ainda Quel est ton nom ? e Quel est votre nom ? Enchanté(e) concorda com quem fala: Enchanté (homem), Enchantée (mulher)."
+      ],
+      "lista": [
+       "Informal: Comment tu t'appelles ? ou Comment t'appelles-tu ? Resposta: Je m'appelle Frank. Ou, mais informal: Moi, c'est Guillaume.",
+       "Formal: Comment vous appelez-vous ? Resposta: Je m'appelle Danielle.",
+       "Fórmula de cortesia: Enchanté(e). Resposta do material: Moi de même."
+      ]
+     },
+     {
+      "titulo": "2. O verbo être",
+      "paragrafos": [
+       "Être é o verbo da identidade e da descrição. A Académie dá o presente: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Pronúncia aproximada de je suis: «je sui». Em vous êtes, a liaison é obrigatória (FRA-01-02).",
+       "A negação envolve o verbo entre ne e pas, e ne vira n' diante de vogal: Il n'est pas américain. Il est français. ",
+       "Pergunta e resposta do material: Est-ce que tu es professeur ? Non, je ne suis pas professeur. Para a origem, o material usa Je suis de... e Je viens de...; a pergunta é Tu es d'où ? ou D'où viens-tu ? O Dictionnaire também registra être de com lugar, como em Être d'Alsace."
+      ]
+     },
+     {
+      "titulo": "3. Nacionalidade: adjetivo que concorda",
+      "paragrafos": [
+       "As nacionalidades são adjetivos e concordam com o sujeito: Il est mexicain; Elle est mexicaine. Em muitos casos o feminino torna audível a consoante final: français [fʁɑ̃sɛ] e française [fʁɑ̃sɛz]; brésilien é nasal, e em brésilienne o n soa (FRA-01-02).",
+       "Como adjetivos, belge e suisse não mudam no feminino, segundo o material. Como nome de habitante, o Dictionnaire da Académie diz que, no feminino de Suisse, se diz mais corretamente une Suissesse. ",
+       "Para perguntar, o material usa Quelle est ta nationalité ? (tu) e Quelle est votre nationalité ? (vous), com a resposta Je suis de nationalité polonaise. Em Il est d'origine mexicaine, o adjetivo fica no feminino porque concorda com origine, que é feminino, mesmo se o sujeito é homem.",
+       "Maiúscula: pelo OQLF, o nome que designa o habitante leva maiúscula (une Italienne), enquanto o adjetivo não leva (elle est espagnole), e os nomes de língua são minúsculos. O Dictionnaire da Académie confirma o par: Un Français, une Française, mas la grammaire française. Em brésilien, o mesmo verbete traz também o nome da língua, le brésilien."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Masculino",
+        "Feminino",
+        "País"
+       ],
+       "linhas": [
+        [
+         "brésilien",
+         "brésilienne",
+         "le Brésil"
+        ],
+        [
+         "français",
+         "française",
+         "la France"
+        ],
+        [
+         "allemand",
+         "allemande",
+         "l'Allemagne"
+        ],
+        [
+         "espagnol",
+         "espagnole",
+         "l'Espagne"
+        ],
+        [
+         "portugais",
+         "portugaise",
+         "le Portugal"
+        ],
+        [
+         "belge",
+         "belge",
+         "la Belgique"
+        ],
+        [
+         "suisse",
+         "suisse",
+         "la Suisse"
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "4. Profissão: sem artigo depois de je, il e elle",
+      "paragrafos": [
+       "O material de Mount Saint Mary's apresenta uma regra de iniciante: com c'est se usa artigo (C'est un acteur), e com il, elle, ils e elles a profissão vem sem artigo (Il est acteur). Também: Nous sommes étudiants. Use esta regra nos itens.",
+       "O feminino de muitos nomes se faz com -e (avocat/avocate, étudiant/étudiante, registrados no Dictionnaire da Académie) ou com outras terminações (infirmier/infirmière, chercheur/chercheuse, traducteur/traductrice, segundo o French OER 2).",
+       "Há variação em -eur: o OQLF registra professeure, ingénieure e docteure. Em 2014 a Académie rejeitava formas assim; em 28 de fevereiro de 2019 adotou, por larga maioria, um relatório sobre a feminização dos nomes de ofícios e funções. Quando a prova não delimitar, prefira os pares já consolidados.",
+       "Há também nomes de forma única, ditos epicenos pelo OQLF: juge, pilote e, segundo a mesma página, médecin (une médecin, uso preferido no Québec; o OQLF reconhece também médecine como forma bem construída). Neles, o determinante ou o adjetivo mostra o gênero: un pilote, une pilote."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Masculino",
+        "Feminino"
+       ],
+       "linhas": [
+        [
+         "avocat",
+         "avocate"
+        ],
+        [
+         "étudiant",
+         "étudiante"
+        ],
+        [
+         "infirmier",
+         "infirmière"
+        ],
+        [
+         "chercheur",
+         "chercheuse"
+        ],
+        [
+         "traducteur",
+         "traductrice"
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "5. Apresentação completa",
+      "paragrafos": [
+       "Com tu. A : Salut, comment tu t'appelles ? B : Je m'appelle Camille. Je suis brésilienne. Je suis avocate. Et toi ? A : Moi, c'est Louis. Je suis français. Je suis étudiant.",
+       "Com vous. A : Bonjour, Madame. Comment vous appelez-vous ? B : Je m'appelle Marta Silva. Je suis portugaise. Je suis traductrice. Enchantée.",
+       "A ordem é a mesma do espanhol: nome (je m'appelle), nacionalidade (je suis + adjetivo) e profissão (je suis + nome sem artigo). Gênero e número acompanham quem fala.",
+       "Em prova, três verificações resolvem quase tudo: a forma de être ou de s'appeler, a concordância da nacionalidade e da profissão com o sujeito, e a ausência de artigo depois de il ou elle (e de maiúscula no adjetivo)."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Escrever Elle est Espagnole com maiúscula: o adjetivo é minúsculo; só o nome do habitante leva maiúscula (une Espagnole).",
+     "Dizer Il est un acteur: pela regra do material, il, elle, ils e elles não levam artigo diante da profissão; use C'est un acteur.",
+     "Escrever je m'apelle ou je m'appèle: a forma é m'appelle, com ll.",
+     "Fazer feminino do adjetivo belge ou suisse com -e a mais: o adjetivo é igual (elle est belge, elle est suisse). Para o nome de habitante, o Dictionnaire da Académie registra que, no feminino de Suisse, se diz mais corretamente une Suissesse.",
+     "Confundir brésilien (adjetivo ou habitante, Un Brésilien) com le brésilien (a língua), ambos registrados no mesmo verbete.",
+     "Tratar como certas as formas em -eure sem delimitar a fonte: o OQLF as registra, e a Académie divergia em 2014."
+    ],
+    "fontes": [
+     "Dictionnaire de l'Académie française, conjugaison de appeler / s'appeler, https://dictionnaire-academie.fr/conjuguer/A9A2203 (consultado)",
+     "Dictionnaire de l'Académie française, conjugaison de être, https://www.dictionnaire-academie.fr/conjuguer/A9E2986 (consultado)",
+     "Dictionnaire de l'Académie française, 9e éd., verbete être, https://www.dictionnaire-academie.fr/article/A9E2986 (consultado)",
+     "Dictionnaire de l'Académie française, 9e éd., verbete «français, -aise», https://www.dictionnaire-academie.fr/article/A9F1526 (consultado)",
+     "Dictionnaire de l'Académie française, 9e éd., verbete «brésilien, -ienne», https://www.dictionnaire-academie.fr/article/A9B2091 (consultado)",
+     "Dictionnaire de l'Académie française, 9e éd., verbete «avocat, -ate», https://www.dictionnaire-academie.fr/article/A9A3456 (consultado)",
+     "Dictionnaire de l'Académie française, 9e éd., verbete «étudiant, -ante», https://www.dictionnaire-academie.fr/article/A9E3015 (consultado)",
+     "OQLF, Vitrine linguistique, «Majuscule aux noms de peuples et d'habitants», https://vitrinelinguistique.oqlf.gouv.qc.ca/21361/la-typographie/majuscules/emploi-de-la-majuscule-pour-des-types-de-denominations/majuscule-aux-noms-de-peuples-et-dhabitants (consultada)",
+     "OQLF, Vitrine linguistique, «Appellations de personnes épicènes», https://vitrinelinguistique.oqlf.gouv.qc.ca/23936/la-redaction-et-la-communication/feminisation-et-redaction-epicene/feminisation-des-appellations-de-personnes/formation-dappellations-de-personnes-au-feminin/appellations-de-personnes-epicenes (consultada)",
+     "OQLF, Vitrine linguistique, «Féminin des appellations de personnes en -eur», https://vitrinelinguistique.oqlf.gouv.qc.ca/index.php?id=23336 (consultada)",
+     "Académie française, mise au point «La féminisation des noms de métiers, fonctions, grades ou titres», 10 oct. 2014, https://www.academie-francaise.fr/sites/academie-francaise.fr/files/feminisation_2014.pdf (consultada)",
+     "Académie française, comunicado «La féminisation des noms de métiers et de fonctions», 1 mar. 2019, https://www.academie-francaise.fr/actualites/la-feminisation-des-noms-de-metiers-et-de-fonctions (consultado; relatório integral não consultado)",
+     "Carrasco, Zahedi e Parrish, French OER 1, Unité 1, seção 1.03 «Comment se présenter», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)",
+     "Carrasco, Zahedi e Parrish, French OER 1, Unité 1, seção 1.08 «Décrire ses origines (nationalités)», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)",
+     "Carrasco, Zahedi e Parrish, French OER 1, Unité 1, seção 1.21 «Structure - C'est vs. il est», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)",
+     "Carrasco, Zahedi e Parrish, French OER 2, Unité 11, seção 11.02 «Travail et métiers», human.libretexts.org (material didático universitário, consultado)",
+     "Carrasco, Zahedi e Parrish, French OER 1, Unité 1, seção 1.18 «Structure - Le verbe être», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "FRA-01-04#01",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o French OER 1, as nacionalidades são adjetivos e concordam com o sujeito, como em Il est mexicain e Elle est mexicaine.",
+     "gabarito": "C",
+     "explicacao": "O material afirma que nacionalidades são adjetivos e devem concordar com o nome ou pronome que qualificam.",
+     "fonte": "Carrasco, Zahedi e Parrish, French OER 1, Unité 1, seção 1.08 «Décrire ses origines (nationalités)», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)"
+    },
+    {
+     "id": "FRA-01-04#02",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o OQLF, o adjetivo de nacionalidade leva inicial maiúscula, como em Elle est Espagnole.",
+     "gabarito": "E",
+     "explicacao": "O OQLF reserva a maiúscula ao nome do habitante (une Espagnole); o adjetivo (elle est espagnole) é minúsculo.",
+     "fonte": "OQLF, Vitrine linguistique, «Majuscule aux noms de peuples et d'habitants», https://vitrinelinguistique.oqlf.gouv.qc.ca/21361/la-typographie/majuscules/emploi-de-la-majuscule-pour-des-types-de-denominations/majuscule-aux-noms-de-peuples-et-dhabitants (consultada)"
+    },
+    {
+     "id": "FRA-01-04#03",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o OQLF, o nome que designa o habitante leva maiúscula (une Italienne), e o adjetivo correspondente não leva (elle est espagnole).",
+     "gabarito": "C",
+     "explicacao": "É a regra descrita na página do OQLF sobre noms de peuples et d'habitants.",
+     "fonte": "OQLF, Vitrine linguistique, «Majuscule aux noms de peuples et d'habitants», https://vitrinelinguistique.oqlf.gouv.qc.ca/21361/la-typographie/majuscules/emploi-de-la-majuscule-pour-des-types-de-denominations/majuscule-aux-noms-de-peuples-et-dhabitants (consultada)"
+    },
+    {
+     "id": "FRA-01-04#04",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o French OER 1, com c'est a profissão pode vir com artigo (C'est un acteur), e com il est ela vem sem artigo (Il est acteur).",
+     "gabarito": "C",
+     "explicacao": "O material contrasta as duas construções e diz que il, elle, ils e elles não são seguidos de artigo.",
+     "fonte": "Carrasco, Zahedi e Parrish, French OER 1, Unité 1, seção 1.21 «Structure - C'est vs. il est», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)"
+    },
+    {
+     "id": "FRA-01-04#05",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o French OER 1, o feminino de belge é belgienne.",
+     "gabarito": "E",
+     "explicacao": "O material lista belge sem marca de feminino (ao contrário de australien(ne)), isto é, a forma é a mesma: il est belge, elle est belge.",
+     "fonte": "Carrasco, Zahedi e Parrish, French OER 1, Unité 1, seção 1.08 «Décrire ses origines (nationalités)», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)"
+    },
+    {
+     "id": "FRA-01-04#06",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o Dictionnaire de l'Académie française, brésilien é apenas adjetivo e não se usa como substantivo.",
+     "gabarito": "E",
+     "explicacao": "O verbete classifica brésilien como adjetivo e nome: Un Brésilien, une Brésilienne; le brésilien é também a língua.",
+     "fonte": "Dictionnaire de l'Académie française, 9e éd., verbete «brésilien, -ienne», https://www.dictionnaire-academie.fr/article/A9B2091 (consultado)"
+    },
+    {
+     "id": "FRA-01-04#07",
+     "tipo": "certo_errado",
+     "enunciado": "O Dictionnaire de l'Académie française registra avocate como feminino de avocat, como em La nouvelle avocate a prêté serment.",
+     "gabarito": "C",
+     "explicacao": "O verbete tem a entrada avocat, -ate e traz esse exemplo.",
+     "fonte": "Dictionnaire de l'Académie française, 9e éd., verbete «avocat, -ate», https://www.dictionnaire-academie.fr/article/A9A3456 (consultado)"
+    },
+    {
+     "id": "FRA-01-04#08",
+     "tipo": "multipla_escolha",
+     "enunciado": "Ouça a frase. O que ela informa sobre quem fala?",
+     "fala": {
+      "texto": "Je suis française.",
+      "lang": "fr-FR"
+     },
+     "opcoes": [
+      "É uma mulher e é francesa",
+      "É um homem e é francês",
+      "São duas mulheres francesas",
+      "É um homem e é belga"
+     ],
+     "gabarito": 0,
+     "explicacao": "Je suis é a 1ª pessoa do singular de être; française é o feminino de français.",
+     "fonte": "Dictionnaire de l'Académie française, 9e éd., verbete «français, -aise», https://www.dictionnaire-academie.fr/article/A9F1526 (consultado)"
+    },
+    {
+     "id": "FRA-01-04#09",
+     "tipo": "flashcard",
+     "frente": "Je m'appelle Julien. Je viens de Lyon.",
+     "fala": {
+      "texto": "Je m'appelle Julien. Je viens de Lyon.",
+      "lang": "fr-FR"
+     },
+     "verso": "Meu nome é Julien. Venho de Lyon. O nome se diz com s'appeler, e a origem com venir de ou être de.",
+     "explicacao": "Adaptado do modelo de apresentação do material; a origem aparece com je viens de e je suis de.",
+     "fonte": "Carrasco, Zahedi e Parrish, French OER 1, Unité 3, seção 3.5 «Les renseignements personnels», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado); Carrasco, Zahedi e Parrish, French OER 1, Unité 1, seção 1.08 «Décrire ses origines (nationalités)», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado)"
+    },
+    {
+     "id": "FRA-01-04#10",
+     "tipo": "associar",
+     "enunciado": "Associe cada profissão masculina à forma feminina correspondente.",
+     "pares": [
+      [
+       "avocat",
+       "avocate"
+      ],
+      [
+       "infirmier",
+       "infirmière"
+      ],
+      [
+       "chercheur",
+       "chercheuse"
+      ],
+      [
+       "traducteur",
+       "traductrice"
+      ]
+     ],
+     "explicacao": "São os pares dados no material e, para avocat, no Dictionnaire da Académie.",
+     "fonte": "Carrasco, Zahedi e Parrish, French OER 2, Unité 11, seção 11.02 «Travail et métiers», human.libretexts.org (material didático universitário, consultado); Dictionnaire de l'Académie française, 9e éd., verbete «avocat, -ate», https://www.dictionnaire-academie.fr/article/A9A3456 (consultado)"
+    },
+    {
+     "id": "FRA-01-04#11",
+     "tipo": "lacuna",
+     "enunciado": "Complete com a forma correta de s'appeler: Je m'___ Camille.",
+     "aceitas": [
+      "appelle"
+     ],
+     "explicacao": "Na 1ª pessoa do singular o Dictionnaire dá je m'appelle, com ll.",
+     "fonte": "Dictionnaire de l'Académie française, conjugaison de appeler / s'appeler, https://dictionnaire-academie.fr/conjuguer/A9A2203 (consultado)"
+    },
+    {
+     "id": "FRA-01-04#12",
+     "tipo": "resposta_curta",
+     "enunciado": "Apresente-se em francês como Pedro, brasileiro e estudante, em três frases curtas: nome, nacionalidade e profissão.",
+     "gabarito": "Je m'appelle Pedro. Je suis brésilien. Je suis étudiant.",
+     "explicacao": "Nome com je m'appelle, nacionalidade no masculino e profissão sem artigo depois de je suis.",
+     "fonte": "Carrasco, Zahedi e Parrish, French OER 1, Unité 1, seção 1.03 «Comment se présenter», Mount Saint Mary's University (human.libretexts.org; material didático universitário, consultado); Dictionnaire de l'Académie française, 9e éd., verbete «brésilien, -ienne», https://www.dictionnaire-academie.fr/article/A9B2091 (consultado)"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,670 @@
+{
+ "licoes": {
+  "ECO-01-04": {
+   "resumo": "A derivada mede a inclinação da curva num ponto e, em Economia, dá os valores marginais (custo e receita marginais). Pontos críticos de funções diferenciáveis têm derivada zero, e a segunda derivada distingue máximo local de mínimo local. O lucro máximo exige receita marginal igual ao custo marginal, com a condição de segunda ordem.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "Derivada: a inclinação em cada ponto",
+      "paragrafos": [
+       "Na primeira lição do módulo, a inclinação de uma reta mediu quanto y varia quando x sobe uma unidade. Numa curva, a inclinação muda de ponto para ponto. A derivada de uma função f no ponto x, escrita f'(x), é a inclinação da curva nesse ponto, isto é, a taxa com que f varia ali.",
+       "Em Economia, a palavra marginal quase sempre indica uma derivada: o valor marginal é a variação provocada por uma unidade adicional, que a derivada aproxima. Por isso o cálculo aparece na teoria da firma e na do consumidor."
+      ]
+     },
+     {
+      "titulo": "Regras de derivação e exemplos",
+      "paragrafos": [
+       "Quatro regras bastam para os exemplos desta lição.",
+       "Se f(x) = x³, então f'(x) = 3x², e f'(2) = 12. Se g(x) = 4x³ + 2x − 7, então g'(x) = 12x² + 2, e g'(1) = 14. O termo 2x tem derivada 2, pois x é x¹, e o −7 desaparece, por ser constante. Se h(x) = 5x⁴, então h'(x) = 20x³."
+      ],
+      "lista": [
+       "Constante: a derivada de um número fixo é zero.",
+       "Potência: a derivada de xⁿ é n·xⁿ⁻¹.",
+       "Constante multiplicativa: (k·f)' = k·f'.",
+       "Soma: (f + g)' = f' + g'."
+      ]
+     },
+     {
+      "titulo": "Valores marginais",
+      "paragrafos": [
+       "O custo marginal (CMg) é a derivada do custo total C(q) em relação à quantidade q. A receita marginal (RMg) é a derivada da receita total R(q). O lucro é π = R − C, e sua derivada é RMg − CMg.",
+       "Exemplo: C(q) = 100 + 5q + 0,5q². Então CMg = C'(q) = 5 + q, e em q = 10 o custo marginal é 15. O custo fixo de 100 some na derivação, logo não afeta o custo marginal. A derivada é uma taxa instantânea e apenas aproxima o custo da unidade seguinte: C(11) − C(10) = 215,5 − 200 = 15,5."
+      ]
+     },
+     {
+      "titulo": "Pontos críticos e a condição de primeira ordem",
+      "paragrafos": [
+       "Ponto crítico é aquele em que f'(x) = 0 (ou em que a derivada não existe). Pelo teorema de Fermat, se uma função diferenciável tem máximo ou mínimo local em c, então f'(c) = 0. A volta não vale: f(x) = x³ tem f'(0) = 0 e não tem máximo nem mínimo em 0.",
+       "Exemplo: f(x) = 3x² − 12x + 5. Como f'(x) = 6x − 12, o único ponto crítico é x = 2, onde f(2) = −7."
+      ]
+     },
+     {
+      "titulo": "Segunda derivada: máximo ou mínimo?",
+      "paragrafos": [
+       "A segunda derivada f'' é a derivada de f'. No teste da segunda derivada, se f'(c) = 0 e f''(c) > 0, há mínimo local; se f''(c) < 0, há máximo local; se f''(c) = 0, o teste é inconclusivo. No exemplo, f'' = 6 > 0, então x = 2 é mínimo local, com valor −7."
+      ]
+     },
+     {
+      "titulo": "Maximização do lucro",
+      "paragrafos": [
+       "Seja R(q) = 70q − q² e C(q) = 100 + 10q + q². O lucro é π(q) = −100 + 60q − 2q². A condição de primeira ordem dá π'(q) = 60 − 4q = 0, logo q = 15. Como π'' = −4 < 0, é máximo, com π(15) = −100 + 900 − 450 = 350. Conferência: π(14) = π(16) = 348.",
+       "Nesse ponto, RMg = 70 − 2q = 40 e CMg = 10 + 2q = 40. É a regra clássica: o lucro máximo exige RMg = CMg, mais a condição de segunda ordem.",
+       "Ligação com a demanda da lição 1: de P = 50 − 0,5Q vem R = 50Q − 0,5Q², RMg = 50 − Q e receita máxima em Q = 50, com P = 25 e R = 1.250. Isso maximiza a receita, não o lucro; para o lucro, é preciso o custo."
+      ]
+     },
+     {
+      "titulo": "Roteiro para resolver em prova",
+      "paragrafos": [
+       "Primeiro, escreva a função e identifique o que se pede: valor marginal em um ponto, ponto crítico ou máximo. Segundo, derive termo a termo, lembrando que constantes somem. Terceiro, substitua o valor pedido ou iguale a derivada a zero.",
+       "Quarto, se o problema pede máximo ou mínimo, derive de novo e olhe o sinal da segunda derivada. Quinto, confira por substituição de valores vizinhos, como fizemos com π(14) e π(16). Lembre também que f' > 0 indica função crescente naquele ponto, e f' < 0, decrescente: um custo marginal positivo significa que o custo total sobe com a quantidade."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Concluir que f'(c) = 0 garante máximo: pode ser mínimo ou ponto de inflexão. Falta a segunda derivada.",
+     "Confundir custo marginal (derivada do custo total) com custo médio (C/q) ou com o próprio custo total.",
+     "Esquecer que a derivada de uma constante é zero: custo fixo não entra no custo marginal.",
+     "Errar a regra da potência: a derivada de x² é 2x, e a de 5x⁴ é 20x³, não 5x³.",
+     "Trocar RMg = 0 (receita máxima) por RMg = CMg (lucro máximo). Com CMg positivo e RMg decrescente (como nos exemplos da lição), o lucro máximo ocorre em quantidade menor que a da receita máxima.",
+     "Tratar a derivada como custo exato da próxima unidade: ela é taxa instantânea e só aproxima C(q+1) − C(q)."
+    ],
+    "fontes": [
+     "OpenStax, Calculus Volume 1, seção 3.3 Differentiation Rules (https://openstax.org/books/calculus-volume-1/pages/3-3-differentiation-rules)",
+     "OpenStax, Calculus Volume 1, seção 3.4 Derivatives as Rates of Change (https://openstax.org/books/calculus-volume-1/pages/3-4-derivatives-as-rates-of-change)",
+     "OpenStax, Calculus Volume 1, seções 4.3 e 4.5 (https://openstax.org/books/calculus-volume-1/pages/4-3-maxima-and-minima)",
+     "Chiang; Wainwright, Matemática para Economistas (referência indicada para a lição; obra não consultada diretamente)",
+     "OpenStax, Principles of Economics 3e, seção 8.2 (https://openstax.org/books/principles-economics-3e/pages/8-2-how-perfectly-competitive-firms-make-output-decisions)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "ECO-01-04#01",
+     "tipo": "lacuna",
+     "enunciado": "Se f(x) = x³, então f'(2) = ___.",
+     "aceitas": [
+      "12"
+     ],
+     "explicacao": "Pela regra da potência, f'(x) = 3x²; em x = 2, 3 × 4 = 12.",
+     "fonte": "OpenStax, Calculus Volume 1, seção 3.3 (https://openstax.org/books/calculus-volume-1/pages/3-3-differentiation-rules)"
+    },
+    {
+     "id": "ECO-01-04#02",
+     "tipo": "multipla_escolha",
+     "enunciado": "Seja g(x) = 4x³ + 2x − 7. Quanto vale g'(1)?",
+     "opcoes": [
+      "6",
+      "9",
+      "14",
+      "16"
+     ],
+     "gabarito": 2,
+     "explicacao": "g'(x) = 12x² + 2 (o −7 some, por ser constante). Em x = 1: 12 + 2 = 14.",
+     "fonte": "OpenStax, Calculus Volume 1, seção 3.3 (https://openstax.org/books/calculus-volume-1/pages/3-3-differentiation-rules)"
+    },
+    {
+     "id": "ECO-01-04#03",
+     "tipo": "lacuna",
+     "enunciado": "Dado o custo total C(q) = 100 + 5q + 0,5q², o custo marginal em q = 10 é ___.",
+     "aceitas": [
+      "15",
+      "15,00"
+     ],
+     "explicacao": "CMg = C'(q) = 5 + q; em q = 10, vale 15.",
+     "fonte": "OpenStax, Calculus Volume 1, seção 3.4 (https://openstax.org/books/calculus-volume-1/pages/3-4-derivatives-as-rates-of-change)"
+    },
+    {
+     "id": "ECO-01-04#04",
+     "tipo": "certo_errado",
+     "enunciado": "Com C(q) = 100 + 5q + 0,5q², a variação exata do custo ao passar de 10 para 11 unidades, C(11) − C(10), é 15,5, valor próximo do custo marginal 15 calculado em q = 10.",
+     "gabarito": "C",
+     "explicacao": "C(11) = 215,5 e C(10) = 200, diferença 15,5. A derivada é taxa instantânea e aproxima o custo da unidade adicional.",
+     "fonte": "OpenStax, Calculus Volume 1, seção 3.4 (https://openstax.org/books/calculus-volume-1/pages/3-4-derivatives-as-rates-of-change)"
+    },
+    {
+     "id": "ECO-01-04#05",
+     "tipo": "certo_errado",
+     "enunciado": "Na função de custo C(q) = 100 + 5q + 0,5q², o custo fixo de 100 faz parte do custo marginal.",
+     "gabarito": "E",
+     "explicacao": "A derivada de uma constante é zero; o custo marginal é 5 + q, sem o termo 100.",
+     "fonte": "OpenStax, Calculus Volume 1, seção 3.3 (https://openstax.org/books/calculus-volume-1/pages/3-3-differentiation-rules)"
+    },
+    {
+     "id": "ECO-01-04#06",
+     "tipo": "resposta_curta",
+     "enunciado": "Dado o lucro π(q) = −100 + 60q − 2q², encontre a quantidade que o maximiza e o lucro máximo. Justifique que é máximo.",
+     "gabarito": "q = 15 e lucro de 350. π'(q) = 60 − 4q = 0 dá q = 15; π''(q) = −4 < 0, logo é máximo. π(15) = −100 + 900 − 450 = 350.",
+     "explicacao": "Condição de primeira ordem (π' = 0) e de segunda ordem (π'' < 0).",
+     "fonte": "OpenStax, Calculus Volume 1, seção 4.3 (https://openstax.org/books/calculus-volume-1/pages/4-3-maxima-and-minima), para a condição de primeira ordem; seção 4.5 (https://openstax.org/books/calculus-volume-1/pages/4-5-derivatives-and-the-shape-of-a-graph), para o teste da segunda derivada"
+    },
+    {
+     "id": "ECO-01-04#07",
+     "tipo": "certo_errado",
+     "enunciado": "Se f'(c) = 0, então a função f tem necessariamente um máximo local em c.",
+     "gabarito": "E",
+     "explicacao": "Derivada nula é condição necessária de extremo, não suficiente: pode haver mínimo ou inflexão, como f(x) = x³ em x = 0.",
+     "fonte": "OpenStax, Calculus Volume 1, seção 4.3 (https://openstax.org/books/calculus-volume-1/pages/4-3-maxima-and-minima)"
+    },
+    {
+     "id": "ECO-01-04#08",
+     "tipo": "multipla_escolha",
+     "enunciado": "Para f(x) = 3x² − 12x + 5, tem-se f'(2) = 0 e f''(2) = 6. Pelo teste da segunda derivada, x = 2 é:",
+     "opcoes": [
+      "máximo local",
+      "mínimo local",
+      "ponto de inflexão",
+      "caso em que o teste é inconclusivo"
+     ],
+     "gabarito": 1,
+     "explicacao": "Com f'(c) = 0 e f''(c) > 0, há mínimo local. O valor mínimo é f(2) = −7.",
+     "fonte": "OpenStax, Calculus Volume 1, seção 4.5 (https://openstax.org/books/calculus-volume-1/pages/4-5-derivatives-and-the-shape-of-a-graph); enunciado do teste da segunda derivada lido apenas como objetivo de aprendizagem da seção, forma usual do teste"
+    },
+    {
+     "id": "ECO-01-04#09",
+     "tipo": "lacuna",
+     "enunciado": "Com a receita R(Q) = 50Q − 0,5Q², a quantidade que maximiza a receita total é Q = ___.",
+     "aceitas": [
+      "50"
+     ],
+     "explicacao": "RMg = 50 − Q = 0 dá Q = 50; como R'' = −1 < 0, é máximo (R = 1.250).",
+     "fonte": "OpenStax, Calculus Volume 1, seção 4.3 (https://openstax.org/books/calculus-volume-1/pages/4-3-maxima-and-minima), para a condição de primeira ordem; seção 4.5 (https://openstax.org/books/calculus-volume-1/pages/4-5-derivatives-and-the-shape-of-a-graph), para o teste da segunda derivada"
+    },
+    {
+     "id": "ECO-01-04#10",
+     "tipo": "certo_errado",
+     "enunciado": "Para R(q) = 70q − q² e C(q) = 100 + 10q + q², em q = 15 a receita marginal e o custo marginal são iguais a 40.",
+     "gabarito": "C",
+     "explicacao": "RMg = 70 − 2q = 40 e CMg = 10 + 2q = 40 em q = 15; é o ponto de lucro máximo (π = 350).",
+     "fonte": "OpenStax, Calculus Volume 1, seção 3.4 (https://openstax.org/books/calculus-volume-1/pages/3-4-derivatives-as-rates-of-change)"
+    },
+    {
+     "id": "ECO-01-04#11",
+     "tipo": "certo_errado",
+     "enunciado": "Se o custo marginal é positivo, a quantidade que maximiza o lucro é aquela em que a receita marginal é igual a zero.",
+     "gabarito": "E",
+     "explicacao": "O lucro máximo exige RMg = CMg. Com CMg positivo, RMg também é positiva ali; RMg = 0 maximiza apenas a receita.",
+     "fonte": "OpenStax, Calculus Volume 1, seção 3.4 (https://openstax.org/books/calculus-volume-1/pages/3-4-derivatives-as-rates-of-change), para a definição de lucro marginal como RMg − CMg; OpenStax, Principles of Economics 3e, seção 8.2 (https://openstax.org/books/principles-economics-3e/pages/8-2-how-perfectly-competitive-firms-make-output-decisions), para o lucro máximo em RMg = CMg"
+    },
+    {
+     "id": "ECO-01-04#12",
+     "tipo": "flashcard",
+     "frente": "Qual é a condição de primeira ordem para maximizar o lucro π = R − C?",
+     "verso": "π'(q) = 0, isto é, RMg = CMg. Para confirmar que é máximo, verifica-se π''(q) < 0.",
+     "explicacao": "Como π' = RMg − CMg, anular a derivada do lucro equivale a igualar os valores marginais.",
+     "fonte": "OpenStax, Calculus Volume 1, seção 3.4 (https://openstax.org/books/calculus-volume-1/pages/3-4-derivatives-as-rates-of-change), para a definição de lucro marginal como RMg − CMg; OpenStax, Principles of Economics 3e, seção 8.2 (https://openstax.org/books/principles-economics-3e/pages/8-2-how-perfectly-competitive-firms-make-output-decisions), para o lucro máximo em RMg = CMg"
+    }
+   ]
+  },
+  "ECO-01-05": {
+   "resumo": "Checkpoint do módulo 1 de Economia: sistemas lineares e equilíbrio, leitura de gráficos (inclinação, movimento versus deslocamento), percentuais, juros compostos e taxa real, e derivadas aplicadas a valores marginais e otimização. Revise as fórmulas-chave e os erros típicos antes dos itens.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "Funções, sistemas e equilíbrio",
+      "paragrafos": [
+       "Este checkpoint revisa as quatro lições do módulo: sistemas lineares, gráficos, percentuais e juros, e derivadas. Leia cada bloco, refaça as contas no papel e só depois responda aos itens. Os cálculos usam sempre os mesmos mercados e funções das lições, para você reconhecer os números.",
+       "A função linear é y = a + bx: b é a inclinação e a é o intercepto. Em mercados lineares, Qd = 100 − 2P e Qs = −20 + 4P. O equilíbrio é o preço em que Qd = Qs: 120 = 6P, logo P = 20 e Q = 60. Confira sempre nas duas equações.",
+       "Fora do equilíbrio, compara-se Qd e Qs. Preço acima do equilíbrio gera excesso de oferta (Qs > Qd); preço abaixo gera excesso de demanda. Um sistema de duas equações lineares pode ter solução única, nenhuma (retas paralelas distintas) ou infinitas (retas coincidentes)."
+      ]
+     },
+     {
+      "titulo": "Gráficos: eixos, inclinação e deslocamentos",
+      "paragrafos": [
+       "Convenção usada no módulo: preço (P) no eixo vertical e quantidade (Q) no horizontal. A inclinação é ΔP/ΔQ. A demanda Qd = 100 − 2P tem forma inversa P = 50 − 0,5Q, de inclinação −0,5, inverso de −2.",
+       "Mudança no preço do próprio bem move o ponto ao longo da curva. Mudança em outro fator desloca a curva: renda (bem normal) e custo dos insumos são exemplos. Se só o termo independente muda, o deslocamento é paralelo: Qd = 112 − 2P com a mesma oferta leva a P = 22 e Q = 68."
+      ]
+     },
+     {
+      "titulo": "Percentuais, juros compostos e taxa real",
+      "paragrafos": [
+       "Variação percentual é (valor final − valor inicial) ÷ valor inicial, com base no valor inicial. De 80 para 100, a alta é de 25%; de 100 de volta para 80, a queda é de 20%. Por isso, percentuais de sentidos opostos não se anulam.",
+       "Nos juros compostos, o montante é M = C(1 + i)ⁿ. Com R$ 1.000 a 10% ao ano por dois anos, M = R$ 1.210. Duas altas de 10% acumulam 21%, e não 20%.",
+       "A taxa real vem da relação de Fisher: (1 + i) = (1 + r)(1 + π), em que i é a taxa nominal, r é a taxa real e π é a inflação (nesta seção π designa a inflação, como na lição de percentuais e juros; na seção seguinte a mesma letra designa o lucro, como na lição de derivadas). Com i = 12% e π = 5%, a taxa real exata é 1,12 ÷ 1,05 − 1 ≈ 6,67%. A aproximação r ≈ i − π dá 7%, aceitável quando as taxas são baixas."
+      ]
+     },
+     {
+      "titulo": "Derivadas e otimização",
+      "paragrafos": [
+       "Regras: constante vira zero; (xⁿ)' = n·xⁿ⁻¹; a derivada da soma é a soma das derivadas. Custo marginal e receita marginal são as derivadas do custo e da receita totais. Em C(q) = 50 + 4q + q², CMg = 4 + 2q, e em q = 3 vale 10.",
+       "Ponto crítico: f' = 0. Com f'' < 0, máximo local; com f'' > 0, mínimo local; com f'' = 0, o teste é inconclusivo. Para o lucro, representado aqui por π (e não pela inflação), π = −100 + 60q − 2q², π' = 60 − 4q = 0 dá q = 15, π'' = −4 e π = 350. Lucro máximo pede RMg = CMg, e não RMg = 0."
+      ]
+     },
+     {
+      "titulo": "Exemplo integrador",
+      "paragrafos": [
+       "No mercado Qd = 100 − 2P e Qs = −20 + 4P, o equilíbrio é P = 20 e Q = 60, e a receita dos vendedores é 20 × 60 = 1.200. Pela demanda inversa P = 50 − 0,5Q, a receita é R(Q) = 50Q − 0,5Q², com RMg = 50 − Q. Em Q = 60, RMg = −10, negativa: a receita máxima ocorreria em Q = 50.",
+       "Esse exemplo junta quatro ferramentas: o sistema linear, a leitura da inclinação, o cálculo da receita e a derivada. Se a banca perguntar o que ocorre com a receita ao aumentar a quantidade a partir de 60, o sinal da derivada responde: ela diminui."
+      ]
+     },
+     {
+      "titulo": "Mapa de erros por lição",
+      "paragrafos": [
+       "A tabela resume o ponto-chave de cada lição e o erro que a banca mais explora."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Lição",
+        "Ferramenta-chave",
+        "Erro típico"
+       ],
+       "linhas": [
+        [
+         "Funções e sistemas",
+         "Igualar Qd e Qs e conferir",
+         "Errar o sinal ao passar termos; esquecer de achar Q"
+        ],
+        [
+         "Gráficos",
+         "ΔP/ΔQ e distinção movimento versus deslocamento",
+         "Chamar de deslocamento a mudança do preço do próprio bem"
+        ],
+        [
+         "Percentuais e juros",
+         "Base inicial e (1 + i)ⁿ",
+         "Somar percentuais sucessivos"
+        ],
+        [
+         "Derivadas",
+         "f' = 0 e sinal de f''",
+         "Tomar f' = 0 como máximo garantido"
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "Estratégia no Certo/Errado",
+      "paragrafos": [
+       "Pelo Edital nº 1/2026 do Concurso de Diplomata (item 5.13.2), a pontuação é +1,00 por acerto e −0,25 por erro; item em branco vale zero. Em termos de valor esperado, responder compensa quando a chance de acerto supera 20%. Em itens de cálculo, refaça a conta: uma divergência pequena de valor pode indicar item errado, mas confira também o arredondamento."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Dizer que a queda de preço do próprio bem desloca a demanda: é movimento ao longo da curva.",
+     "Ler ΔQ/ΔP como inclinação num gráfico com P no eixo vertical: a inclinação é ΔP/ΔQ.",
+     "Somar variações percentuais sucessivas: duas altas de 10% dão 21%.",
+     "Tratar r = i − π como exata: a relação exata é (1 + i)/(1 + π) − 1.",
+     "Concluir máximo a partir de f' = 0 sem olhar f''.",
+     "Confundir receita máxima (RMg = 0) com lucro máximo (RMg = CMg)."
+    ],
+    "fontes": [
+     "OpenStax, Principles of Economics 3e, apêndice (https://openstax.org/books/principles-economics-3e/pages/a-the-use-of-mathematics-in-principles-of-economics)",
+     "OpenStax, Principles of Economics 3e, seções 3.1 e 3.2 (https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services)",
+     "OpenStax, Contemporary Mathematics, seção 6.4 (https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)",
+     "Saylor Academy, The Fisher Equation (https://saylordotorg.github.io/text_macroeconomics-theory-through-applications/s20-14-the-fisher-equation-nominal-an.html)",
+     "OpenStax, Calculus Volume 1, seções 3.3, 3.4, 4.3 e 4.5",
+     "Cebraspe, Edital nº 1/2026 do Concurso de Diplomata, item 5.13.2 (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/7FA89C5320E2811FDD1A8276DD6526120704864996EA8C6DED7A6DDB5D0987D7.pdf)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "ECO-01-05#01",
+     "tipo": "certo_errado",
+     "enunciado": "Se a demanda passa de Qd = 100 − 2P para Qd = 112 − 2P e a oferta é Qs = −20 + 4P, o novo preço de equilíbrio é 22.",
+     "gabarito": "C",
+     "explicacao": "112 − 2P = −20 + 4P dá 132 = 6P, logo P = 22. A quantidade é 112 − 44 = 68.",
+     "fonte": "OpenStax, Principles of Economics 3e, seção 3.2 (https://openstax.org/books/principles-economics-3e/pages/3-2-shifts-in-demand-and-supply-for-goods-and-services)"
+    },
+    {
+     "id": "ECO-01-05#02",
+     "tipo": "lacuna",
+     "enunciado": "Com P no eixo vertical e Q no horizontal, a demanda inversa P = 50 − 0,5Q tem inclinação ___.",
+     "aceitas": [
+      "-0,5",
+      "−0,5",
+      "-0.5",
+      "−0.5",
+      "-1/2",
+      "−1/2"
+     ],
+     "explicacao": "Em y = a + bx, b é a inclinação; aqui, −0,5, inverso do coeficiente −2 da forma Qd = 100 − 2P.",
+     "fonte": "OpenStax, Principles of Economics 3e, apêndice (https://openstax.org/books/principles-economics-3e/pages/a-the-use-of-mathematics-in-principles-of-economics)"
+    },
+    {
+     "id": "ECO-01-05#03",
+     "tipo": "multipla_escolha",
+     "enunciado": "Num mercado com Qd = 80 − 4P e Qs = 20 + 2P, ao preço P = 15 verifica-se:",
+     "opcoes": [
+      "excesso de demanda de 30 unidades",
+      "excesso de oferta de 30 unidades",
+      "equilíbrio, com 40 unidades",
+      "excesso de oferta de 60 unidades"
+     ],
+     "gabarito": 1,
+     "explicacao": "Com P = 15: Qd = 20 e Qs = 50. Preço acima do equilíbrio (10) gera excesso de oferta, de 30 unidades.",
+     "fonte": "OpenStax, Principles of Economics 3e, seção 3.1 (https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services)"
+    },
+    {
+     "id": "ECO-01-05#04",
+     "tipo": "certo_errado",
+     "enunciado": "Um aumento no custo dos insumos provoca movimento ao longo da curva de oferta, sem deslocá-la.",
+     "gabarito": "E",
+     "explicacao": "Custo dos insumos é fator diferente do preço do próprio bem; ele desloca a curva de oferta, para a esquerda quando sobe.",
+     "fonte": "OpenStax, Principles of Economics 3e, seção 3.2 (https://openstax.org/books/principles-economics-3e/pages/3-2-shifts-in-demand-and-supply-for-goods-and-services)"
+    },
+    {
+     "id": "ECO-01-05#05",
+     "tipo": "resposta_curta",
+     "enunciado": "Um preço sobe de 80 para 100. Calcule a variação percentual (base no valor inicial) e a variação percentual necessária para voltar de 100 a 80.",
+     "gabarito": "Alta de 25% ((100 − 80)/80) e queda de 20% ((80 − 100)/100). A base muda, por isso as variações não se anulam.",
+     "explicacao": "A variação percentual usa como base o valor inicial de cada movimento.",
+     "fonte": "OpenStax, Principles of Economics 3e, apêndice (https://openstax.org/books/principles-economics-3e/pages/a-the-use-of-mathematics-in-principles-of-economics); convenção de base inicial declarada no item"
+    },
+    {
+     "id": "ECO-01-05#06",
+     "tipo": "lacuna",
+     "enunciado": "Um capital de R$ 1.000, a juros compostos de 10% ao ano, transforma-se, em dois anos, no montante de R$ ___.",
+     "aceitas": [
+      "1210",
+      "1.210",
+      "1210,00",
+      "1.210,00"
+     ],
+     "explicacao": "M = 1.000 × 1,10² = 1.210.",
+     "fonte": "OpenStax, Contemporary Mathematics, seção 6.4 (https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)"
+    },
+    {
+     "id": "ECO-01-05#07",
+     "tipo": "certo_errado",
+     "enunciado": "Duas altas sucessivas de 10% equivalem a uma alta acumulada de 20%.",
+     "gabarito": "E",
+     "explicacao": "1,10 × 1,10 = 1,21: a alta acumulada é de 21%.",
+     "fonte": "OpenStax, Contemporary Mathematics, seção 6.4 (https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest)"
+    },
+    {
+     "id": "ECO-01-05#08",
+     "tipo": "certo_errado",
+     "enunciado": "Com taxa nominal de 12% ao ano e inflação de 5% ao ano, a taxa real exata, pela relação (1 + i) = (1 + r)(1 + π), em que r é a taxa real e π é a inflação, é de cerca de 6,67% ao ano.",
+     "gabarito": "C",
+     "explicacao": "1,12 ÷ 1,05 − 1 ≈ 0,0667. A aproximação i − π daria 7%.",
+     "fonte": "Saylor Academy, The Fisher Equation (https://saylordotorg.github.io/text_macroeconomics-theory-through-applications/s20-14-the-fisher-equation-nominal-an.html)"
+    },
+    {
+     "id": "ECO-01-05#09",
+     "tipo": "multipla_escolha",
+     "enunciado": "Dado o custo total C(q) = 50 + 4q + q², o custo marginal em q = 3 é:",
+     "opcoes": [
+      "4",
+      "10",
+      "16",
+      "71"
+     ],
+     "gabarito": 1,
+     "explicacao": "CMg = C'(q) = 4 + 2q; em q = 3, vale 10. O valor 71 é o custo total C(3).",
+     "fonte": "OpenStax, Calculus Volume 1, seção 3.4 (https://openstax.org/books/calculus-volume-1/pages/3-4-derivatives-as-rates-of-change)"
+    },
+    {
+     "id": "ECO-01-05#10",
+     "tipo": "resposta_curta",
+     "enunciado": "Dado o lucro π(q) = −100 + 60q − 2q², determine a quantidade de lucro máximo e esse lucro.",
+     "gabarito": "q = 15, lucro 350. π' = 60 − 4q = 0; π'' = −4 < 0 (máximo); π(15) = −100 + 900 − 450 = 350.",
+     "explicacao": "Condição de primeira ordem para achar o ponto e de segunda ordem para classificá-lo.",
+     "fonte": "OpenStax, Calculus Volume 1, seção 4.3 (https://openstax.org/books/calculus-volume-1/pages/4-3-maxima-and-minima), para a condição de primeira ordem; seção 4.5 (https://openstax.org/books/calculus-volume-1/pages/4-5-derivatives-and-the-shape-of-a-graph), para o teste da segunda derivada"
+    },
+    {
+     "id": "ECO-01-05#11",
+     "tipo": "certo_errado",
+     "enunciado": "Se f'(c) = 0, então c é necessariamente ponto de máximo da função f.",
+     "gabarito": "E",
+     "explicacao": "A derivada nula é condição necessária, não suficiente. Pode haver mínimo (f'' > 0) ou inflexão.",
+     "fonte": "OpenStax, Calculus Volume 1, seção 4.3 (https://openstax.org/books/calculus-volume-1/pages/4-3-maxima-and-minima)"
+    },
+    {
+     "id": "ECO-01-05#12",
+     "tipo": "associar",
+     "enunciado": "Associe cada item à sua descrição ou resultado.",
+     "pares": [
+      [
+       "Derivada de f(x) = 5x⁴",
+       "20x³"
+      ],
+      [
+       "Custo marginal",
+       "Derivada do custo total em relação à quantidade"
+      ],
+      [
+       "Deslocamento paralelo da demanda",
+       "Muda o termo independente e mantém o coeficiente de P"
+      ],
+      [
+       "Taxa real exata",
+       "(1 + i)/(1 + π) − 1"
+      ]
+     ],
+     "explicacao": "Regra da potência; definição de valor marginal; deslocamento paralelo mantém a inclinação; relação de Fisher na forma exata.",
+     "fonte": "OpenStax, Calculus Volume 1, seção 3.3 (https://openstax.org/books/calculus-volume-1/pages/3-3-differentiation-rules); Saylor Academy, The Fisher Equation (https://saylordotorg.github.io/text_macroeconomics-theory-through-applications/s20-14-the-fisher-equation-nominal-an.html)"
+    }
+   ]
+  },
+  "DIR-01-05": {
+   "resumo": "Guia de revisão do módulo 1 de Direito: regras e princípios (Alexy), LINDB, personalidade civil e pessoa jurídica, classificação e primado da Constituição e controle de constitucionalidade. Os pontos mais cobráveis são os prazos, quóruns e marcos legais que a banca costuma trocar.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "Como usar este guia",
+      "paragrafos": [
+       "O checkpoint reúne os pontos mais cobráveis das quatro lições do módulo: normas jurídicas, personalidade jurídica, Constituição e controle de constitucionalidade. A prova costuma delimitar a fonte da afirmação, como em 'segundo Alexy' ou 'nos termos do art. 3º do Código Civil'. Responda dentro do referencial indicado e compare o texto da lei palavra por palavra. Quando o enunciado não delimita a fonte, prefira o texto literal da norma e a classificação majoritária, que é a adotada nesta revisão."
+      ]
+     },
+     {
+      "titulo": "Normas jurídicas e LINDB",
+      "paragrafos": [
+       "Segundo Alexy, regras são normas que só podem ser cumpridas ou descumpridas: a regra válida exige exatamente o que diz. Princípios são mandamentos de otimização, que exigem algo na maior medida possível, conforme as possibilidades fáticas e jurídicas. Conflito de regras resolve-se com cláusula de exceção ou invalidação de uma delas. Colisão de princípios resolve-se por ponderação, sem invalidar nenhum.",
+       "Na Lei de Introdução às Normas do Direito Brasileiro (LINDB), o art. 1º fixa o início da vigência em quarenta e cinco dias após a publicação oficial, salvo disposição contrária. O art. 2º diz que a lei sem vigência temporária vigora até que outra a modifique ou revogue. O art. 3º afasta a alegação de desconhecimento da lei. O art. 4º manda o juiz, diante de lacuna, recorrer à analogia, aos costumes e aos princípios gerais de direito."
+      ]
+     },
+     {
+      "titulo": "Personalidade jurídica",
+      "paragrafos": [
+       "Personalidade civil é a aptidão para ser titular de direitos e deveres. Pelo art. 2º do Código Civil, ela começa do nascimento com vida, mas a lei põe a salvo, desde a concepção, os direitos do nascituro. O art. 3º considera absolutamente incapazes os menores de 16 anos; entre 16 e 18, a incapacidade é relativa (art. 4º). O art. 6º dispõe que a existência da pessoa natural termina com a morte.",
+       "As pessoas jurídicas dividem-se em de direito público, interno ou externo, e de direito privado (art. 40). Estados estrangeiros são de direito público externo (art. 42). A existência legal da pessoa jurídica de direito privado começa com a inscrição do ato constitutivo no registro (art. 45), precedida, quando necessário, de autorização ou aprovação do Poder Executivo, e não com o início das atividades."
+      ]
+     },
+     {
+      "titulo": "Constituição: primado e classificações",
+      "paragrafos": [
+       "O primado da Constituição significa que ela está acima das demais normas, que nela buscam fundamento. Para Kelsen, segundo a Britannica, o sistema jurídico se apoia numa suposição de base, a norma fundamental (Grundnorm), aceita por parcela substancial da comunidade. O art. 102 dá ao STF, precipuamente, a guarda da Constituição: precipuamente quer dizer principalmente, não exclusivamente.",
+       "Pela classificação doutrinária majoritária, a CF/88 é em regra escrita, rígida, analítica e promulgada. Rígida é a que se altera por procedimento mais exigente que o das leis; analítica é a extensa e detalhada; promulgada (democrática) é a elaborada por representantes do povo. Parte da doutrina a chama de super-rígida por causa das cláusulas pétreas, por isso o enunciado costuma delimitar o critério."
+      ]
+     },
+     {
+      "titulo": "Controle de constitucionalidade",
+      "paragrafos": [
+       "No controle difuso, qualquer juiz ou tribunal examina a constitucionalidade de uma norma num caso concreto, como questão incidental, e a decisão vale em regra para as partes. No controle concentrado, o exame é a questão principal de uma ação própria, de processo objetivo, como a ADI, a ADC e a ADPF no STF.",
+       "O art. 97 exige maioria absoluta dos membros do tribunal, ou do órgão especial, para declarar a inconstitucionalidade. No controle difuso, o art. 52, X, dá ao Senado a competência de suspender a execução de lei declarada inconstitucional por decisão definitiva do STF. O art. 102, I, a, atribui ao STF a ADI de lei ou ato normativo federal ou estadual e a ADC de lei ou ato normativo federal. O art. 102, § 2º, confere às decisões definitivas de mérito em ADI e ADC eficácia contra todos e efeito vinculante. O art. 103-A permite ao STF aprovar súmula vinculante por decisão de dois terços de seus membros."
+      ]
+     },
+     {
+      "titulo": "Quadro de revisão",
+      "paragrafos": [
+       "A tabela reúne os números e marcos que a banca troca com mais frequência."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Tema",
+        "Regra a memorizar",
+        "Troca comum"
+       ],
+       "linhas": [
+        [
+         "Vigência (LINDB, art. 1º)",
+         "45 dias após a publicação, salvo disposição contrária",
+         "Outro prazo ou 'sempre'"
+        ],
+        [
+         "Incapacidade absoluta (CC, art. 3º)",
+         "Menores de 16 anos",
+         "Menores de 18 anos"
+        ],
+        [
+         "Pessoa jurídica de direito privado (CC, art. 45)",
+         "Existência com a inscrição do ato constitutivo",
+         "Início das atividades"
+        ],
+        [
+         "Reserva de plenário (CF, art. 97)",
+         "Maioria absoluta dos membros ou do órgão especial",
+         "Maioria simples"
+        ],
+        [
+         "Súmula vinculante (CF, art. 103-A)",
+         "Dois terços dos membros do STF",
+         "Maioria absoluta"
+        ]
+       ]
+      }
+     }
+    ],
+    "pegadinhas": [
+     "Atribuir o 'tudo ou nada' (expressão de Dworkin) aos princípios: ele descreve as regras. Em Alexy, regras só podem ser cumpridas ou descumpridas, e princípios são mandamentos de otimização, aplicados por ponderação.",
+     "Achar que a lei perde vigência por desuso: o art. 2º da LINDB só prevê modificação ou revogação por outra lei (salvo vigência temporária).",
+     "Fixar, segundo o texto do art. 2º do Código Civil, o início da personalidade na concepção: o artigo diz nascimento com vida, com proteção do nascituro desde a concepção. A teoria concepcionista diverge, mas, quando o enunciado cita o artigo, vale a letra da lei.",
+     "Ler 'precipuamente' (art. 102) como 'exclusivamente'.",
+     "Atribuir objeto estadual à ADC: o art. 102, I, a, limita a ADC a lei ou ato normativo federal.",
+     "Dizer que o Senado declara a inconstitucionalidade: ele suspende a execução de lei já declarada inconstitucional pelo STF por decisão definitiva (art. 52, X)."
+    ],
+    "fontes": [
+     "Alexy, On the Structure of Legal Principles, Ratio Juris, 2000 (https://irjs.pantheonsorbonne.fr/sites/default/files/inline-files/2000%2C%20Alexy%2C%20On%20the%20structures%20of%20legal%20principles.pdf)",
+     "Decreto-Lei nº 4.657/1942 (LINDB), arts. 1º a 4º, texto compilado do Planalto (https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm)",
+     "Lei nº 10.406/2002 (Código Civil), arts. 2º, 3º, 4º, 6º, 40, 42 e 45, texto compilado do Planalto (https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm)",
+     "Constituição Federal, arts. 52, X, 97, 102 e 103-A, conforme LegJur (https://www.legjur.com/legislacao/art/CF8800000001988-102)",
+     "Encyclopaedia Britannica, Hans Kelsen (https://www.britannica.com/biography/Hans-Kelsen)",
+     "Estratégia Concursos, Classificações das Constituições (https://www.estrategiaconcursos.com.br/blog/classificacoes-das-constituicoes/), fonte secundária",
+     "Melo, F. F., EMERJ, Controle de Constitucionalidade (https://emerj.tjrj.jus.br/files/pages/publicacoes/serieaperfeicoamentodemagistrados/paginas/series/2/Controle_de_Constitucionalidade_104.pdf)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "DIR-01-05#01",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo Alexy, a colisão entre dois princípios resolve-se declarando inválido um deles.",
+     "gabarito": "E",
+     "explicacao": "Em Alexy, nenhum princípio é invalidado: um recebe prioridade condicionada às circunstâncias do caso. A invalidade ou a cláusula de exceção são saídas para o conflito de regras.",
+     "fonte": "Alexy, On the Structure of Legal Principles (https://irjs.pantheonsorbonne.fr/sites/default/files/inline-files/2000%2C%20Alexy%2C%20On%20the%20structures%20of%20legal%20principles.pdf)"
+    },
+    {
+     "id": "DIR-01-05#02",
+     "tipo": "certo_errado",
+     "enunciado": "Nos termos do art. 2º da LINDB, a lei que não se destina à vigência temporária perde a vigência quando cai em desuso.",
+     "gabarito": "E",
+     "explicacao": "O art. 2º dispõe que a lei terá vigor até que outra a modifique ou revogue; o desuso não é forma de cessação prevista.",
+     "fonte": "Decreto-Lei nº 4.657/1942 (LINDB), art. 2º, texto compilado do Planalto (https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm)"
+    },
+    {
+     "id": "DIR-01-05#03",
+     "tipo": "lacuna",
+     "enunciado": "Salvo disposição contrária, a lei começa a vigorar em todo o país ___ dias depois de oficialmente publicada (art. 1º da LINDB).",
+     "aceitas": [
+      "45",
+      "quarenta e cinco",
+      "quarenta e cinco (45)"
+     ],
+     "explicacao": "O prazo do art. 1º da LINDB é de quarenta e cinco dias.",
+     "fonte": "Decreto-Lei nº 4.657/1942 (LINDB), art. 1º, texto compilado do Planalto (https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm)"
+    },
+    {
+     "id": "DIR-01-05#04",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o art. 2º do Código Civil, a personalidade civil começa do nascimento com vida, mas a lei põe a salvo, desde a concepção, os direitos do nascituro.",
+     "gabarito": "C",
+     "explicacao": "É a redação do artigo: marco do nascimento com vida e proteção dos direitos do nascituro desde a concepção.",
+     "fonte": "Lei nº 10.406/2002 (Código Civil), art. 2º, texto compilado do Planalto (https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm)"
+    },
+    {
+     "id": "DIR-01-05#05",
+     "tipo": "multipla_escolha",
+     "enunciado": "Pelo art. 3º do Código Civil, são absolutamente incapazes de exercer pessoalmente os atos da vida civil os menores de:",
+     "opcoes": [
+      "12 anos",
+      "14 anos",
+      "16 anos",
+      "18 anos"
+     ],
+     "gabarito": 2,
+     "explicacao": "O art. 3º limita a incapacidade absoluta aos menores de 16 anos.",
+     "fonte": "Lei nº 10.406/2002 (Código Civil), art. 3º, texto compilado do Planalto (https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm)"
+    },
+    {
+     "id": "DIR-01-05#06",
+     "tipo": "certo_errado",
+     "enunciado": "De acordo com o art. 45 do Código Civil, a existência legal das pessoas jurídicas de direito privado começa com o início efetivo de suas atividades.",
+     "gabarito": "E",
+     "explicacao": "O art. 45 fixa o marco na inscrição do ato constitutivo no respectivo registro.",
+     "fonte": "Lei nº 10.406/2002 (Código Civil), art. 45, texto compilado do Planalto (https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm)"
+    },
+    {
+     "id": "DIR-01-05#07",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo a Britannica, para Hans Kelsen o sistema jurídico se apoia numa suposição de base, a norma fundamental (Grundnorm), aceita por parcela substancial da comunidade.",
+     "gabarito": "C",
+     "explicacao": "A Britannica descreve a Grundnorm como suposição na base do sistema jurídico. A obra primária de Kelsen não foi consultada.",
+     "fonte": "Encyclopaedia Britannica, Hans Kelsen (https://www.britannica.com/biography/Hans-Kelsen)"
+    },
+    {
+     "id": "DIR-01-05#08",
+     "tipo": "associar",
+     "enunciado": "Segundo a classificação doutrinária das constituições, associe cada rótulo à sua ideia.",
+     "pares": [
+      [
+       "Rígida",
+       "Alteração por procedimento mais exigente que o das leis ordinárias e complementares"
+      ],
+      [
+       "Analítica",
+       "Texto extenso, prolixo e detalhado"
+      ],
+      [
+       "Sintética",
+       "Texto curto, contraposto ao analítico"
+      ],
+      [
+       "Promulgada (democrática)",
+       "Origem popular, e não imposta"
+      ]
+     ],
+     "explicacao": "Definições conforme a fonte secundária consultada; a CF/88 é rotulada majoritariamente como rígida, analítica e promulgada.",
+     "fonte": "Estratégia Concursos, Classificações das Constituições (https://www.estrategiaconcursos.com.br/blog/classificacoes-das-constituicoes/); fonte secundária, obras primárias não consultadas"
+    },
+    {
+     "id": "DIR-01-05#09",
+     "tipo": "certo_errado",
+     "enunciado": "Nos termos do art. 102, I, a, da CF/88, a ação declaratória de constitucionalidade pode ter por objeto lei ou ato normativo federal ou estadual.",
+     "gabarito": "E",
+     "explicacao": "A alínea prevê ADI de lei ou ato normativo federal ou estadual, mas limita a ADC a lei ou ato normativo federal.",
+     "fonte": "Constituição Federal, conforme LegJur (https://www.legjur.com/legislacao/art/CF8800000001988-102); texto oficial do Planalto não aberto"
+    },
+    {
+     "id": "DIR-01-05#10",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o art. 97 da CF/88, somente pelo voto da maioria absoluta de seus membros ou dos membros do respectivo órgão especial poderão os tribunais declarar a inconstitucionalidade de lei ou ato normativo do poder público.",
+     "gabarito": "C",
+     "explicacao": "É a cláusula de reserva de plenário, na redação do art. 97.",
+     "fonte": "Constituição Federal, art. 97, conforme LegJur (https://www.legjur.com/legislacao/art/CF8800000001988-97); texto oficial do Planalto não aberto"
+    },
+    {
+     "id": "DIR-01-05#11",
+     "tipo": "multipla_escolha",
+     "enunciado": "Nos termos do art. 52, X, da CF/88, compete privativamente ao Senado Federal:",
+     "opcoes": [
+      "declarar a inconstitucionalidade de lei em ação direta",
+      "suspender a execução, no todo ou em parte, de lei declarada inconstitucional por decisão definitiva do STF",
+      "aprovar súmula com efeito vinculante",
+      "julgar a arguição de descumprimento de preceito fundamental"
+     ],
+     "gabarito": 1,
+     "explicacao": "O inciso X dá ao Senado a suspensão da execução da lei já declarada inconstitucional pelo STF. As demais funções são do STF.",
+     "fonte": "Constituição Federal, art. 52, X, conforme LegJur (https://www.legjur.com/legislacao/art/CF8800000001988-52); texto oficial do Planalto não aberto"
+    },
+    {
+     "id": "DIR-01-05#12",
+     "tipo": "resposta_curta",
+     "enunciado": "Diferencie o controle difuso do concentrado quanto a quem julga, como a questão surge e aos efeitos, citando o art. 102, § 2º, da CF/88 para as decisões de mérito em ADI e ADC.",
+     "gabarito": "No difuso, qualquer juiz ou tribunal julga em caso concreto, como questão incidental, com efeitos em regra apenas entre as partes. No concentrado, o órgão competente (no STF, por meio de ADI, ADC e ADPF) examina a constitucionalidade como questão principal, em processo objetivo. Pelo art. 102, § 2º, as decisões definitivas de mérito em ADI e ADC têm eficácia contra todos e efeito vinculante.",
+     "explicacao": "Resume a distinção doutrinária e o efeito previsto no art. 102, § 2º.",
+     "fonte": "Melo, F. F., EMERJ, Controle de Constitucionalidade (https://emerj.tjrj.jus.br/files/pages/publicacoes/serieaperfeicoamentodemagistrados/paginas/series/2/Controle_de_Constitucionalidade_104.pdf); CF, art. 102, § 2º, conforme LegJur"
+    }
+   ]
+  }
+ }
+}

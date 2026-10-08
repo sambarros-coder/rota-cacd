@@ -1,0 +1,578 @@
+{
+ "licoes": {
+  "POR-01-03": {
+   "resumo": "Acentuar exige classificar a palavra pela sílaba tônica (oxítona, paroxítona, proparoxítona) e aplicar a regra da classe. O Acordo Ortográfico eliminou acentos de ideia, voo, feiura e pára e manteve os de saída, pôde, pôr e têm.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "Tonicidade: onde está a força da palavra",
+      "paragrafos": [
+       "Toda palavra com mais de uma sílaba tem uma sílaba tônica, a pronunciada com mais intensidade. Conforme a posição dessa sílaba, a palavra é oxítona (última sílaba tônica: café, jacaré), paroxítona (penúltima: mesa, amável) ou proparoxítona (antepenúltima: lâmpada, público).",
+       "Acentuar é registrar por escrito essa tonicidade em certos casos. O acento agudo (´) marca vogal tônica aberta (café, órgão) e o circunflexo (^) marca vogal tônica fechada (você, bênção). Primeiro classifique a palavra pela tonicidade e só depois aplique a regra da sua classe.",
+       "Monossílabos tônicos, como 'já', 'pé' e 'nó', seguem a regra das oxítonas quando terminam em a, e, o. Os átonos, como 'de' e 'me', não recebem acento. Por isso, acentuar não é decorar listas, e sim reconhecer qual regra se aplica à palavra diante de você."
+      ]
+     },
+     {
+      "titulo": "Oxítonas",
+      "paragrafos": [
+       "Acentuam-se as oxítonas terminadas em a, e, o, seguidas ou não de s, e em em ou ens. O acento é agudo se a vogal é aberta e circunflexo se é fechada. Também são acentuadas as oxítonas com os ditongos abertos éi, éu e ói."
+      ],
+      "lista": [
+       "a: sofá, está, já",
+       "e: café, você, cortês",
+       "o: avô, avós, pôr",
+       "em, ens: também, armazém",
+       "ditongos abertos: papéis, troféu, herói"
+      ]
+     },
+     {
+      "titulo": "Paroxítonas",
+      "paragrafos": [
+       "A maioria das paroxítonas não leva acento: mesa, homem, velho. Elas são acentuadas quando terminam em certas sequências. Uma paroxítona é acentuada quando termina em l, n, r, x ou ps (amável, hífen, caráter, tórax, bíceps), em i ou is (júri, lápis), em um ou uns (álbum), em us (vírus), em ã ou ãs (órfã) e em ão ou ãos (órgão).",
+       "Também recebem acento as terminadas em ei ou eis (hóquei). O acento será agudo ou circunflexo conforme o timbre da vogal tônica: cônsul, têxtil, bênção, Estêvão."
+      ]
+     },
+     {
+      "titulo": "Proparoxítonas e proparoxítonas aparentes",
+      "paragrafos": [
+       "Em regra, as proparoxítonas são todas acentuadas: lâmpada, público, médico, último. Muitas palavras terminadas em ditongo crescente (semivogal seguida de vogal, como -ia, -io, -ua) podem ser pronunciadas como proparoxítonas, e por isso são tratadas como proparoxítonas aparentes e também acentuadas: lírio, língua, mágoa, náusea, Islândia.",
+       "Por isso, uma palavra como 'lírio', que a regra das paroxítonas deixaria sem acento (termina em -o, e não em l, i, us...), leva acento. O acento é agudo se a vogal tônica é aberta (náusea) e circunflexo se é fechada (amêndoa, Islândia)."
+      ]
+     },
+     {
+      "titulo": "O que mudou com o Acordo Ortográfico",
+      "paragrafos": [
+       "O Acordo Ortográfico da Língua Portuguesa foi promulgado no Brasil pelo Decreto nº 6.583, de 2008. O Decreto nº 7.875, de 2012, fixou a transição entre as duas normas até 31 de dezembro de 2015, de modo que, a partir de 1º de janeiro de 2016, a nova ortografia passou a ser a única.",
+       "Perderam o acento: o ditongo aberto éi ou ói das paroxítonas (assembleia, ideia, heroico, jiboia); o i e o u tônicos depois de ditongo em paroxítona (feiura, baiuca); o primeiro o ou e dos hiatos oo e ee (voo, enjoo, creem, leem, veem); o acento diferencial de pára, péla, pêlo, pólo e pêra (hoje, para, pela, pelo, polo, pera); e o trema (linguiça, frequência, tranquilo)."
+      ]
+     },
+     {
+      "titulo": "O que continua acentuado",
+      "paragrafos": [
+       "Mantêm acento o i e o u tônicos de hiato quando não vêm depois de ditongo: saída, ruína, faísca, viúva, país, Luís. Já quando formam sílaba com l, m, n, r, z ou nh, não são acentuados: Raul, juiz, rainha.",
+       "Permanecem os acentos diferenciais de pôr (verbo) e por (preposição), e de pôde (passado de poder) e pode (presente). Em fôrma e forma, o acento é facultativo. Os verbos ter e vir têm acento na 3ª pessoa do plural (eles têm, eles vêm) e nos derivados (eles contêm, eles intervêm), mas não na 3ª do singular (ele tem, ele vem). Nos derivados singulares, a oxítona em -em é acentuada por outra regra: ele contém, ele intervém."
+      ]
+     },
+     {
+      "titulo": "Como resolver em prova",
+      "paragrafos": [
+       "Siga uma ordem fixa: separe as sílabas, localize a tônica, classifique a palavra (oxítona, paroxítona ou proparoxítona), confira a terminação e, se houver hiato ou ditongo, aplique as regras do Acordo. Em itens de certo ou errado, desconfie de grafias que mantêm acentos extintos (idéia, vôo, pára).",
+       "Exemplo: em 'Os alunos creem que o voo foi cancelado', não há acento em creem nem em voo, e a frase está correta. Já em 'Os relatórios contêm erros', o circunflexo está certo, porque o sujeito é plural. Se o sujeito fosse singular, escreveríamos 'O relatório contém erros', com acento agudo.",
+       "Treine também a leitura inversa: ao ver um acento, pergunte qual regra o justifica. Se nenhuma explicar, a grafia provavelmente é antiga ou errada. Essa checagem dupla evita perder pontos em itens que usam grafias do período anterior ao Acordo, que são armadilhas frequentes."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Acentuar paroxítona terminada em ditongo éi ou ói (idéia, heróico): pelo Acordo, perde o acento.",
+     "Confundir têm (plural) com tem (singular), e contêm com contém.",
+     "Manter acento em voo, enjoo, creem, leem e veem, que não o têm mais.",
+     "Esquecer que o acento diferencial de pôr e pôde permanece, enquanto o de pára, pêlo e pólo caiu.",
+     "Acentuar feiura (u depois de ditongo em paroxítona) e esquecer que saída, faísca e viúva continuam acentuadas.",
+     "Tratar 'lírio' e 'língua' como paroxítonas comuns e deixá-las sem acento, ignorando as proparoxítonas aparentes."
+    ],
+    "fontes": [
+     "Acordo Ortográfico da Língua Portuguesa, Anexo I do Decreto nº 6.583/2008 (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm)",
+     "Curso sobre o Novo Acordo Ortográfico, CAPES/EduCAPES (https://educapes.capes.gov.br/bitstream/capes/206078/2/NovoAcordoOrtografico_curso.pdf); texto oficial do Acordo conforme planalto.gov.br",
+     "Decreto nº 7.875/2012, que fixa a transição até 31/12/2015 (https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/decreto/d7875.htm)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "POR-01-03#01",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o Acordo Ortográfico, palavras paroxítonas como 'ideia' e 'assembleia' não levam acento gráfico.",
+     "gabarito": "C",
+     "explicacao": "O Acordo suprimiu o acento do ditongo aberto éi das paroxítonas. As oxítonas, como 'papéis' e 'herói', mantêm o acento.",
+     "fonte": "Acordo Ortográfico da Língua Portuguesa, Anexo I do Decreto nº 6.583/2008 (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm)"
+    },
+    {
+     "id": "POR-01-03#02",
+     "tipo": "certo_errado",
+     "enunciado": "Pelo Acordo Ortográfico em vigor, a oxítona 'herói' perdeu o acento, pois o ditongo ói deixou de ser acentuado.",
+     "gabarito": "E",
+     "explicacao": "Só o ditongo aberto das paroxítonas (heroico, jiboia) perdeu o acento. Nas oxítonas, ói, éi e éu continuam acentuados: herói, papéis, troféu.",
+     "fonte": "Acordo Ortográfico da Língua Portuguesa, Anexo I do Decreto nº 6.583/2008 (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm)"
+    },
+    {
+     "id": "POR-01-03#03",
+     "tipo": "certo_errado",
+     "enunciado": "A forma verbal 'têm', com acento circunflexo, é a 3ª pessoa do plural do presente do indicativo do verbo ter; a 3ª do singular é 'tem'.",
+     "gabarito": "C",
+     "explicacao": "O circunflexo distingue o plural (eles têm) do singular (ele tem). O mesmo vale para vir: eles vêm, ele vem.",
+     "fonte": "Acordo Ortográfico da Língua Portuguesa, Anexo I do Decreto nº 6.583/2008 (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm)"
+    },
+    {
+     "id": "POR-01-03#04",
+     "tipo": "certo_errado",
+     "enunciado": "Com o Acordo Ortográfico, o verbo parar, na 3ª pessoa do singular do presente, continua a ser escrito 'pára' para distinguir-se da preposição.",
+     "gabarito": "E",
+     "explicacao": "O acento diferencial de pára foi abolido. Escreve-se 'para' tanto para o verbo quanto para a preposição, e o contexto indica o sentido.",
+     "fonte": "Acordo Ortográfico da Língua Portuguesa, Anexo I do Decreto nº 6.583/2008 (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm)"
+    },
+    {
+     "id": "POR-01-03#05",
+     "tipo": "certo_errado",
+     "enunciado": "A grafia 'pôde' mantém o circunflexo para distinguir a 3ª pessoa do pretérito perfeito de poder da forma 'pode', do presente.",
+     "gabarito": "C",
+     "explicacao": "O texto do Acordo conserva o acento diferencial de pôde (passado) e pode (presente), e também o de pôr (verbo) e por (preposição).",
+     "fonte": "Acordo Ortográfico da Língua Portuguesa, Anexo I do Decreto nº 6.583/2008 (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm)"
+    },
+    {
+     "id": "POR-01-03#06",
+     "tipo": "certo_errado",
+     "enunciado": "Pelas regras vigentes, a palavra 'feiura' é grafada 'feiúra', com acento no u tônico.",
+     "gabarito": "E",
+     "explicacao": "O i ou u tônico depois de ditongo em paroxítona perdeu o acento: feiura, baiuca. Mantém-se em 'saída', pois o i não vem depois de ditongo.",
+     "fonte": "Curso sobre o Novo Acordo Ortográfico, CAPES/EduCAPES (https://educapes.capes.gov.br/bitstream/capes/206078/2/NovoAcordoOrtografico_curso.pdf); texto oficial do Acordo conforme planalto.gov.br"
+    },
+    {
+     "id": "POR-01-03#07",
+     "tipo": "multipla_escolha",
+     "enunciado": "Assinale a grafia do substantivo que designa o ato de voar, de acordo com as regras vigentes.",
+     "explicacao": "Os hiatos oo perderam o circunflexo no Acordo: voo, enjoo, abençoo. Os hiatos ee têm o mesmo tratamento: creem, leem.",
+     "fonte": "Acordo Ortográfico da Língua Portuguesa, Anexo I do Decreto nº 6.583/2008, Base IX (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm)",
+     "opcoes": [
+      "vôo",
+      "voo",
+      "vóo",
+      "voô"
+     ],
+     "gabarito": 1
+    },
+    {
+     "id": "POR-01-03#08",
+     "tipo": "lacuna",
+     "enunciado": "Quanto à tonicidade, as palavras cuja sílaba tônica é a penúltima, como 'mesa' e 'amável', chamam-se ___.",
+     "aceitas": [
+      "paroxítonas",
+      "paroxítona",
+      "paroxitonas",
+      "paroxitona"
+     ],
+     "explicacao": "Paroxítona tem a penúltima sílaba tônica. Oxítona tem a última e proparoxítona, a antepenúltima.",
+     "fonte": "Acordo Ortográfico da Língua Portuguesa, Anexo I do Decreto nº 6.583/2008 (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm)"
+    },
+    {
+     "id": "POR-01-03#09",
+     "tipo": "multipla_escolha",
+     "enunciado": "Assinale a opção em que todas as palavras estão grafadas de acordo com o Acordo Ortográfico em vigor.",
+     "opcoes": [
+      "ideia, enjoo, linguiça, para (verbo)",
+      "idéia, enjoo, linguiça, para (verbo)",
+      "ideia, enjôo, linguiça, pára (verbo)",
+      "ideia, enjoo, lingüiça, para (verbo)"
+     ],
+     "gabarito": 0,
+     "explicacao": "Perderam o acento ideia, enjoo e pára; o trema de lingüiça foi eliminado. Só a primeira opção reúne grafias vigentes.",
+     "fonte": "Curso sobre o Novo Acordo Ortográfico, CAPES/EduCAPES (https://educapes.capes.gov.br/bitstream/capes/206078/2/NovoAcordoOrtografico_curso.pdf); texto oficial do Acordo conforme planalto.gov.br"
+    },
+    {
+     "id": "POR-01-03#10",
+     "tipo": "associar",
+     "enunciado": "Associe cada classe de palavra, quanto à tonicidade, ao exemplo acentuado.",
+     "pares": [
+      [
+       "Oxítona",
+       "armazém"
+      ],
+      [
+       "Paroxítona",
+       "órfã"
+      ],
+      [
+       "Proparoxítona",
+       "lâmpada"
+      ]
+     ],
+     "explicacao": "Armazém tem a última sílaba tônica; órfã, a penúltima; lâmpada, a antepenúltima.",
+     "fonte": "Acordo Ortográfico da Língua Portuguesa, Anexo I do Decreto nº 6.583/2008 (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm)"
+    },
+    {
+     "id": "POR-01-03#11",
+     "tipo": "flashcard",
+     "frente": "Quais acentos diferenciais permanecem e quais caíram no Acordo?",
+     "verso": "Permanecem pôr (verbo) / por (preposição) e pôde (passado) / pode (presente). Caíram pára, péla, pêlo, pólo e pêra. O acento de fôrma é facultativo.",
+     "explicacao": "Resumo das regras de acento diferencial do Acordo.",
+     "fonte": "Acordo Ortográfico da Língua Portuguesa, Anexo I do Decreto nº 6.583/2008 (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm)"
+    },
+    {
+     "id": "POR-01-03#12",
+     "tipo": "flashcard",
+     "frente": "Em 'saída', 'faísca' e 'país' há acento. Em 'juiz', 'Raul' e 'rainha', não. Por quê?",
+     "verso": "O i e o u tônicos de hiato são acentuados quando formam sílaba sozinhos ou com s (país). Se a sílaba termina em l, m, n, r, z ou nh (Raul, juiz, rainha), não se acentuam.",
+     "explicacao": "Regra do i e do u tônicos.",
+     "fonte": "Acordo Ortográfico da Língua Portuguesa, Anexo I do Decreto nº 6.583/2008 (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm)"
+    }
+   ]
+  },
+  "ING-01-01": {
+   "resumo": "A prova de Inglês do CACD tem duas faces: na primeira fase, itens C/E de leitura (acerto +1, erro −0,25); na segunda, uma prova escrita de 4 horas com redação (70 pontos) e versão (30). Saber a pontuação orienta quando arriscar e como treinar.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "Duas provas, dois objetivos",
+      "paragrafos": [
+       "O concurso de Diplomata do Instituto Rio Branco, organizado pelo Cebraspe, tem a Língua Inglesa em duas fases. Na primeira, o inglês é uma das disciplinas da prova objetiva, que mede se você entende textos escritos. Na segunda, é uma prova escrita própria, que mede se você escreve bem em inglês.",
+       "Os números abaixo seguem o Edital nº 1/2026 e a retificação do Edital nº 2/2026. Os editais mudam de um ano para outro, então use esta lição para entender a lógica e confira sempre o edital do seu concurso."
+      ]
+     },
+     {
+      "titulo": "Primeira fase: prova objetiva C/E",
+      "paragrafos": [
+       "A prova objetiva da primeira fase tem 240 itens, divididos entre Língua Portuguesa, História do Brasil, História Mundial, Geografia, Língua Inglesa, Política Internacional, Economia e Direito. O edital não informa quantos itens há por disciplina. A aplicação ocorre em dois períodos, cada um com 3 horas e 30 minutos.",
+       "Cada item é uma afirmação que você julga como Certo (C) ou Errado (E). O acerto vale 1,00 ponto. O erro vale 0,25 ponto negativo. Item em branco ou com marcação dupla vale zero. A prova é eliminatória, e fica fora quem obtiver menos de 120 pontos no total."
+      ]
+     },
+     {
+      "titulo": "O que o programa de inglês cobra na primeira fase",
+      "paragrafos": [
+       "Segundo o programa divulgado, são dois tópicos: compreensão de textos escritos em língua inglesa e itens gramaticais relevantes para a compreensão dos conteúdos semânticos. Em outras palavras, a gramática entra como ferramenta de leitura (por exemplo, perceber o que um modal, um conector ou um quantificador muda no sentido), e não como regra isolada."
+      ]
+     },
+     {
+      "titulo": "A matemática do chute",
+      "paragrafos": [
+       "Como o erro custa apenas 0,25 e o acerto vale 1,00, o ponto de equilíbrio é uma chance de acerto de 20%. Abaixo disso, chutar tira pontos em média. Acima, ajuda.",
+       "Para um item C/E em que você não tem nenhuma informação, a chance de acertar é 50%. O valor esperado é 0,5 × 1 + 0,5 × (−0,25) = 0,375 ponto. Quanto mais pistas você tiver, maior a chance e maior o valor esperado. Mesmo sem pista alguma o valor esperado é positivo (0,375 ponto); por isso deixar em branco só se justifica quando você estimar que sua chance de acerto está abaixo de 20%."
+      ]
+     },
+     {
+      "titulo": "Segunda fase: redação e versão",
+      "paragrafos": [
+       "A prova escrita de Língua Inglesa dura 4 horas e tem duas tarefas, ambas manuscritas. A redação, sobre tema geral, vale 70 pontos e deve ter de 65 a 70 linhas. A versão, que é a tradução de um texto em português para o inglês, vale 30 pontos. O texto-fonte tem de 20 a 40 linhas, e essa contagem se refere ao texto em português, não à sua versão.",
+       "O programa descreve a redação como expressão em nível avançado, com domínio da gramática, qualidade e propriedade no emprego da linguagem, organização e desenvolvimento de ideias. Na versão, avaliam-se a fidelidade ao texto-fonte, o respeito à qualidade e ao registro do texto-fonte e a correção morfossintática e lexical."
+      ]
+     },
+     {
+      "titulo": "Como a nota da segunda fase é montada",
+      "paragrafos": [
+       "No Anexo IV, a redação soma organização e desenvolvimento (até 45 pontos) com o aspecto gramatical (até 25). Esse aspecto é calculado como 25 menos 0,5 por erro: com 8 erros, são 21 pontos. Cada linha abaixo do mínimo tira 1 ponto. Na versão, a fidelidade vale até 15 e a gramática até 15, também com perda de 0,5 por erro.",
+       "A versão ainda é penalizada por omissões: 0,50 ponto para omissão leve (um substantivo comum, um verbo ou trecho pequeno que não prejudica a compreensão) e 1,00 ponto para omissão grave (período ou trecho que prejudica a compreensão). Texto fora do tema, ausência de texto ou nota de correção gramatical igual a zero levam à nota zero na tarefa; marca de identificação leva à anulação da prova. As notas de correção gramatical não ficam abaixo de zero."
+      ]
+     },
+     {
+      "titulo": "Estratégia por fase",
+      "paragrafos": [
+       "Na primeira fase, treine leitura rápida e julgamento de afirmações: o objetivo é decidir C ou E com base no texto, e não no que você sabe do assunto. Na segunda fase, treine produzir textos no limite de linhas e revisar erros gramaticais, porque cada erro tem custo direto na nota.",
+       "Como as duas fases pedem habilidades diferentes, o estudo deve ter dois blocos: leitura com itens C/E e escrita com correção. O restante deste módulo trabalha o primeiro bloco, e as lições seguintes de técnica detalham o método."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Achar que o inglês da segunda fase é igual ao da primeira: na primeira você lê e julga; na segunda, escreve redação e versão.",
+     "Confundir o limite de linhas da versão: as 20 a 40 linhas se referem ao texto em português.",
+     "Esquecer a penalidade de 0,25 por erro e chutar sem critério, ou o contrário, deixar em branco itens em que já há alguma pista.",
+     "Escrever menos linhas que o mínimo na redação: cada linha faltante custa 1 ponto.",
+     "Usar números de editais antigos (pontuação, tempo de prova, tipo de tarefa): sempre confira o edital vigente.",
+     "Omitir trechos na versão para evitar erros: a omissão é penalizada à parte."
+    ],
+    "fontes": [
+     "Cebraspe, Edital nº 1/2026 do Concurso de Diplomata, itens 5.1, 5.2, 5.3, 5.13 (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/7FA89C5320E2811FDD1A8276DD6526120704864996EA8C6DED7A6DDB5D0987D7.pdf)",
+     "Cebraspe, Edital nº 2/2026 (retificação), itens 6.2 e Anexo IV (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/E446A80B75446EF806F1811398ACD7DD63343ADEEA56207EC7E253BA3C4A8F04.pdf)",
+     "Programa de Língua Inglesa conforme edital verticalizado da Estratégia Concursos (https://mkt.estrategia.com/concursos/wp-content/uploads/sites/2/2026/02/ID-457-CACD-–-Diplomata-–-Edital-Verticalizado.pdf); fonte secundária, Anexo III do edital não consultado diretamente"
+    ]
+   },
+   "itens": [
+    {
+     "id": "ING-01-01#01",
+     "tipo": "certo_errado",
+     "enunciado": "Na segunda fase, a prova de Língua Inglesa tem duração de 4 horas e é composta por redação e versão para o inglês.",
+     "gabarito": "C",
+     "explicacao": "Segundo o Edital nº 2/2026, a prova dura 4 horas e tem duas tarefas: redação (65 a 70 linhas) e versão de texto em português de 20 a 40 linhas.",
+     "fonte": "Cebraspe, Edital nº 2/2026 (retificação), itens 6.2 e Anexo IV (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/E446A80B75446EF806F1811398ACD7DD63343ADEEA56207EC7E253BA3C4A8F04.pdf)"
+    },
+    {
+     "id": "ING-01-01#02",
+     "tipo": "certo_errado",
+     "enunciado": "Na prova escrita de Inglês, a versão vale 70 pontos e a redação vale 30.",
+     "gabarito": "E",
+     "explicacao": "Os valores são o inverso: a redação vale 70 pontos e a versão, 30.",
+     "fonte": "Cebraspe, Edital nº 2/2026 (retificação), itens 6.2 e Anexo IV (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/E446A80B75446EF806F1811398ACD7DD63343ADEEA56207EC7E253BA3C4A8F04.pdf)"
+    },
+    {
+     "id": "ING-01-01#03",
+     "tipo": "certo_errado",
+     "enunciado": "A faixa de 20 a 40 linhas da versão se refere ao texto em português a ser vertido para o inglês.",
+     "gabarito": "C",
+     "explicacao": "A retificação do edital explicita que, nas versões, a contagem de linhas se refere ao texto em português.",
+     "fonte": "Cebraspe, Edital nº 2/2026 (retificação), itens 6.2 e Anexo IV (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/E446A80B75446EF806F1811398ACD7DD63343ADEEA56207EC7E253BA3C4A8F04.pdf)"
+    },
+    {
+     "id": "ING-01-01#04",
+     "tipo": "certo_errado",
+     "enunciado": "Na prova objetiva da primeira fase, cada item errado anula um item certo, de modo que o erro vale menos 1,00 ponto.",
+     "gabarito": "E",
+     "explicacao": "O erro vale 0,25 ponto negativo, não 1,00. O acerto vale 1,00 e o item em branco, zero.",
+     "fonte": "Cebraspe, Edital nº 1/2026 do Concurso de Diplomata, itens 5.1, 5.2, 5.3, 5.13 (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/7FA89C5320E2811FDD1A8276DD6526120704864996EA8C6DED7A6DDB5D0987D7.pdf)"
+    },
+    {
+     "id": "ING-01-01#05",
+     "tipo": "certo_errado",
+     "enunciado": "Segundo o Edital nº 1/2026, o candidato que obtiver menos de 120 pontos na prova objetiva da primeira fase é eliminado.",
+     "gabarito": "C",
+     "explicacao": "O edital fixa o corte de 120,00 pontos, em uma prova de 240 pontos.",
+     "fonte": "Cebraspe, Edital nº 1/2026 do Concurso de Diplomata, itens 5.1, 5.2, 5.3, 5.13 (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/7FA89C5320E2811FDD1A8276DD6526120704864996EA8C6DED7A6DDB5D0987D7.pdf)"
+    },
+    {
+     "id": "ING-01-01#06",
+     "tipo": "certo_errado",
+     "enunciado": "A prova de Língua Inglesa da primeira fase consiste em uma redação em inglês, avaliada por critérios gramaticais.",
+     "gabarito": "E",
+     "explicacao": "A primeira fase é objetiva, com itens C/E, e inclui o inglês entre as oito disciplinas. A redação é da segunda fase.",
+     "fonte": "Cebraspe, Edital nº 1/2026 do Concurso de Diplomata, itens 5.1, 5.2, 5.3, 5.13 (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/7FA89C5320E2811FDD1A8276DD6526120704864996EA8C6DED7A6DDB5D0987D7.pdf)"
+    },
+    {
+     "id": "ING-01-01#07",
+     "tipo": "resposta_curta",
+     "enunciado": "Qual a pontuação de um acerto, de um erro e de um item em branco na prova objetiva da primeira fase?",
+     "gabarito": "Acerto: +1,00. Erro: −0,25. Em branco ou marcação dupla: 0,00.",
+     "explicacao": "Pontuação definida no subitem 5.13 do Edital nº 1/2026.",
+     "fonte": "Cebraspe, Edital nº 1/2026 do Concurso de Diplomata, itens 5.1, 5.2, 5.3, 5.13 (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/7FA89C5320E2811FDD1A8276DD6526120704864996EA8C6DED7A6DDB5D0987D7.pdf)"
+    },
+    {
+     "id": "ING-01-01#08",
+     "tipo": "resposta_curta",
+     "enunciado": "Em um item C/E sem nenhuma informação (50% de chance de acerto), qual é o valor esperado de marcar, com acerto +1 e erro −0,25?",
+     "gabarito": "0,375 ponto (0,5 × 1 + 0,5 × (−0,25)).",
+     "explicacao": "O valor esperado positivo mostra que, sem informação alguma, ainda compensa marcar, desde que o acerto valha 1 e o erro, 0,25.",
+     "fonte": "Cebraspe, Edital nº 1/2026 do Concurso de Diplomata, itens 5.1, 5.2, 5.3, 5.13 (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/7FA89C5320E2811FDD1A8276DD6526120704864996EA8C6DED7A6DDB5D0987D7.pdf)"
+    },
+    {
+     "id": "ING-01-01#09",
+     "tipo": "resposta_curta",
+     "enunciado": "Pela fórmula do Anexo IV, qual a nota do aspecto gramatical da redação de quem cometeu 8 erros?",
+     "gabarito": "21 pontos, pois 25 − 0,5 × 8 = 21.",
+     "explicacao": "A fórmula do aspecto gramatical da redação é 25 − 0,5 × NE, em que NE é o número de erros.",
+     "fonte": "Cebraspe, Edital nº 2/2026 (retificação), itens 6.2 e Anexo IV (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/E446A80B75446EF806F1811398ACD7DD63343ADEEA56207EC7E253BA3C4A8F04.pdf)"
+    },
+    {
+     "id": "ING-01-01#10",
+     "tipo": "resposta_curta",
+     "enunciado": "Quais são as duas tarefas da prova escrita de Inglês na segunda fase, com seus valores e limites de linhas?",
+     "gabarito": "Redação: 70 pontos, 65 a 70 linhas. Versão para o inglês: 30 pontos, texto-fonte de 20 a 40 linhas.",
+     "explicacao": "Dados do item 6.2 do edital conforme retificado.",
+     "fonte": "Cebraspe, Edital nº 2/2026 (retificação), itens 6.2 e Anexo IV (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/E446A80B75446EF806F1811398ACD7DD63343ADEEA56207EC7E253BA3C4A8F04.pdf)"
+    },
+    {
+     "id": "ING-01-01#11",
+     "tipo": "flashcard",
+     "frente": "Primeira fase (objetiva): quantos itens, que formato e qual o corte?",
+     "verso": "240 itens C/E em 8 disciplinas, incluindo Inglês. Acerto +1, erro −0,25, branco 0. Eliminado quem tiver menos de 120 pontos.",
+     "explicacao": "Resumo das regras da prova objetiva do Edital nº 1/2026.",
+     "fonte": "Cebraspe, Edital nº 1/2026 do Concurso de Diplomata, itens 5.1, 5.2, 5.3, 5.13 (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/7FA89C5320E2811FDD1A8276DD6526120704864996EA8C6DED7A6DDB5D0987D7.pdf)"
+    },
+    {
+     "id": "ING-01-01#12",
+     "tipo": "flashcard",
+     "frente": "Segunda fase de Inglês: como é a nota da versão?",
+     "verso": "Fidelidade até 15 e gramática até 15 (15 − 0,5 por erro), menos penalidades por omissão: 0,50 para leve e 1,00 para grave.",
+     "explicacao": "Resumo do Anexo IV para a versão.",
+     "fonte": "Cebraspe, Edital nº 2/2026 (retificação), itens 6.2 e Anexo IV (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/E446A80B75446EF806F1811398ACD7DD63343ADEEA56207EC7E253BA3C4A8F04.pdf)"
+    }
+   ]
+  },
+  "ING-01-02": {
+   "resumo": "Para julgar itens C/E sobre textos em inglês, localize a palavra-chave, confira o escopo (quantificadores como few e a few) e o qualificador (may, must, unless, although). Cada erro custa 0,25 ponto, por isso a decisão deve vir do texto.",
+   "status": "rascunho",
+   "aula": {
+    "secoes": [
+     {
+      "titulo": "O que um item C/E de Inglês pede",
+      "paragrafos": [
+       "Um item certo ou errado (C/E) apresenta uma afirmação sobre o texto. Você julga se ela é compatível com o que o texto diz. O texto é a única fonte: seu conhecimento do mundo e sua opinião não contam. Se o texto não sustenta a afirmação, ela é errada, mesmo que seja verdadeira na vida real.",
+       "O método desta lição tem três passos: palavra-chave, escopo e qualificador. Ele serve para decidir com base em evidência e evitar a leitura apressada que custa 0,25 ponto por erro."
+      ]
+     },
+     {
+      "titulo": "Passo 1: a palavra-chave",
+      "paragrafos": [
+       "Palavra-chave é o termo do item que identifica o assunto: um nome, um número, um verbo central. Localize-a no texto e leia a frase inteira ao redor, não apenas a palavra.",
+       "Exemplo: o texto diz 'The council approved the bike lanes'. O item afirma 'The council rejected the bike lanes'. A palavra-chave é 'bike lanes', e o verbo oposto (rejected versus approved) torna o item errado. Procure sinônimos, porque a banca costuma parafrasear: 'approved' pode virar 'gave the go-ahead'."
+      ]
+     },
+     {
+      "titulo": "Passo 2: o escopo",
+      "paragrafos": [
+       "Escopo é o tamanho da afirmação: quantos, quando, onde, quem. Quantificadores como all, most, some, few, none e only mudam o escopo. Compare o texto 'a few residents complained' com o item 'most residents complained': o escopo foi inflado, e o item é errado.",
+       "Atenção a few e a few. Few significa pouco, em geral com a ideia de 'não o bastante'. A few significa alguns, com a ideia de 'o bastante'. 'Few visitors came' é uma notícia ruim, e 'a few visitors came' é neutra ou boa."
+      ]
+     },
+     {
+      "titulo": "Passo 3: o qualificador",
+      "paragrafos": [
+       "Qualificador é a palavra que dá o grau de certeza ou a condição da informação. Modais como may, might e could indicam possibilidade, e must indica dedução de que algo é verdade. Segundo o British Council, can't indica que o falante tem certeza de que algo não é possível. Um texto que diz 'may have contributed' não prova nada; um item que afirma 'proved' erra.",
+       "Veja os principais qualificadores e o que eles fazem com o sentido.",
+       "Unless é usado para dizer o que acontece se outra coisa não acontece. 'The museum will not extend its hours unless attendance rises' significa que a ampliação depende do aumento do público. O item 'will extend regardless of attendance' é errado.",
+       "Although e despite ligam ideias que se contrapõem, e os dois fatos ocorrem. Although vem seguido de sujeito e verbo; despite, de substantivo, pronome ou verbo com -ing (ou de the fact that + sujeito e verbo). 'Despite the rain, the match went ahead' quer dizer que a partida ocorreu."
+      ],
+      "tabela": {
+       "cabecalho": [
+        "Expressão",
+        "Sentido",
+        "Cuidado no item"
+       ],
+       "linhas": [
+        [
+         "may, might, could",
+         "possibilidade",
+         "Não vire certeza (proved, shows)."
+        ],
+        [
+         "must",
+         "dedução com forte convicção",
+         "Não é fato comprovado, é inferência."
+        ],
+        [
+         "hardly any, hardly ever",
+         "quase nenhum, quase nunca",
+         "Não é 'nenhum' nem 'metade'."
+        ],
+        [
+         "unless",
+         "se não (condição)",
+         "Inverta a condição com cuidado."
+        ],
+        [
+         "although, despite",
+         "concessão: algo ocorre apesar de uma dificuldade",
+         "Os dois fatos são verdadeiros."
+        ]
+       ]
+      }
+     },
+     {
+      "titulo": "Um item resolvido passo a passo",
+      "paragrafos": [
+       "Texto: 'The ministry says the new rule may reduce delays, although hardly any airlines have changed their schedules so far.' Item: The ministry guarantees that the new rule will reduce delays.",
+       "Palavra-chave: 'rule' e 'reduce delays'. Qualificador: o texto diz 'may reduce', possibilidade, e o item diz 'guarantees ... will', certeza. Conclusão: item errado. Note que o resto do item combina com o texto; basta um qualificador trocado para errar.",
+       "Agora um segundo item sobre o mesmo texto: 'Few airlines have adjusted their schedules.' Escopo: 'hardly any' quer dizer quase nenhuma, então 'few' é compatível. Item certo."
+      ]
+     },
+     {
+      "titulo": "Armadilhas e gestão de risco",
+      "paragrafos": [
+       "As armadilhas mais comuns são inverter o sentido (approved versus rejected), inflar o escopo (some virar most), trocar a causa e a consequência, atribuir certeza ao que é possibilidade e misturar sujeitos. Quando duas partes do item são independentes, ambas precisam estar sustentadas: uma só parte errada torna o item errado.",
+       "Se, depois do método, ainda houver dúvida, lembre que o erro custa 0,25 e o acerto vale 1,00. Com alguma evidência a favor de uma resposta, vale marcar."
+      ]
+     }
+    ],
+    "pegadinhas": [
+     "Julgar pelo que você sabe do tema e não pelo que o texto diz.",
+     "Ignorar o quantificador: 'a few' e 'most' não são equivalentes.",
+     "Transformar 'may' ou 'might' em certeza no item (proved, demonstrates, shows).",
+     "Confundir 'few' (pouco, insuficiente) com 'a few' (alguns, suficiente).",
+     "Esquecer que 'unless' equivale a 'se não' e inverter a condição.",
+     "Marcar item como certo só porque uma de suas partes está certa, sem checar o resto."
+    ],
+    "fontes": [
+     "British Council LearnEnglish, 'Quantifiers: few, a few, little and a bit of' (https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2-grammar/quantifiers-few-a-few-little-a-bit?page=1)",
+     "British Council LearnEnglish, página sobre modais de possibilidade e dedução (https://learnenglish.britishcouncil.org/node/1073)",
+     "British Council LearnEnglish, 'Contrasting ideas: although, despite and others' (https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/contrasting-ideas-although-despite-others?page=8)",
+     "Britannica Dictionary, verbete 'unless' (https://www.britannica.com/dictionary/unless)",
+     "Oxford Learner's Dictionaries, verbete 'hardly' (https://www.oxfordlearnersdictionaries.com/definition/english/hardly)",
+     "Cebraspe, Edital nº 1/2026 do Concurso de Diplomata, itens 5.1, 5.2, 5.3, 5.13 (https://cdn.cebraspe.org.br/concursos/IRBR_26_DIPLOMACIA/arquivos/7FA89C5320E2811FDD1A8276DD6526120704864996EA8C6DED7A6DDB5D0987D7.pdf)"
+    ]
+   },
+   "itens": [
+    {
+     "id": "ING-01-02#01",
+     "tipo": "certo_errado",
+     "enunciado": "Texto: 'The city council approved the new bike lanes last week, although a few residents complained about the loss of parking spaces.' Item: Some residents complained about the loss of parking spaces.",
+     "gabarito": "C",
+     "explicacao": "'A few' equivale a 'alguns'. O texto sustenta que ao menos alguns moradores reclamaram da perda de vagas.",
+     "fonte": "Texto elaborado para este exercício. British Council LearnEnglish, 'Quantifiers: few, a few, little and a bit of' (https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2-grammar/quantifiers-few-a-few-little-a-bit?page=1)"
+    },
+    {
+     "id": "ING-01-02#02",
+     "tipo": "certo_errado",
+     "enunciado": "Texto: 'The city council approved the new bike lanes last week, although a few residents complained about the loss of parking spaces.' Item: Most residents opposed the bike lanes.",
+     "gabarito": "E",
+     "explicacao": "O texto fala em 'a few residents', um grupo pequeno, e não em maioria. O item infla o escopo.",
+     "fonte": "Texto elaborado para este exercício. British Council LearnEnglish, 'Quantifiers: few, a few, little and a bit of' (https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2-grammar/quantifiers-few-a-few-little-a-bit?page=1)"
+    },
+    {
+     "id": "ING-01-02#03",
+     "tipo": "certo_errado",
+     "enunciado": "Texto: 'Few visitors stayed for the second day of the fair, so the organisers are considering a shorter event next year.' Item: The organisers plan to extend the fair next year.",
+     "gabarito": "E",
+     "explicacao": "O texto diz que os organizadores consideram um evento mais curto, o oposto de estender.",
+     "fonte": "Texto elaborado para este exercício. British Council LearnEnglish, 'Quantifiers: few, a few, little and a bit of' (https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2-grammar/quantifiers-few-a-few-little-a-bit?page=1)"
+    },
+    {
+     "id": "ING-01-02#04",
+     "tipo": "certo_errado",
+     "enunciado": "Texto: 'Few visitors stayed for the second day of the fair, so the organisers are considering a shorter event next year.' Item: Low attendance on the second day is presented as a reason for considering a shorter fair.",
+     "gabarito": "C",
+     "explicacao": "'So' liga o baixo número de visitantes no segundo dia à consideração de um evento mais curto.",
+     "fonte": "Texto elaborado para este exercício. British Council LearnEnglish, 'Quantifiers: few, a few, little and a bit of' (https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2-grammar/quantifiers-few-a-few-little-a-bit?page=1)"
+    },
+    {
+     "id": "ING-01-02#05",
+     "tipo": "certo_errado",
+     "enunciado": "Texto: 'The museum will not extend its opening hours unless attendance rises.' Item: Higher attendance is a condition for the museum to extend its opening hours.",
+     "gabarito": "C",
+     "explicacao": "'Unless' significa 'se não'. A ampliação do horário depende de o público aumentar.",
+     "fonte": "Texto elaborado para este exercício. Britannica Dictionary, verbete 'unless' (https://www.britannica.com/dictionary/unless)"
+    },
+    {
+     "id": "ING-01-02#06",
+     "tipo": "certo_errado",
+     "enunciado": "Texto: 'The museum will not extend its opening hours unless attendance rises.' Item: The museum will extend its opening hours whatever happens to attendance.",
+     "gabarito": "E",
+     "explicacao": "O texto condiciona a ampliação ao aumento do público; 'whatever happens' contradiz a condição.",
+     "fonte": "Texto elaborado para este exercício. Britannica Dictionary, verbete 'unless' (https://www.britannica.com/dictionary/unless)"
+    },
+    {
+     "id": "ING-01-02#07",
+     "tipo": "certo_errado",
+     "enunciado": "Texto: 'The report suggests that the drought may have contributed to the rise in food prices.' Item: The report states that the drought caused the rise in food prices.",
+     "gabarito": "E",
+     "explicacao": "'Suggests' e 'may have contributed' indicam possibilidade, e o item a transforma em causa afirmada.",
+     "fonte": "Texto elaborado para este exercício. British Council LearnEnglish, página sobre modais de possibilidade e dedução (https://learnenglish.britishcouncil.org/node/1073)"
+    },
+    {
+     "id": "ING-01-02#08",
+     "tipo": "certo_errado",
+     "enunciado": "Texto: 'Hardly any students passed the first test.' Item: About half of the students passed the first test.",
+     "gabarito": "E",
+     "explicacao": "'Hardly any' significa 'quase nenhum'. Metade dos alunos não condiz com o texto.",
+     "fonte": "Texto elaborado para este exercício. Oxford Learner's Dictionaries, verbete 'hardly' (https://www.oxfordlearnersdictionaries.com/definition/english/hardly)"
+    },
+    {
+     "id": "ING-01-02#09",
+     "tipo": "resposta_curta",
+     "enunciado": "Explique, em português, a diferença de sentido entre 'Few visitors stayed' e 'A few visitors stayed'.",
+     "gabarito": "'Few visitors stayed' indica poucos visitantes, em número insuficiente. 'A few visitors stayed' indica alguns visitantes, em número suficiente ou neutro.",
+     "explicacao": "A diferença está na ideia de 'não o bastante' (few) contra 'alguns, o bastante' (a few).",
+     "fonte": "Texto elaborado para este exercício. British Council LearnEnglish, 'Quantifiers: few, a few, little and a bit of' (https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2-grammar/quantifiers-few-a-few-little-a-bit?page=1)"
+    },
+    {
+     "id": "ING-01-02#10",
+     "tipo": "resposta_curta",
+     "enunciado": "Texto: 'Despite the heavy rain, the match went ahead.' Em uma frase em português, diga o que ocorreu com a partida.",
+     "gabarito": "A partida foi realizada apesar da chuva forte.",
+     "explicacao": "'Despite' marca concessão: a chuva não impediu o jogo, e 'went ahead' indica que ele ocorreu.",
+     "fonte": "Texto elaborado para este exercício. British Council LearnEnglish, 'Contrasting ideas: although, despite and others' (https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/contrasting-ideas-although-despite-others?page=8)"
+    },
+    {
+     "id": "ING-01-02#11",
+     "tipo": "certo_errado",
+     "enunciado": "Texto: 'Although the policy reduced emissions, it also raised energy prices.' Item: According to the text, the policy had two effects: lower emissions and higher energy prices.",
+     "gabarito": "C",
+     "explicacao": "'Although' liga duas ideias em contraste, ambas verdadeiras: redução de emissões e alta nos preços de energia.",
+     "fonte": "Texto elaborado para este exercício. British Council LearnEnglish, 'Contrasting ideas: although, despite and others' (https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/contrasting-ideas-although-despite-others?page=8)"
+    },
+    {
+     "id": "ING-01-02#12",
+     "tipo": "certo_errado",
+     "enunciado": "Texto: 'The lights are off and nobody answers the phone. They must be away.' Item: The speaker infers with strong conviction that they are away.",
+     "gabarito": "C",
+     "explicacao": "'Must', usado para dedução, expressa forte convicção do falante, sem ser fato comprovado.",
+     "fonte": "Texto elaborado para este exercício. British Council LearnEnglish, página sobre modais de possibilidade e dedução (https://learnenglish.britishcouncil.org/node/1073)"
+    }
+   ]
+  }
+ }
+}

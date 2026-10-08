@@ -1,5 +1,5 @@
 export const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-export const norm = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9/., ]/g, '').replace(/\s+/g, ' ').trim();
+export const norm = s => String(s).toLowerCase().replace(/(^|\s)[-\u2212](?=\d)/g, '$1neg').normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9/., ]/g, '').replace(/\s+/g, ' ').trim();
 export function embaralhar(arr, semente) {
   let h = 2166136261; for (const c of semente) { h ^= c.charCodeAt(0); h = Math.imul(h, 16777619); }
   const rnd = () => { h ^= h << 13; h ^= h >>> 17; h ^= h << 5; return ((h >>> 0) % 100000) / 100000; };
